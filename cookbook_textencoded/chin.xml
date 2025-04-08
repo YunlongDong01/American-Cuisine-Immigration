@@ -1,0 +1,1036 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="../cookbooks.xsl"?>
+<cookbook type="general" class1="generalfood" region="ethnic" ethnicgroup="Chinese, Japanese" bookID="1914chin"> 
+<meta>
+<dcTitle>Chinese-Japanese Cook Book</dcTitle>
+<dcCreator>Bosse, Sara</dcCreator>
+<dcCreator>Watanna, Onoto</dcCreator>
+<dcSubject>Cookery, Chinese. Cookery, Japanese. Cookery, American.</dcSubject>
+<dcDescription>Part 1 Chinese Recipes. Rules for Cooking. Soups. Gravy. Fish. Poultry and Game. Meats. Chop Sueys. Chow Mains. Fried Rice. Omelettes. Vegetables. Cakes. Part II. Japanese Recipes. Soups. Fish. Poultry and Game. Omelettes and Custards. Vegetable and Relishes. Cakes, Candies, Sweetmeats. Bean Sprouts and Beverages. List of Chinese and Japanese Groceries. Index.</dcDescription>
+<dcPublisher>Chicago, New York: Rand McNally &amp; Company</dcPublisher>
+<dcContributor>Electronic edition created by Digital &amp; Multimedia Center, Michigan State University Libraries, East Lansing, Michigan, 2002-2003.</dcContributor>
+<dcContributor>Supplementary material by Jan Longone, Anne-Marie Rachman, Peter Berg, Yvonne Lockwood, and Val Berryman</dcContributor>
+<dcDate>1914</dcDate>
+<dcType>Text</dcType>
+<dcFormat>xml-external-parsed-entity</dcFormat>
+<dcFormat>gif</dcFormat>
+<dcFormat>quicktime</dcFormat>
+<dcIdentifier>http://digital.lib.msu.edu/cookbooks/chinesejapanese/chin.xml</dcIdentifier>
+<dcSource>OCLC 16942454</dcSource>
+<dcLanguage>en</dcLanguage>
+<dcRelation>Digitized as part of "Feeding America: The Historic American Cookbook Project." Michigan State University Libraries, East Lansing, Michigan, 2002-2003. http://digital.lib.msu.edu/cookbooks/</dcRelation>
+<dcCoverage>United States</dcCoverage>
+<dcCoverage>Twentieth century</dcCoverage>
+<dcRights>The book digitized here was published in the United States before 1923 and is in the public domain according to U.S. copyright law. The digital version and supplementary materials are made available for all educational uses.</dcRights></meta>
+<front>
+<div type="frontcover">
+ 
+<pb n="front cover" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=1"/>
+<p align="center">Chinese Japanese<lb/>COOK BOOK</p>
+<illustration><description>An image of a woman sitting in Japanese style home, cooking what looks like soup.</description></illustration>
+<p align="center">SARA BOSSE<lb/>
+ONOTO WATANNA</p></div>
+<div type="other">
+ 
+<pb n="NONE OF THE ABOVE" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=2"/>
+<illustration><caption>STAND FAST<lb/><emph rend="ornate">Grant</emph><lb/>ENDOWMENT FUND</caption><description>The seal of the Beatrice V. Grant Stand Fast Endowment Fund.</description></illustration>
+<p align="center">BEATRICE V. GRANT<lb/>
+MSU 1929 - 1965</p><p align="center">PROFESSOR of FOODS &amp; NUTRITION<lb/>COLLECTOR of RARE COOKERY BOOKS</p><p align="center">Her private collection of rare cookery books was donated by her sister, Dr. Rhoda Grant, to the MSU Libraries, May 1984.</p><p align="center">Jan Longone<lb/>Wine &amp; Food Books<lb/>1207 W. Madison<lb/>Ann Arbor, MI 48103<lb/>734-653-4094</p></div>
+<div type="other">
+ 
+<pb n="blank" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=3"/>
+ 
+<pb n="blank" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=4"/>
+</div>
+<div type="halftitlepage">
+ 
+<pb n="half title page" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=5"/>
+<p align="center">CHINESE-JAPANESE<lb/>COOK-BOOK</p></div>
+<div type="other">
+ 
+<pb n="blank" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=6"/>
+</div>
+<div type="titlepage">
+ 
+<pb n="title page" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=7"/>
+<doctitle align="center" size="larger">CHINESE-JAPANESE<lb/>COOK BOOK</doctitle>
+<docauthor align="center">BY<lb/>SARA BOSSE<lb/>AND<lb/>ONOTO WATANNA</docauthor>
+<docimprint align="center">RAND McNALLY &amp; COMPANY<lb/>
+CHICAGO<lb/>
+NEW YORK</docimprint>
+</div>
+<div type="copyrightstmt">
+ 
+<pb n="copyright statement" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=8"/>
+<p align="center">Copyright, 1914,<lb/>by<lb/>RAND, McNALLY &amp; COMPANY</p><p align="center">THE RAND-MCNALLY PRESS<lb/>CHICAGO </p></div>
+<div type="contents">
+ 
+<pb n="table of contents" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=9"/>
+<hd align="center" size="larger">CONTENTS</hd>
+<list><item><emph rend="italic">Preface</emph>.............1</item>
+<hd align="center">PART I CHINESE RECIPES</hd>
+<item align="right">PAGE</item>
+<item>Rules for Cooking..............................<ref target="chin019.gif">9</ref></item>
+<item>Soups.........................................<ref target="chin022.gif">12</ref></item>
+<item>Gravy.........................................<ref target="chin029.gif">19</ref></item>
+<item>Fish..........................................<ref target="chin030.gif">20</ref></item>
+<item>Poultry and Game..............................<ref target="chin037.gif">27</ref></item>
+<item>Meats ........................................<ref target="chin046.gif">36</ref></item>
+<item>Chop Sueys....................................<ref target="chin051.gif">41</ref></item>
+<item>Chow Mains....................................<ref target="chin057.gif">47</ref></item>
+<item>Fried Rice....................................<ref target="chin061.gif">51</ref></item>
+<item>Omelettes.....................................<ref target="chin064.gif">54</ref></item>
+<item>Vegetables....................................<ref target="chin067.gif">57</ref></item>
+<item>Cakes.........................................<ref target="chin074.gif">64</ref></item>
+<hd align="center">PART II JAPANESE RECIPES</hd>
+<item>Soups.........................................<ref target="chin081.gif">71</ref></item>
+<item>Fish .........................................<ref target="chin085.gif">75</ref></item>
+<item>Poultry and Game..............................<ref target="chin089.gif">79</ref></item>
+<item>Omelettes and Custards........................<ref target="chin097.gif">87</ref></item>
+<item>Vegetables and Relishes.......................<ref target="chin103.gif">93</ref></item>
+<item>Cakes, Candies, Sweetmeats...................<ref target="chin114.gif">104</ref></item>
+<item>Bean Sprouts and Beverages...................<ref target="chin119.gif">109</ref></item>
+<item>List of Chinese and Japanese Groceries.......<ref target="chin121.gif">111</ref></item>
+<item><emph rend="italic">Index</emph>.............<ref target="chin123.gif">113</ref></item>
+</list>
+</div>
+<div type="other">
+ 
+<pb n="blank" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=10"/>
+</div>
+<div type="preface">
+ 
+<pb n="1" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=11"/>
+<hd align="center">PREFACE</hd>
+<p>Chinese cooking in recent years has become very popular in America, and certain Japanese dishes are also in high favor. The restaurants are no longer merely the resort of curious idlers, intent upon studying types peculiar to Chinatown, for the Chinese restaurants have pushed their way out of Chinatown and are now found in all parts of the large cities of America. In New York they rub elbows with and challenge competition with the finest eating palaces. Their patronage to-day is of the very best, and many of their dishes are justly famous.</p><p>There is no reason why these same dishes should not be cooked and served in any American home. When it is known how simple and clean are the ingredients used to make up these Oriental dishes, the Westerner will cease to feel that natural repugnance which assails one when about to taste a strange dish of a new and strange land.</p>
+ 
+<pb n="2" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=12"/>
+<p>Bread, butter, and potatoes are never used by the Chinese or Japanese. Tea is drunk plain, with neither cream nor sugar, but great care should be used in its brewing. Rice is indispensable, and should be cooked in that peculiarly delectable fashion of which the Oriental peoples alone are past masters. The secret of the solid, flaky, almost dry, yet thoroughly cooked rice lies in the fact that it is never boiled more than thirty minutes, is covered twenty minutes, never stirred nor disturbed, and set to dry on back of range when cooked, covered with a cloth. Mushy, wet, slimy, overcooked rice is unknown to the Chinese and Japanese. Sweetened rice, as in rice pudding and similar dishes, is unknown. Rice takes the place of such staples as bread and potatoes. Syou, sometimes called Soye, is similar to Worcestershire and similar European sauces. In fact, the latter are all said to be adaptations of the original Chinese syou, and most of these European sauces contain
+ 
+<pb n="3" id="/projects/cookbooks/coldfusion/display.cfm?ID=Chin&#38;PageNum=13"/>
+syou in their makeup. It lends a flavor to any meat dish, and is greatly esteemed by the Oriental peoples.</p><p>In China, with the exception of rice, bonbons, and so on, food is served in one large dish or bowl, out of which all eat, using the chop-sticks. Considerable etiquette governs the manner of picking desired morsels from the main bowls. In high-caste or mandarin families a servant has his place at the foot of the table, but he stands throughout the meal. It is his duty to serve at the table the portions from the main dishes to each individual, and to do what the host generally does for the comfort of those at table. The other servants waiting on table take their orders from him, and he is really there as a sort of proxy for the host.</p><p>In Japan, individual meals are brought in on separate trays to each person. All sit cross-legged upon the floor before their trays. The Japanese consider it gross and vulgar to put
+ 
+<pb n="4" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=14"/>
+food in quantity upon the plate. The portions are very small, the largest being about the size of an egg. There is a striving for daintiness and simplicity.</p><p>For this book only such Chinese and Japanese dishes have been selected as would appeal to the Western palate, and which can be prepared with the kitchen utensils of Western civilization. Many dishes prepared by the Chinese cooks in this country are only modifications of their native dishes. Recipes for the same dish, obtained from different parts of China, vary considerably. The combinations here given are those which experience has proved most easily prepared and most palatable.</p><p>The authors advise any one who intends to cook "Chinese" to go to some Chinese restaurant and taste the various dishes he desires to cook. A good cook always should know what a dish tastes like before he tries to cook it. All cooks can tell how the taste of a strange dish reveals to him
+ 
+<pb n="5" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=15"/>
+many things, and it is often possible to guess of what the dish is composed.</p><p>No cookbooks, so far as the authors know, have ever been published in China. Recipes descend like heirlooms from one generation of cooks to another. The recipes included in this book (the Chinese ones, that is) have been handed down from Vo Ling, a worthy descendant of a long line of noted Chinese cooks, and himself head cook to Gow Gai, one time highest mandarin of Shanghai. They are all genuine, and were given as an especial expression of respect by a near relative of the famous family of Chinese cooks.</p></div>
+<div type="other">
+ 
+<pb n="blank" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=16"/>
+</div>
+</front>
+<body>
+<chapter>
+ 
+<pb n="NONE OF THE ABOVE" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=17"/>
+<hd align="center">PART I<lb/>CHINESE RECIPES</hd>
+ 
+<pb n="blank" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=18"/>
+<section>
+ 
+<pb n="9" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=19"/>
+<hd align="center">RULES FOR COOKING</hd>
+<subsection class1="generalfood" class2="household">
+<hd align="center">GENERAL</hd>
+<p>The first and the most important rule for Chinese cooking is cleanliness, first of the hands, second of the utensils, and third of the food.</p><p>Meat should not be washed, but should be rinsed in cold or lukewarm water and, if necessary, singed over a hot flame and scraped with a sharp knife.</p><p>All vegetables and fruit should be washed in cold water,--if necessary, in fifty different waters.</p><p>Never use soap to wash saucepans. Use washing soda or sand.</p><p>All cloths and dish towels should be boiled and rinsed thoroughly.</p><p>Care must be taken to measure accurately the ingredients of recipes, for the spices and relishes used in Chinese kitchens are exceedingly hot and pronounced in flavor.</p><p>To make rich stock for soup use
+ 
+<pb n="10" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=20"/>
+only a quart of water to every pound of veal, mutton, or beef bone.</p><p>To determine whether a fish is fresh, watch that its flesh is firm and thick, its scales glistening, and its eyes prominent.</p><p>When dropped into a bowl or pan containing cold water, eggs that are absolutely fresh will immediately sink to the bottom and rest there; eggs which are not perfectly fresh will stand on end or rise a little.</p><p>Delicious dishes can be obtained only from the use of the purest and best quality of ingredients. A good cook needs to be as well a discriminating purchaser.</p><p>Glass measures recording pints and quarts of liquid and ounces and pounds of solids (like sugar), with the fractions thereof, are handy and sanitary.</p></subsection>
+<subsection class1="breadsweets">
+<recipe class1="breadsweets" ethnicgroup="Chinese"><p><purpose rend="bold" align="center" placement="heading">TO BOIL RICE</purpose>
+Use an iron pot. Wash the <ingredient>rice</ingredient> thoroughly in many waters, until, in fact, the <ingredient>water</ingredient> is as clear as for drinking. To one cupful of <ingredient>rice</ingredient> add
+ 
+<pb n="11" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=21"/>
+one and a quarter cupfuls of <ingredient>cold water.</ingredient> Cover tight, and boil slowly half an hour--no more. On no account stir. <ingredient>Rice</ingredient> should not be disturbed till it is taken up; that is the secret of the dry, finely cooked Chinese <ingredient>rice.</ingredient> Set on back of range, covered with a clean cloth or napkin, until ready to serve. <ingredient>Rice</ingredient> should be served in individual bowls, replenished as soon as empty throughout the meal. With the Chinese it takes the place of bread or potatoes. <ingredient>Salt</ingredient> is not added until it is served.</p></recipe>
+</subsection>
+<subsection class1="beverages">
+<recipe class1="beverages" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">TEA</purpose>
+The quantity of <ingredient>tea</ingredient> used depends on the quality, and the taste of the individual. Rinse the pot with boiling <ingredient>water</ingredient> before putting in the <ingredient>tea.</ingredient> The <ingredient>water</ingredient> should just come to a boil--no more. Pour on the <ingredient>tea leaves.</ingredient> Let it stand for two or three minutes, but on no account must it be allowed to boil. Strain <ingredient>tea</ingredient> from leaves, and serve pure, if Chinese <ingredient>tea</ingredient> is used. See more about <ingredient>tea</ingredient> on page 109.</p></recipe>
+</subsection>
+</section>
+<section class1="soups">
+ 
+<pb n="12" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=22"/>
+<hd align="center" rend="bold">SOUPS</hd>
+<recipe class1="soups" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">YEA FOO MAIN</purpose>
+One quart of <ingredient>soup stock;</ingredient> one quarter pound of <ingredient>mushrooms;</ingredient> three stalks of <ingredient>celery;</ingredient> one eighth clove of <ingredient>garlic;</ingredient> six <ingredient>water chestnuts;</ingredient> one quarter pound of <ingredient>vermicelli;</ingredient> one and one quarter teaspoonfuls of <ingredient>salt;</ingredient> one teaspoonful of <ingredient>syou</ingredient> (<ingredient>Chinese sauce</ingredient>).</p><p>Have the soup stock boiling hot. Then wash thoroughly in cold water all the above vegetables, and cut in small pieces. Add to the soup one tablespoonful of syou, and the <ingredient>salt</ingredient> and <ingredient>pepper.</ingredient> Let all boil twenty minutes; then add the <ingredient>vermicelli</ingredient> and boil fifteen minutes more. Serve with <ingredient>hard-boiled eggs</ingredient> cut in quarters.</p></recipe>
+<recipe class1="soups" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">YAT KO MAIN</purpose>
+One quart of <ingredient>soup stock;</ingredient> one quarter pound of <ingredient>noodles;</ingredient> one and one half teaspoonfuls of <ingredient>salt;</ingredient> one quarter pound of <ingredient>minced ham;</ingredient> one tablespoonful
+ 
+<pb n="13" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=23"/>
+of <ingredient>syou;</ingredient> one small <ingredient>onion;</ingredient> one stalk of <ingredient>celery.</ingredient></p><p>Boil the noodles until tender--about ten minutes. Then remove from the <ingredient>hot water,</ingredient> and put in <ingredient>cold water</ingredient> to soak, while preparing the soup. To one quart of good soup stock add one <ingredient>onion</ingredient> and one stalk of <ingredient>celery,</ingredient> chopped fine, <ingredient>pepper</ingredient> and <ingredient>salt,</ingredient> and one tablespoonful of syou. Boil ten minutes. Remove noodles from the <ingredient>cold water,</ingredient> add them to the soup, and boil for five minutes more. The <ingredient>ham</ingredient> should be shredded. Just before serving sprinkle it on top.</p></recipe>
+<recipe class1="soups" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">SOUP STOCK</purpose>
+Save all <ingredient>beef,</ingredient> <ingredient>veal,</ingredient> and <ingredient>chicken bones</ingredient> and clean pieces of <ingredient>meat;</ingredient> also the <ingredient>feet of chickens and the giblets.</ingredient> Wash the chicken feet and skin them, by first scalding in boiling water. Cover all the above with cold water and let it boil from five to eight hours slowly, with <ingredient>salt</ingredient> to taste. Drain liquor from bones, and set away to
+ 
+<pb n="14" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=24"/>
+cool. When cold it will be a thick jelly, and is used as the foundation for various soups and gravies.</p></recipe>
+<recipe class1="soups" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">MO KU GAI T'ONG<lb/>(Spring Chicken Soup with Mushrooms)</purpose>
+Two and one half pounds of <ingredient>chicken;</ingredient> one quarter pound of lean <ingredient>pork;</ingredient> one quarter pound of <ingredient>dried mushrooms;</ingredient> one dozen <ingredient>lotus seeds;</ingredient> three stalks of <ingredient>celery;</ingredient> one teaspoonful of <ingredient>salt;</ingredient> one tablespoonful of <ingredient>syou;</ingredient> one <ingredient>onion.</ingredient></p><p>Clean a fresh young <ingredient>chicken</ingredient> of about two and one half pounds. Cut off all the flesh; put the <ingredient>bones,</ingredient> with <ingredient>liver</ingredient> and <ingredient>gizzard,</ingredient> into three pints of <ingredient>cold water,</ingredient> and boil for two hours, adding <ingredient>water</ingredient> if it boils away. While the stock is boiling, prepare the following: Cut up the <ingredient>chicken meat</ingredient> into small pieces. Cut up very fine one quarter pound of lean <ingredient>pork.</ingredient> Wash and soak in lukewarm water one quarter pound of <ingredient>dried mushrooms.</ingredient> Pull off all the stalks. Peel and cut a dozen lotus <ingredient>seeds or water chestnuts.</ingredient> Chop three stalks of <ingredient>celery</ingredient>
+ 
+<pb n="15" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=25"/>
+very fine, and also one <ingredient>onion.</ingredient> Pour off the liquor from the <ingredient>bones,</ingredient> and strain. Cut up <ingredient>liver</ingredient> and <ingredient>gizzard</ingredient> fine and return to stock. Add all the ingredients, with one teaspoonful of <ingredient>salt</ingredient> and one tablespoonful of syou. Boil all together for one hour.</p></recipe>
+<recipe class1="soups" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">GAI GRUN YUNG WAA<lb/>(Bird's-nest Soup)</purpose>
+One half pound of <ingredient>bird's nest;</ingredient> one pint of <ingredient>chicken stock;</ingredient> one quarter pound of <ingredient>cooked breast of chicken;</ingredient> one <ingredient>boiled egg;</ingredient> one quarter pound of <ingredient>minced ham;</ingredient> one teaspoonful of <ingredient>salt.</ingredient></p><p>To make this soup, the bird's nest is first boiled an hour, then drained and put into cold water. Meanwhile the cooked <ingredient>chicken meat</ingredient> is well pounded, so as not to be in large or hard pieces, and a cupful of the <ingredient>cold stock </ingredient>is added to it. Next the bird's nest is taken from the cold water and well drained, and added to the soup stock. Boil for half an hour. Now the <ingredient>chicken meat</ingredient> is added, and also the <ingredient>egg,</ingredient> the latter having previously been finely
+ 
+<pb n="16" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=26"/>
+crumbled. The soup is taken off the fire as it begins to boil again after the last addition. Before serving, the minced <ingredient>ham</ingredient> is sprinkled on top.</p><p>Bird's nest is a gelatinous substance, a species of seaweed, with which certain Chinese birds, the esculent swallow and the white-backed swallow, build their nests. It is also found in Java. It is one of the most delicious of Chinese foods, and esteemed and praised not alone by the Chinese but by all travelers in the Orient.</p></recipe>
+<recipe class1="soups" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">SEAWEED SOUP</purpose>
+ <ingredient>Two yolks of hard-boiled eggs;</ingredient> one can of <ingredient>seaweed;</ingredient> three <ingredient>chicken giblets;</ingredient> two tablespoonfuls of <ingredient>syou;</ingredient> one and one half teaspoonfuls of <ingredient>Quong Sang Chong (water chestnut flour).</ingredient></p><p>Boil one can of seaweed until it is like thin jelly. Have ready three <ingredient>chicken giblets,</ingredient> chopped very fine, having first boiled them one hour in a quart of water. Add the seaweed, and boil all together for half an hour. Strain, then crumble in the yolks of 
+ 
+<pb n="17" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=27"/>
+two hard-boiled eggs, stir in two tablespoonfuls of syou, and <ingredient>salt</ingredient> to taste. Rub smooth one and a half teaspoonfuls of <ingredient>Quong Sang Chong </ingredient>in a little <ingredient>cold water,</ingredient> then add to the soup and stir until it thickens slightly. Serve with a small piece of seaweed on top that has been soaking in <ingredient>spiced vinegar.</ingredient></p></recipe>
+<recipe class1="soups" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">B&#196;K TOY GUN<lb/>(Chinese Soup of White Vegetables)</purpose>
+Two tablespoonfuls of <ingredient>syou;</ingredient> one half pound of <ingredient>white mushrooms;</ingredient> one dozen <ingredient>water chestnuts;</ingredient> one quarter pound of <ingredient>bean sprouts;</ingredient> one stalk of <ingredient>celery;</ingredient> two small <ingredient>onions;</ingredient> three <ingredient>eggs;</ingredient> bit of <ingredient>garlic.</ingredient></p><p>No meator stock is used for this soup. Have ready three pints of boiling, <ingredient>salted water,</ingredient> with the two tablespoonfuls of syou in it. Add all of above vegetables (which have been previously washed in <ingredient>cold water,</ingredient> and cut in small pieces) except the mushrooms and celery. Boil for fifteen minutes, then add the <ingredient>mushrooms</ingredient>
+ 
+<pb n="18" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=28"/>
+and <ingredient>celery.</ingredient> Whip up the three <ingredient>eggs</ingredient> in a little <ingredient>cold water,</ingredient> and drop slowly into the boiling soup, stirring the soup as it drops, and it will form into fanciful shapes. Remove at once, and serve.</p></recipe>
+</section>
+ 
+<pb n="19" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=29"/>
+<section class1="accompaniments">
+<hd align="center" rend="bold">GRAVY</hd>
+<recipe class1="accompaniments" ethnicgroup="Chinese"><p>Use <ingredient>pork fat</ingredient> cut up and fried crisp. Then rub smooth one tablespoonful of <ingredient>Quong Sang Chong (water-chestnut flour)</ingredient> or <ingredient>rice flour</ingredient> in <ingredient>cold water,</ingredient> and stir it slowly into the boiling fat until it thickens and browns. Add <ingredient>syou,</ingredient> <ingredient>salt,</ingredient> <ingredient>pepper,</ingredient> and a little <ingredient>sugar.</ingredient> In preparing chop sueys and similar dishes, use this <purpose>gravy</purpose>
+if the mixture is too dry.</p></recipe>
+<recipe class1="accompaniments" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">GRAVY WITH ONIONS</purpose>
+Place two tablespoonfuls of <ingredient>chicken fat</ingredient> or <ingredient>pork fat</ingredient> in pan, and when it is very hot add a finely chopped <ingredient>onion</ingredient> and fry a golden brown. Now slowly stir in one tablespoonful of <ingredient>flour</ingredient> until brown (taking care not to burn), <ingredient>salt,</ingredient> <ingredient>pepper,</ingredient> and a little <ingredient>sugar,</ingredient> then slowly pour boiling <ingredient>water,</ingredient> stirring all the time, until you have a smooth, rich gravy.  Use for addition to the various dishes.</p></recipe>
+</section>
+<section class1="meatfishgame">
+ 
+<pb n="20" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=30"/>
+<hd align="center" rend="bold">FISH</hd>
+<recipe class1="meatfishgame" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">TEN SUNE GUNE<lb/>(Sweet and Sour Fish)</purpose>
+Two pounds of <ingredient>sea bass;</ingredient> one and one half cupfuls of <ingredient>water;</ingredient> one tablespoonful of <ingredient>Quong Sang Chong (water-chestnut flour);</ingredient> two and one half tablespoonfuls of <ingredient>vinegar.</ingredient></p><p>Clean a <ingredient>sea bass</ingredient> of about two pounds. Take out all the insides, taking care to keep the <ingredient>fish</ingredient> whole. Then put it into a medium deep dish large enough to fit the <ingredient>fish.</ingredient> Pour over it <ingredient>water</ingredient> almost boiling, cover <ingredient>fish</ingredient> well over. Put a lid on dish, and leave on range for one hour. Do not boil, but keep it hot. Now prepare the following sauce: Rub smooth one tablespoonful of Quong Sang Chong. To a cup and a half of <ingredient>water</ingredient> add one tablespoonful of <ingredient>salt,</ingredient> one and one half tablespoonfuls of <ingredient>sugar,</ingredient> and two and one half tablespoonfuls of <ingredient>vinegar.</ingredient> Mix well. Boil until it thickens,
+ 
+<pb n="21" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=31"/>
+stirring constantly to prevent burning. Dish up the <ingredient>fish,</ingredient> place on another hot, dry dish, then pour over it the sauce, and serve with <ingredient>rice.</ingredient></p></recipe>
+<recipe class1="meatfishgame" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">PINEAPPLE FISH</purpose>
+Two pounds of <ingredient>fish;</ingredient> one tablespoonful of <ingredient>syou;</ingredient> one can of <ingredient>preserved pineapple.</ingredient></p><p>Clean a <ingredient>haddock</ingredient> or <ingredient>codfish</ingredient> of about two pounds and take out the <ingredient>bones.</ingredient> Rub well with <ingredient>salt,</ingredient> and set in a <implement>fish pan.</implement> Cover well with boiling <ingredient>water,</ingredient> and let it simmer gently for twenty minutes. Drain off all the <ingredient>water,</ingredient> and add one tablespoonful of syou and one can of <ingredient>preserved pineapple.</ingredient> Let this simmer slowly for fifteen minutes longer. Thicken with <ingredient>cornstarch or Quong Sang Chong,</ingredient> and serve with <ingredient>rice.</ingredient></p></recipe>
+<recipe class1="meatfishgame" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">LOBSTER OMELETTE</purpose>
+One teaspoonful of <ingredient>peanut oil;</ingredient> two <ingredient>eggs;</ingredient> one tablespoonful of <ingredient>cold water;</ingredient> one tablespoonful of chopped <ingredient>lobster meat;</ingredient> <ingredient>salt</ingredient> and <ingredient>pepper.</ingredient></p>
+ 
+<pb n="22" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=32"/>
+<p>Use small frying pan and put into it a tablespoonful of <ingredient>peanut oil.</ingredient> Heat it. Now beat two <ingredient>eggs</ingredient> with a tablespoonful of <ingredient>cold water.</ingredient> Pour half in the pan. Have ready the cooked <ingredient>lobster,</ingredient> broken into small pieces. Quickly pour in the other half of beaten <ingredient>eggs,</ingredient> and cook slowly for five minutes. Slip off pan without breaking, and make two or three more omelettes in exactly the same way, or have several small frying pans and cook all at once, serving one omelette on top of another in a hot water-heated platter.</p></recipe>
+<recipe class1="meatfishgame" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">COLD PICKLED FISH</purpose>
+Two pounds of <ingredient>fish;</ingredient> one pint of <ingredient>vinegar;</ingredient> one pint of <ingredient>water;</ingredient> four <ingredient>red peppers;</ingredient> one tablespoonful of <ingredient>salt;</ingredient> one teaspoonful of <ingredient>sugar.</ingredient></p><p>Any <ingredient>white fish</ingredient> can be used that is large enough to slice. Wash the <ingredient>fish,</ingredient> then wipe dry and lay it in an earthen dish. Mix together one pint of <ingredient>vinegar</ingredient> and one pint of <ingredient>water,</ingredient> and when boiling, pour it over the <ingredient>fish.</ingredient> Cut
+ 
+<pb n="23" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=33"/>
+up four <ingredient>red peppers,</ingredient> taking out the seeds. Sprinkle the <ingredient>salt</ingredient> and <ingredient>sugar</ingredient> over the <ingredient>fish,</ingredient> and then lay in the <ingredient>peppers.</ingredient> Cover tight, and put away for two hours. Then drain off all vinegar and water. This dish is very good served with <ingredient>bamboo shoots,</ingredient> <ingredient>rice,</ingredient> or any kind of vegetable.</p></recipe>
+<recipe class1="meatfishgame" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">YEU<lb/>(Fish Cakes)</purpose>
+Two <ingredient>eggs;</ingredient> one cupful of <ingredient>fish meat;</ingredient> two cupfuls of <ingredient>rice flour;</ingredient> two tablespoonfuls of <ingredient>peanut oil;</ingredient> one and one half teaspoonfuls of <ingredient>salt;</ingredient> one quarter pound of <ingredient>almonds.</ingredient></p><p>Take any <ingredient>dried fish,</ingredient> and remove all <ingredient>bones</ingredient> and skin. Then pound the <ingredient>fish</ingredient> to a powder, and mix one cup of the <ingredient>fish</ingredient> with a quarter pound of <ingredient>blanched almonds,</ingredient> also pounded, two cupfuls of <ingredient>dried and powdered rice flour,</ingredient> and half a teaspoonful of <ingredient>salt.</ingredient> Beat the <ingredient>whites of two eggs</ingredient> with a little <ingredient>cold water,</ingredient> enough to make a thin paste. Mix well all together. Roll very thin, cut into cakes, and bake in a
+ 
+<pb n="24" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=34"/>
+hot oven in hot <ingredient>peanut oil</ingredient> for twenty minutes. Remove the cakes from the oil, and drain on paper in a slow oven until cakes are dry and crisp.</p></recipe>
+<recipe class1="meatfishgame" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">SHRIMP OMELETTE</purpose>
+One half cup of <ingredient>shrimp meat;</ingredient> five <ingredient>eggs;</ingredient> one cupful of <ingredient>mushrooms;</ingredient> two tablespoonfuls of <ingredient>sweet lard;</ingredient> <ingredient>salt</ingredient> and <ingredient>pepper.</ingredient></p><p>Put the <ingredient>sweet lard</ingredient> in the pan, and when hot throw in the <ingredient>mushrooms,</ingredient> which have been first washed and cut small. Cook for five minutes, then add the <ingredient>shrimp meat,</ingredient> which has previously been cooked and flaked. Cook for two minutes more. Beat five <ingredient>eggs</ingredient> and throw in the pan, and cook for five minutes, taking care not to burn, but do not stir or shake the pan, save very gently. Slip omelette off pan without breaking, and with the <ingredient>mushroom</ingredient> and <ingredient>shrimp</ingredient> side up, or folded in two. Serve on a hot platter.</p></recipe>
+<pb n="25" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=35"/>
+<recipe class1="meatfishgame" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">DRIED SHRIMP STEW</purpose> 
+Two cupfuls of dried <ingredient>shrimp;</ingredient> one tablespoonful of <ingredient>rice flour;</ingredient> one teaspoonful of <ingredient>salt;</ingredient> a dash of <ingredient>cayenne pepper;</ingredient> one and one half tablespoonfuls of <ingredient>syou.</ingredient></p><p>Soak the shrimps in <ingredient>cold water</ingredient> for half an hour, drain, and cover with <ingredient>cold water,</ingredient> add the cayenne <ingredient>pepper</ingredient> and syou, and boil slowly about one hour. Mix the <ingredient>rice flour</ingredient> with <ingredient>cold water</ingredient> to a smooth paste, and stir until it thickens. Serve with <ingredient>rice.</ingredient></p></recipe>
+<recipe class1="meatfishgame" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">CURRY SHRIMPS</purpose>
+One <ingredient>onion;</ingredient> one tablespoonful of <ingredient>olive oil;</ingredient> one and one half teaspoonfuls of <ingredient>curry powder;</ingredient> one tablespoonful of <ingredient>syou;</ingredient> one cupful of <ingredient>boiling water;</ingredient> one tablespoonful of <ingredient>rice flour;</ingredient> one teaspoonful of <ingredient>salt;</ingredient> one and one half pounds of <ingredient>boiled shrimps</ingredient>.</p><p>Fry to a light brown in one tablespoonful of pure <ingredient>olive oil,</ingredient> one <ingredient>onion,</ingredient> chopped fine. Mix one and one half teaspoonfuls of <ingredient>curry powder</ingredient> with a little <ingredient>cold water</ingredient> to make a smooth
+ 
+<pb n="26" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=36"/>
+paste, and stir it in. Add a tablespoonful of syou, a cupful of boiling <ingredient>water,</ingredient> a teaspoonful of <ingredient>salt,</ingredient> a dash of <ingredient>cayenne pepper,</ingredient> and dust with <ingredient>rice powder,</ingredient> stirring until it thickens. Have ready a pound of cooked shrimps, flaked, or <ingredient>white fish</ingredient> may be used instead. Simmer for five minutes, and serve with <ingredient>rice.</ingredient></p></recipe>
+</section>
+<section class1="meatfishgame">
+ 
+<pb n="27" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=37"/>
+<hd align="center" rend="bold">POULTRY AND GAME</hd>
+<recipe class1="meatfishgame" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">FRIED CHICKEN<lb/>(Chinese Style)</purpose>
+Two and one half pounds of <ingredient>chicken;</ingredient> two tablespoonfuls of <ingredient>sweet lard;</ingredient> one tablespoonful of <ingredient>syou;</ingredient> one half <ingredient>onion;</ingredient> one teaspoonful of <ingredient>corn starch or Quong Sang Chong;</ingredient> one teaspoonful of <ingredient>salt.</ingredient></p><p>Clean a young spring <ingredient>chicken,</ingredient> and cut it into small pieces. Fry to a golden brown in hot, <ingredient>sweet lard.</ingredient> Serve with a <ingredient>brown gravy</ingredient> prepared as follows: Boil the <ingredient>giblets</ingredient> until tender, then chop very fine and return to the liquor in which they were boiled. Add a tablespoonful of syou and half an <ingredient>onion</ingredient> chopped fine; boil for ten minutes. Thicken with a teaspoonful of <ingredient>cornstarch</ingredient> or <ingredient>rice flour,</ingredient> and pour over the <ingredient>chicken.</ingredient> Serve hot, with <ingredient>rice.</ingredient></p></recipe>
+<recipe class1="meatfishgame" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">SHU BOK AP<lb/>(Fried Squab)</purpose>
+Two <ingredient>squabs;</ingredient> <ingredient>olive or peanut oil;</ingredient> two <ingredient>chicken livers;</ingredient> one small <ingredient>onion;</ingredient>
+ 
+<pb n="28" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=38"/>
+two tablespoonfuls of <ingredient>syou;</ingredient> one tablespoonful of <ingredient>Chinese almonds;</ingredient> one quarter pound of <ingredient>white mushrooms;</ingredient> one teaspoonful of <ingredient>salt;</ingredient> <ingredient>yolks of two eggs, hard-boiled.</ingredient></p><p>Cut the <ingredient>squabs</ingredient> in pieces, not too small. Let the legs be separated from the body, also the wings, and cut the rest in four pieces. Singe off all hair and feathers. Wash in <ingredient>cold water,</ingredient> and wipe dry. Dip each piece of <ingredient>squab</ingredient> in dry <ingredient>flour,</ingredient> and toss in boiling <ingredient>olive or peanut oil.</ingredient> Cook until it is crisp. Drain off all fat, while preparing the following: Put one tablespoonful of <ingredient>olive oil</ingredient> in the pan, and when it is hot, place the <ingredient>chicken livers</ingredient> (chopped very fine) in the <ingredient>fat,</ingredient> add a small minced <ingredient>onion,</ingredient> two tablespoonfuls of syou, a tablespoonful of Chinese small <ingredient>almonds,</ingredient> blanched and chopped, and a quarter of a pound of <ingredient>white mushrooms,</ingredient> cut small. Fry for ten minutes, then pour into hot dish and place the <ingredient>squab</ingredient> on top, garnished with <ingredient>crumbled hard-boiled yolks of eggs.</ingredient></p></recipe>
+<pb n="29" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=39"/>
+<recipe class1="meatfishgame" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">ROAST SQUAB</purpose>
+One plump <ingredient>squab;</ingredient> two <ingredient>chicken livers;</ingredient> one dozen fresh <ingredient>mushrooms;</ingredient> one tablespoonful of <ingredient>Chinese almonds;</ingredient> one tablespoonful of <ingredient>chicken fat;</ingredient> two tablespoonfuls of <ingredient>syou;</ingredient> one teaspoonful of <ingredient>salt;</ingredient> one quarter small <ingredient>onion;</ingredient> one teaspoonful of <ingredient>cornstarch.</ingredient></p><p>Clean and singe a plump <ingredient>squab.</ingredient> Rub inside and out with <ingredient>salt.</ingredient> Stuff it with the following: A dozen <ingredient>mushrooms,</ingredient> peeled and cut small, a tablespoonful of <ingredient>almonds</ingredient> which have been blanched and chopped fine, and a little minced <ingredient>onion.</ingredient> Mix together, and fill the <ingredient>squab.</ingredient> Now sew or skew tight, and melt the tablespoonful of <ingredient>chicken fat</ingredient> and pour it over the <ingredient>squab.</ingredient> Place in a hot oven and roast for half an hour, basting and turning frequently. Make the <ingredient>gravy,</ingredient> meanwhile, by chopping fine two <ingredient>chicken livers</ingredient> and frying them in a teaspoonful of <ingredient>chicken fat.</ingredient> When very brown, stir in a teaspoonful of <ingredient>cornstarch</ingredient> until brown. Now add two tablespoonfuls of syou, and serve with the <ingredient>squab.</ingredient></p></recipe>
+<pb n="30" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=40"/>
+<recipe class1="meatfishgame" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">STEAMED DUCK</purpose>
+Three and one half pound <ingredient>duck;</ingredient> one quarter pound of <ingredient>pork;</ingredient> one quarter pound of <ingredient>mushrooms;</ingredient> one quarter pound of <ingredient>water chestnuts;</ingredient> one quarter cup of <ingredient>barley;</ingredient> one and one half tablespoonfuls of <ingredient>syou;</ingredient> one teaspoonful of <ingredient>salt.</ingredient></p><p>After the <ingredient>duck</ingredient> has been well cleaned, inside and out, cut down the <ingredient>breast,</ingredient> dry well, and rub it thoroughly with <ingredient>salt.</ingredient> Lay in a bowl, and then prepare the following filling: Take one quarter pound of <ingredient>pork,</ingredient> chopped fine; one quarter pound of <ingredient>mushrooms,</ingredient> cut small, and one quarter pound of <ingredient>water chestnuts,</ingredient> sliced thin. Boil one quarter pound of <ingredient>barley</ingredient> for ten minutes, adding half a tablespoonful of syou and a teaspoonful of <ingredient>salt.</ingredient> Mix together all of the above ingredients, fill the duck, and sew or skew it up. Steam for three hours, and serve with <ingredient>rice.</ingredient></p></recipe>
+<recipe class1="meatfishgame" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">DUCK WITH HERBS</purpose>
+Three to four pound <ingredient>duck;</ingredient> one quarter pound of <ingredient>pork fat;</ingredient> one <ingredient>onion;</ingredient>
+ 
+<pb n="31" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=41"/>
+two stalks of <ingredient>celery;</ingredient> one <ingredient>lemon peeling;</ingredient>  one quarter clove of <ingredient>garlic;</ingredient> two tablespoonfuls of <ingredient>syou;</ingredient> one tablespoonful of <ingredient>mixed spices;</ingredient> one cup of <ingredient>stock;</ingredient> one dozen <ingredient>mushrooms;</ingredient> one teaspoonful of <ingredient>salt;</ingredient> one tablespoonful of <ingredient>parsley.</ingredient></p><p>Drain and singe the <ingredient>duck.</ingredient> Wipe, then thoroughly dry, inside and out, with a clean, damp cloth. Line a pan with small pieces of <ingredient>pork (fat)</ingredient>. Sprinkle the bottom with minced <ingredient>onion,</ingredient> <ingredient>celery,</ingredient> <ingredient>grated lemon peel,</ingredient> and the <ingredient>garlic,</ingredient> grated fine. Lay the <ingredient>duck</ingredient> in and cover with a tablespoonful of <ingredient>mixed spices,</ingredient> two tablespoonfuls of syou, and a cup of rich stock. Set over the fire and simmer for two hours, basting often. Wash the <ingredient>mushrooms</ingredient> and turn them in, and cook all together for ten minutes. Take up, and thicken the gravy with <ingredient>cornstarch or rice flour.</ingredient> Lastly, toss in the chopped <ingredient>parsley.</ingredient> Cut up the <ingredient>duck</ingredient> in small pieces (not too small), arrange on dish, pour the <ingredient>gravy</ingredient> with the <ingredient>herbs</ingredient> around the <ingredient>duck,</ingredient> and serve hot with <ingredient>rice.</ingredient></p></recipe>
+<pb n="32" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=42"/>
+<recipe class1="meatfishgame" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">BOO LOO GAI<lb/>(Pineappple Chicken}</purpose>
+One young <ingredient>chicken;</ingredient> one tablespoonful of <ingredient>sweet lard;</ingredient> one tablespoonful of <ingredient>syou;</ingredient> one can of <ingredient>preserved pineapple.</ingredient></p><p>Wash and singe a young, fresh <ingredient>chicken</ingredient> and cut off all the flesh. Slice it, put a tablespoonful of <ingredient>sweet lard</ingredient> in the pan, and fry. Do not let it burn. Add the <ingredient>chicken,</ingredient> and fry brown. Add a tablespoonful of syou and a can of <ingredient>preserved pineapple,</ingredient> and cook slowly for fifteen minutes. Thicken the <ingredient>pineapple juice</ingredient> with a teaspoonful of <ingredient>Quong Sang Chong,</ingredient> and serve hot with <ingredient>rice.</ingredient></p></recipe>
+<recipe class1="meatfishgame" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">SWEET AND PUNGENT CHICKEN</purpose>
+Three and one half pound <ingredient>chicken;</ingredient> one dessert-spoonful of <ingredient>salt;</ingredient> two tablespoonfuls of <ingredient>sugar;</ingredient> two cupfuls of <ingredient>vinegar;</ingredient> one half <ingredient>onion;</ingredient> one tablespoonful of <ingredient>sweet lard;</ingredient> two tablespoonfuls of syou.</p><p>Take a young <ingredient>chicken</ingredient> of about three and one half pounds. Clean and singe it, and remove all the bones.
+ 
+<pb n="33" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=43"/>
+Lay in a stone dish and over it pour (enough to cover well) a mixture of two cupfuls of boiling <ingredient>vinegar,</ingredient> a dessert-spoonful of <ingredient>salt,</ingredient> and two tablespoonfuls of <ingredient>sugar.</ingredient> Cover, and put away in a cool place for twenty-four hours. Prepare a brown <ingredient>gravy</ingredient> by chopping half an <ingredient>onion</ingredient> and frying it a light brown in <ingredient>sweet lard or chicken fat.</ingredient> Cut the <ingredient>chicken</ingredient> into quarters, and put in a pan with two tablespoonfuls of syou. Simmer for half an hour very gently. Serve with <ingredient>rice.</ingredient></p></recipe>
+<recipe class1="meatfishgame" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">LYCHEE CHICKEN</purpose>
+Two pound <ingredient>chicken;</ingredient> one teaspoonful of <ingredient>salt;</ingredient> one quart of <ingredient>lychee nuts;</ingredient> two tablespoonfuls of <ingredient>syou;</ingredient> one half small <ingredient>onion;</ingredient> two tablespoonfuls of <ingredient>sweet lard.</ingredient></p><p>Cut into small pieces a fresh young <ingredient>chicken</ingredient> of about two pounds and rub well with <ingredient>salt.</ingredient> Fry two tablespoonfuls of <ingredient>sweet lard</ingredient> a very light brown. Add two tablespoonfuls of syou, and cover tight. Simmer for half an hour. Have ready a quart of <ingredient>lychee nuts,</ingredient>
+ 
+<pb n="34" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=44"/>
+peeled and stoned. Add these to the <ingredient>chicken,</ingredient> with the minced <ingredient>onion,</ingredient> and cook slowly for twenty-six minutes. Serve with <ingredient>rice.</ingredient></p></recipe>
+<recipe class1="meatfishgame" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">HOP HO GAI DIN (Fried Chicken with Almonds or Walnuts)</purpose>
+Two and one half pound <ingredient>chicken;</ingredient> two tablespoonfuls of <ingredient>olive oil;</ingredient> one cupful of <ingredient>Chinese almonds;</ingredient> two stalks of <ingredient>celery;</ingredient> one teaspoonful of <ingredient>onion juice;</ingredient> two tablespoonfuls of <ingredient>syou;</ingredient> one quarter pound of <ingredient>white mushrooms.</ingredient></p><p>Use only the <ingredient>breast of a young chicken,</ingredient> and cut it in small tubes. Fry to a golden brown in two tablespoonfuls of <ingredient>olive oil.</ingredient> Take a cupful of <ingredient>almonds or walnuts,</ingredient> blanched and chopped, and half a pound of small <ingredient>white mushrooms</ingredient> cut up small; to this add a teaspoonful of <ingredient>onion juice</ingredient> and two tablespoonfuls of syou. Turn all in with the <ingredient>chicken</ingredient> and simmer half an hour. Thicken with <ingredient>Quong Sang Chong,</ingredient> and garnish with a border of <ingredient>nuts.</ingredient></p></recipe>
+<pb n="35" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=45"/>
+<recipe class1="meatfishgame" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">CHICKEN WITH MUSHROOMS</purpose>
+One tablespoonful of <ingredient>sweet lard;</ingredient> two pounds of <ingredient>chicken;</ingredient> one <ingredient>onion;</ingredient> one pound of fresh <ingredient>mushrooms;</ingredient> one tablespoonful of <ingredient>syou;</ingredient> two teaspoonfuls of <ingredient>salt.</ingredient></p><p>Put the <ingredient>lard</ingredient> in the pan, and have it boiling hot. Cut up a young <ingredient>chicken,</ingredient> and remove all the <ingredient>bones;</ingredient> then lay it in the <ingredient>fat,</ingredient> and cook to a golden brown. Mince the <ingredient>onion</ingredient> and add. Wash and cut up the <ingredient>mushrooms,</ingredient> and add with a tablespoonful of syou. Cook all slowly for fifteen minutes.</p></recipe>
+</section>
+<section class1="meatfishgame">
+ 
+<pb n="36" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=46"/>
+<hd align="center" rend="bold">MEATS</hd>
+<recipe class1="meatfishgame" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">PORK WITH GREEN PEPPERS</purpose>
+One and one half pounds of <ingredient>pork;</ingredient> two tablespoonfuls of <ingredient>syou;</ingredient> six <ingredient>green peppers;</ingredient> one <ingredient>onion;</ingredient> one teaspoonful of <ingredient>salt.</ingredient></p><p>Cut the <ingredient>pork</ingredient> in strips about two inches long and half an inch thick. Wash the <ingredient>peppers,</ingredient> remove the <ingredient>seeds,</ingredient> and cut into small pieces; then add to the <ingredient>meat</ingredient> with two tablespoonfuls of syou, one <ingredient>onion</ingredient> chopped fine, and a tablespoonful of <ingredient>salt.</ingredient> Cover, and cook for ten minutes. Serve with <ingredient>rice.</ingredient></p></recipe>
+<recipe class1="meatfishgame" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">CHINESE FRIED PORK WITH ONIONS</purpose>
+One pound of <ingredient>pork;</ingredient> two large <ingredient>onions;</ingredient> two tablespoonfuls of <ingredient>syou;</ingredient> one teaspoonful of <ingredient>salt.</ingredient></p><p>Cut about a pound of fresh <ingredient>pork</ingredient> (not too fat) in tubes, and fry a light brown. Cut up two large <ingredient>onions</ingredient> and fry with the <ingredient>pork</ingredient> until all is brown, 
+ 
+<pb n="37" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=47"/>
+then add the <ingredient>salt</ingredient> and two tablespoonfuls of syou, and fry very hot. This is very tasty, and good served with boiled <ingredient>rice.</ingredient></p></recipe>
+<recipe class1="meatfishgame" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">PEPPER STEAK</purpose>
+One and one half pounds of <ingredient>beef;</ingredient> two tablespoonfuls of <ingredient>beef suet;</ingredient> three tablespoonfuls of <ingredient>syou;</ingredient> six <ingredient>green peppers;</ingredient> one <ingredient>onion.</ingredient></p><p>Take the upper cut of the <ingredient>round of beef</ingredient> and cut into strips about two inches long. Fry in the <ingredient>beef suet</ingredient> for about four minutes, then add one <ingredient>onion,</ingredient> cut fine. Have the <ingredient>green peppers</ingredient> washed and the <ingredient>seeds</ingredient> removed, and cut in small pieces. Turn in with the <ingredient>beef,</ingredient> and add three tablespoonfuls of syou and some <ingredient>salt.</ingredient> Cover tight, and let simmer for ten minutes.</p></recipe>
+<recipe class1="meatfishgame" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">BEEF KIDNEY WITH CHINESE MUSHROOMS</purpose>
+One <ingredient>beef kidney;</ingredient> one quarter pound of dried <ingredient>mushrooms;</ingredient> one small <ingredient>onion;</ingredient> one and one half teaspoonfuls of <ingredient>salt;</ingredient>
+ 
+<pb n="38" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=48"/>
+dash of <ingredient>cayenne pepper;</ingredient> two tablespoonfuls of chopped <ingredient>fat pork;</ingredient> three tablespoonfuls of <ingredient>syou.</ingredient></p><p>Soak the <ingredient>kidney</ingredient> for half an hour in <ingredient>cold water</ingredient> with a handful of <ingredient>salt;</ingredient> then cut in small pieces and fry in <ingredient>pork fat.</ingredient> Wash a quarter of a pound of dried <ingredient>mushrooms</ingredient> in lukewarm <ingredient>water,</ingredient> pull off the stalks, and soak for ten minutes. Add this to the <ingredient>kidney,</ingredient> with one small chopped <ingredient>onion,</ingredient> one and one quarter teaspoonfuls of <ingredient>salt,</ingredient> and three tablespoonfuls of syou. Cover tight, and boil very slowly for one hour, adding boiling <ingredient>water</ingredient> if it dries. Serve with <ingredient>rice.</ingredient></p></recipe>
+<recipe class1="meatfishgame" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">FRIED BEEF WITH MUSHROOMS</purpose>
+One pound of <ingredient>beef;</ingredient> one pound of <ingredient>mushrooms;</ingredient> one small <ingredient>onion;</ingredient> six <ingredient>lotus seeds;</ingredient> two tablespoonfuls of <ingredient>syou;</ingredient> one teaspoonful of <ingredient>salt;</ingredient> one half pound of <ingredient>suet.</ingredient></p><p>Use the upper part of the <ingredient>round, or rump steak,</ingredient> cut in small pieces (strips about two inches long). Chop up the <ingredient>suet</ingredient> and fry out all the <ingredient>fat,</ingredient> 
+ 
+<pb n="39" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=49"/>
+drain, and fry the <ingredient>beef</ingredient> in it good and brown. Add the <ingredient>onion</ingredient> and slice the <ingredient>lotus seeds.</ingredient> Cut up the <ingredient>mushrooms</ingredient> and turn in. Fry for about two minutes, then add two tablespoonfuls of syou and <ingredient>salt.</ingredient> Cover up tight, and let it simmer for fifteen minutes. Serve with <ingredient>rice.</ingredient></p></recipe>
+<recipe class1="meatfishgame" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">FRIED RICE WITH CHICKEN AND MUSHROOMS</purpose>
+One pound of <ingredient>rice;</ingredient> one pound of cooked <ingredient>flesh of chicken;</ingredient> one pound of fresh <ingredient>white mushrooms;</ingredient> two stalks of <ingredient>celery;</ingredient> one <ingredient>onion;</ingredient> six <ingredient>water chestnuts;</ingredient> one tablespoonful of <ingredient>pork fat;</ingredient> two tablespoonfuls of <ingredient>syou;</ingredient> dash of cayenne <ingredient>pepper;</ingredient> one teaspoonful of <ingredient>salt.</ingredient></p><p>Boil one pound of <ingredient>rice</ingredient> for twenty minutes. While this is boiling, prepare the following: Take one pound of cooked <ingredient>chicken</ingredient> and cut it in small pieces. Put a tablespoonful of <ingredient>pork fat</ingredient> in the pan, and when it is very hot turn in the <ingredient>chicken</ingredient> and fry for a few minutes. Then cut up two stalks of 
+ 
+<pb n="40" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=50"/>
+<ingredient>celery,</ingredient> one <ingredient>onion,</ingredient> and six <ingredient>water chestnuts,</ingredient> and add with the syou cayenne, and <ingredient>salt.</ingredient> Fry all for ten minutes, then place the <ingredient>rice</ingredient> in a platter and pour the above over it. Cover tight, and let it soak through the <ingredient>rice</ingredient> thoroughly. Then garnish with chopped <ingredient>parsley,</ingredient> and serve.</p></recipe>
+</section>
+<section class1="meatfishgame">
+ 
+<pb n="41" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=51"/>
+<hd align="center" rend="bold">CHOP SUEYS</hd>
+<recipe class1="meatfishgame" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">EXTRA WHITE CHOP SUEY</purpose>
+Breast of one and one half pound <ingredient>chicken;</ingredient> one tablespoonful of <ingredient>chicken fat;</ingredient> one pound of fresh <ingredient>mushrooms;</ingredient> one half bunch of <ingredient>celery;</ingredient> one dozen <ingredient>water chestnuts;</ingredient> two <ingredient>white onions;</ingredient> one half can of <ingredient>bamboo shoots;</ingredient> two pounds of <ingredient>bean sprouts;</ingredient> one and one half teaspoonfuls of <ingredient>salt;</ingredient> two tablespoonfuls of <ingredient>syou.</ingredient></p><p>Cut in small pieces the <ingredient>breast</ingredient> of a young <ingredient>chicken</ingredient> of about one and one half pounds. Put a tablespoonful of <ingredient>chicken fat</ingredient> in a deep frying pan, and heat very hot, then put in the <ingredient>chicken</ingredient> and fry brown, stirring to keep from burning. Have ready the following ingredients: One pound of fresh <ingredient>white mushrooms,</ingredient> cut small; half a bunch of <ingredient>celery,</ingredient> chopped; a dozen <ingredient>water chestnuts,</ingredient> peeled and cut in slices; two <ingredient>white onions,</ingredient> and half a can of bamboo shoots, all sliced. Add all these to
+ 
+<pb n="42" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=52"/>
+the <ingredient>chicken,</ingredient> and cook for ten minutes. Now add two pounds of <ingredient>bean sprouts,</ingredient> and cook for another five minutes with two tablespoonfuls of syou and a dash of <ingredient>cayenne pepper.</ingredient> Simmer for five minutes longer, and serve with <ingredient>rice.</ingredient></p></recipe>
+<recipe class1="meatfishgame" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">DUCK CHOP SUEY</purpose>
+Three or three and one half pound <ingredient>duck;</ingredient> one tablespoonful of <ingredient>duck fat;</ingredient> one and one quarter tablespoonfuls of <ingredient>syou;</ingredient> dash of <ingredient>cayenne pepper;</ingredient> two teaspoonfuls of <ingredient>salt;</ingredient> one cup of <ingredient>dried mushrooms;</ingredient> one bunch of <ingredient>celery;</ingredient> one half cup of small <ingredient>white onions;</ingredient> one dozen <ingredient>lotus seeds;</ingredient> one can of <ingredient>bamboo shoots;</ingredient> two pounds of <ingredient>bean sprouts.</ingredient></p><p>Carefully wash the <ingredient>duck</ingredient> and remove the bones, then wipe dry and pound the <ingredient>meat</ingredient> until tender. Then chop up about a tablespoonful of <ingredient>duck fat,</ingredient> and fry. Remove all lumps of fat, leaving only the clear <ingredient>oil,</ingredient> and put in the <ingredient>duck meat,</ingredient> cut in small pieces. Fry to a golden brown. Add one and one half
+ 
+<pb n="43" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=53"/>
+tablespoonfuls of syou, a dash of <ingredient>cayenne pepper,</ingredient> and half a tablespoonful of <ingredient>salt.</ingredient> Cover, and let simmer for twenty minutes while preparing the following: Wash and soak for ten minutes one cup of <ingredient>dried mushrooms,</ingredient> pulling off all stalks and cutting small; cut up a bunch of <ingredient>celery</ingredient> small, and add a cupful of small <ingredient>white onions.</ingredient> Slice a dozen  <ingredient>lotus seeds</ingredient> very thin, and half a can of <ingredient>bamboo shoots.</ingredient> Put all in with the <ingredient>duck</ingredient> and fry ten minutes; then add two pounds of <ingredient>bean sprouts</ingredient> and cook five minutes longer. Serve with <ingredient>rice.</ingredient></p></recipe>
+<recipe class1="meatfishgame" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">GAR LU CHOP SUEY<lb/>(With Chinese Dried Mushrooms)</purpose>
+One half pound of <ingredient>pork;</ingredient> one half pound of <ingredient>beef;</ingredient> one quarter clove of <ingredient>garlic;</ingredient> one <ingredient>onion;</ingredient> one half bunch of <ingredient>celery;</ingredient> one dozen <ingredient>lotus seeds;</ingredient> one half can of <ingredient>bamboo shoots;</ingredient> one and one half pounds of <ingredient>bean sprouts;</ingredient> three tablespoonfuls of <ingredient>syou; </ingredient>one teaspoonful of <ingredient>salt;</ingredient> dash <ingredient>cayenne pepper.</ingredient></p><p>Cut half a pound of <ingredient>pork</ingredient> (not too
+ 
+<pb n="44" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=54"/>
+fat) into small pieces, and fry to a nice golden brown. Chop into small pieces half a bunch of <ingredient>celery,</ingredient> and wash and soak half a pound of <ingredient>Chinese dried mushrooms,</ingredient> discarding the stalks. Chop up one <ingredient>onion,</ingredient> and a very small piece of <ingredient>garlic,</ingredient> chopped very fine. Season with three tablespoonfuls of syou. <ingredient>Salt,</ingredient> and add a dash of <ingredient>cayenne.</ingredient> Fry for ten minutes, then add half a can of bamboo shoots and fry for five minutes longer. Lastly, add one and one half pounds of <ingredient>bean sprouts,</ingredient> and cook all together for ten minutes. Serve with <ingredient>rice.</ingredient></p></recipe>
+<recipe class1="meatfishgame" ethnicgroup="chinese"><p><lb/>
+<purpose align="center" rend="bold" placement="heading">GAI YUK CHEE YUK (Chicken and Pork Chop Suey)</purpose>
+One half pound of <ingredient>breast of chicken;</ingredient> one half pound of lean <ingredient>pork;</ingredient> three tablespoonfuls of <ingredient>sweet lard;</ingredient> one half pound of <ingredient>mushrooms;</ingredient> one half bunch of <ingredient>celery;</ingredient> one dozen <ingredient>lotus seeds;</ingredient> one half can of <ingredient>bamboo shoots;</ingredient> two pounds of <ingredient>bean sprouts;</ingredient> one and one half teaspoonfuls of <ingredient>syou;</ingredient> one half teaspoonful of <ingredient>salt;</ingredient> dash of <ingredient>cayenne pepper.</ingredient></p>
+ 
+<pb n="45" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=55"/>
+<p>Take half a pound of <ingredient>chicken</ingredient> cut from the breast and half a pound of lean <ingredient>pork,</ingredient> and cut both into small pieces. Heat three tablespoonfuls of <ingredient>sweet lard;</ingredient> when it is well melted, put the above <ingredient>meat</ingredient> in the <ingredient>fat</ingredient> and fry until brown, stirring to keep it from burning. Have ready the following ingredients: One half pound of <ingredient>fresh or dried mushrooms</ingredient> which have been washed in lukewarm <ingredient>water</ingredient> (if dried mushrooms are used, soak them for ten minutes and pull off the stalks), half a bunch of <ingredient>celery</ingredient> chopped small, a dozen  <ingredient>lotus seeds</ingredient> or <ingredient>water chestnuts</ingredient> peeled and cut into thin slices. Cut up one <ingredient>onion,</ingredient> also half a can of <ingredient>bamboo shoots</ingredient> and two pounds of <ingredient>bean sprouts.</ingredient> Wash all well and drain in <implement>colander.</implement> Put all these, except the <ingredient>bean sprouts,</ingredient> with the <ingredient>meat,</ingredient> and cook for ten minutes; now add the <ingredient>bean sprouts,</ingredient> one and one half tablespoonfuls of syou, a dash of <ingredient>cayenne pepper,</ingredient> and <ingredient>salt,</ingredient> and cook for five minutes. Serve with <ingredient>rice.</ingredient></p></recipe>
+<pb n="46" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=56"/>
+<recipe class1="meatfishgame" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">CHOP SUEY (PLAIN)</purpose>
+One and one half pounds of <ingredient>pork;</ingredient> one and one half pounds of <ingredient>veal;</ingredient> two <ingredient>onions;</ingredient> one dozen <ingredient>water chestnuts;</ingredient> one half can of <ingredient>bamboo shoots;</ingredient> two pounds of <ingredient>bean sprouts;</ingredient> three tablespoonfuls of <ingredient>syou;</ingredient> one half tablespoonful of <ingredient>salt.</ingredient></p><p>Cut half a pound of <ingredient>pork</ingredient> in small pieces, and fry for three minutes. Cut up the <ingredient>veal</ingredient> and add it, frying for five minutes. Chop up two <ingredient>onions</ingredient> and half a bunch of <ingredient>celery</ingredient> into small pieces, slice thin a dozen <ingredient>water chestnuts</ingredient> and half a can of bamboo shoots, and turn into the pan with three tablespoonfuls of syou and half a tablespoonful of <ingredient>salt.</ingredient> Cook for ten minutes. Add the <ingredient>bean sprouts,</ingredient> and cook all together for five minutes. Serve with <ingredient>rice.</ingredient></p></recipe>
+</section>
+<section class1="meatfishgame">
+ 
+<pb n="47" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=57"/>
+<hd align="center" rend="bold">CHOW MAINS</hd>
+<recipe class1="meatfishgame" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">MEAT CHOW MAIN</purpose>
+One quarter pound <ingredient>noodles;</ingredient> one quart <ingredient>peanut oil;</ingredient> one half dozen <ingredient>water chestnuts;</ingredient> one half pound of <ingredient>pork;</ingredient> one half pound of <ingredient>veal;</ingredient> two tablespoonfuls of <ingredient>syou;</ingredient> one half bunch of <ingredient>celery;</ingredient> one <ingredient>onion;</ingredient> one half pound of <ingredient>dried mushrooms;</ingredient> two <ingredient>eggs;</ingredient> one quarter pound of <ingredient>ham.</ingredient></p><p>Into a quart of <ingredient>peanut oil</ingredient> put a quarter of a pound of noodles, and cook until crisp; then remove and drain. Meanwhile take one pound of <ingredient>pork,</ingredient> cut it in small pieces, and fry a golden brown. Cut up half a pound of <ingredient>veal,</ingredient> and fry with the <ingredient>pork</ingredient> for five minutes. Add two tablespoonfuls of syou and half a tablespoonful of <ingredient>salt</ingredient> to this, and let it simmer slowly, while preparing the following: Wash, and soak for ten minutes, half a pound of Chinese <ingredient>dried mushrooms,</ingredient> pulling off the stalks; half a bunch of <ingredient>celery,</ingredient>
+ 
+<pb n="48" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=58"/>
+cut small; also one <ingredient>onion,</ingredient> chopped fine, and half a dozen <ingredient>water chestnuts,</ingredient> sliced fine. Turn these in with the <ingredient>meat</ingredient> and cook all together for five minutes. Place the noodles on a hot platter as a bottom layer, then the <ingredient>meat</ingredient> and vegetables. Garnish the top with threaded <ingredient>ham</ingredient> and the crumbled <ingredient>yolks</ingredient> of two hard-boiled <ingredient>eggs.</ingredient></p></recipe>
+<recipe class1="meatfishgame" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">CHICKEN CHOW MAIN</purpose>
+Two <ingredient>eggs;</ingredient> one teaspoonful of <ingredient>salt;</ingredient> one quart of <ingredient>peanut oil;</ingredient> one half pound of <ingredient>noodles;</ingredient> four ounces of <ingredient>pork;</ingredient> two pounds of chopped <ingredient>chicken;</ingredient> one stalk of <ingredient>celery;</ingredient> one <ingredient>onion;</ingredient> one half pound of <ingredient>fresh mushrooms;</ingredient> one half pound of <ingredient>breast of chicken,</ingredient> shredded; three <ingredient>hard-boiled eggs;</ingredient> two tablespoonfuls of <ingredient>syou.</ingredient></p><p>Have the <ingredient>peanut oil</ingredient> boiling hot and toss in the noodles. Fry until they are crisp, then take them from the <ingredient>oil</ingredient> and drain, while preparing the following: Take four ounces of fine chopped <ingredient>pork</ingredient> and half a pound of 
+ 
+<pb n="49" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=59"/>
+<ingredient>chicken meat,</ingredient> also chopped. Now add two tablespoonfuls of syou and one teaspoonful of <ingredient>salt.</ingredient> Cook all for ten minutes. Lay the noodles on a platter, forming a layer at the bottom of the dish, and place the vegetables and <ingredient>gravy</ingredient> on top of the noodles. Add a layer of the shredded <ingredient>chicken breast,</ingredient> lastly the <ingredient>yolks of hard-boiled eggs,</ingredient> crumbled, as a garnish. Serve very hot.</p></recipe>
+<recipe class1="meatfishgame" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">LOBSTER CHOW MAIN</purpose>
+One pound of <ingredient>lobster meat;</ingredient> two <ingredient>eggs;</ingredient> one half pound of <ingredient>noodles;</ingredient> three stalks of <ingredient>celery;</ingredient> one can of <ingredient>bamboo shoots;</ingredient> one <ingredient>onion;</ingredient> one quarter pound of <ingredient>mushrooms;</ingredient> one tablespoonful of <ingredient>sweet lard;</ingredient> one quart of <ingredient>peanut oil;</ingredient> three <ingredient>water chestnuts.</ingredient></p><p>First boil the <ingredient>peanut oil</ingredient> and into it throw the noodles, cooking until crisp. Remove and drain, while preparing following: Put teaspoon of <ingredient>sweet lard</ingredient> into frying pan, and when hot turn in half the <ingredient>lobster meat,</ingredient> which has previously been cooked. (Canned
+ 
+<pb n="50" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=60"/>
+<ingredient>lobster</ingredient> will do as well.) Cook for a few minutes, then add the <ingredient>onion,</ingredient> <ingredient>mushrooms,</ingredient> and <ingredient>water chestnuts.</ingredient> The bamboo shoots are added last, and all fried for ten minutes. Take a hot platter, and place the crisp noodles as a layer at the bottom of the dish, and spread above ingredients on top. Then take the other half of the <ingredient>lobster meat,</ingredient> and place a layer on top. Garnish with shredded <ingredient>yolks of hard-boiled eggs.</ingredient></p></recipe>
+</section>
+<section class1="breadsweets">
+ 
+<pb n="51" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=61"/>
+<hd align="center" rend="bold">FRIED RICE</hd>
+<recipe class1="breadsweets" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">FRIED RICE WITH HERBS</purpose>
+Two cupfuls of boiled <ingredient>rice;</ingredient> one and one half teaspoonfuls of <ingredient>pork fat;</ingredient> three stalks of <ingredient>celery;</ingredient> one large <ingredient>onion;</ingredient> five <ingredient>water chestnuts;</ingredient> one teaspoonful of <ingredient>salt;</ingredient> dash <ingredient>cayenne pepper;</ingredient> two tablespoonfuls of <ingredient>syou.</ingredient></p><p>Fry one large <ingredient>onion</ingredient> a light brown in one and one half tablespoonfuls of <ingredient>pork fat;</ingredient> chop up three stalks of <ingredient>celery</ingredient> very fine, and add five <ingredient>water chestnuts,</ingredient> sliced thin. Fry all a light brown, then take two cups of <ingredient>rice</ingredient> that has boiled for twenty-five minutes, or use cold <ingredient>rice</ingredient> if you have any on hand. Mix all together with <ingredient>salt</ingredient> and <ingredient>cayenne</ingredient> and syou, and fry for ten minutes, shaking and stirring constantly. Serve hot, garnished with any <ingredient>meat</ingredient> or <ingredient>fish,</ingredient> or alone. This is very tasty.</p></recipe>
+<pb n="52" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=62"/>
+<recipe class1="breadsweets" ethnicgroup="chinese"><p><purpose align="center" rend="bold">FRIED RICE WITH EGGS AND HERBS</purpose>
+Six <ingredient>eggs;</ingredient> one half pound of <ingredient>rice;</ingredient> one quarter pound of <ingredient>pork,</ingredient> very fat; three <ingredient>water chestnuts;</ingredient> one stalk of <ingredient>celery;</ingredient> one <ingredient>onion;</ingredient> one teaspoonful of chopped <ingredient>parsley;</ingredient> one teaspoonful of <ingredient>salt;</ingredient> pinch of <ingredient>pepper.</ingredient></p><p>First wash the rice and boil for half an hour. Cut up the <ingredient>pork</ingredient> very small, and fry brown. Add one <ingredient>onion,</ingredient> chopped fine; the three <ingredient>water chestnuts,</ingredient> sliced thin, and one stalk of <ingredient>celery,</ingredient> cut small. <ingredient>Salt</ingredient> and <ingredient>pepper,</ingredient> and fry all for ten minutes, taking care not to brown. Now turn in the <ingredient>rice,</ingredient> and fry five minutes. Meanwhile beat up six <ingredient>eggs,</ingredient> pour them over the mixture, stirring and shaking the pan constantly for five minutes, and serve hot.</p></recipe>
+<recipe class1="breadsweets" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">FRIED RICE WITH TOMATO SAUCE </purpose>
+One teaspoonful of chopped <ingredient>parsley;</ingredient> two cupfuls of boiled <ingredient>rice;</ingredient> four <ingredient>tomatoes,</ingredient> or half a can; one <ingredient>onion;</ingredient> one tablespoonful of <ingredient>fat pork;</ingredient> dash of <ingredient>cayenne.</ingredient></p>
+ 
+<pb n="53" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=63"/>
+<p>Cut up the <ingredient>pork</ingredient> and fry brown. Put in the <ingredient>onion,</ingredient> then the <ingredient>tomatoes</ingredient> and <ingredient>salt</ingredient> and <ingredient>cayenne</ingredient>. Fry for five minutes. Turn the <ingredient>rice,</ingredient> which has previously been cooked, into the pan and fry all together for five minutes. Place on hot platter, and garnish with minced <ingredient>parsley</ingredient> and <ingredient>eggs,</ingredient> threaded. Serve very hot. Make <ingredient>eggs</ingredient> thread by beating them with a tablespoonful of <ingredient>water,</ingredient> then pour through a sieve into boiling <ingredient>water</ingredient> and use as a garnish.</p></recipe>
+</section>
+<section class1="eggscheesedairy">
+ 
+<pb n="54" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=64"/>
+<hd align="center" rend="bold">OMELETTES</hd>
+<recipe class1="eggscheesedairy" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">FOO TAY D&#196;N<lb/>(Chinese Ham and Eggs)</purpose>
+Six <ingredient>eggs;</ingredient> one tablespoonful of <ingredient>ham fat;</ingredient> one half cup of minced <ingredient>ham;</ingredient> one half dozen <ingredient>water chestnuts;</ingredient> one half of a small <ingredient>onion.</ingredient></p><p>Heat one tablespoonful of <ingredient>ham fat</ingredient> very hot. Chop up half a cupful of <ingredient>ham meat;</ingredient> slice thin half a dozen <ingredient>water chestnuts</ingredient> and half a small <ingredient>onion.</ingredient> Fry all together for five minutes; then beat six <ingredient>eggs,</ingredient> turn in pan, and scramble.</p></recipe>
+<recipe class1="eggscheesedairy" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">FOO YUNG D&#196;N<lb/>(Chinese Omelette with Herbs)</purpose>
+Four <ingredient>eggs;</ingredient> one half a minced <ingredient>onion;</ingredient> four sticks of <ingredient>celery;</ingredient> four ounces of <ingredient>pork;</ingredient> one dessert-spoonful of <ingredient>syou;</ingredient> one half teaspoonful of <ingredient>salt.</ingredient></p><p>Beat four <ingredient>eggs</ingredient> well; have ready half a minced <ingredient>onion</ingredient> and four sticks of <ingredient>celery,</ingredient> chopped very fine. Put in the frying pan four ounces of <ingredient>pork,</ingredient>
+ 
+<pb n="55" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=65"/>
+chopped fine, and fry until brown. Now add the <ingredient>herbs,</ingredient> with a dessert-spoonful of syou, and finally the beaten <ingredient>eggs.</ingredient> Let the whole cook for five minutes, without touching, but be careful to keep it from burning. Fold one half over the other, and slip on the platter. Serve at once, with <ingredient>rice.</ingredient></p></recipe>
+<recipe class1="eggscheesedairy" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">CHINESE SCRAMBLED EGGS</purpose>
+One half teaspoon of <ingredient>sweet lard;</ingredient> one <ingredient>onion;</ingredient> five <ingredient>eggs;</ingredient> one teaspoonful of <ingredient>salt;</ingredient> dash of <ingredient>cayenne pepper</ingredient> or <ingredient>black pepper.</ingredient></p><p>Put half a tablespoonful of <ingredient>lard</ingredient> in frying pan and when it is very hot toss in one <ingredient>onion,</ingredient> chopped fine, and fry to a golden brown. Break five <ingredient>eggs</ingredient> in a bowl, beat well, and turn into the pan; then keep stirring until it is done. It should all be a light golden brown. This is very good with <ingredient>rice.</ingredient></p></recipe>
+<recipe class1="eggscheesedairy" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">MUSHROOM OMELETTE</purpose>
+One tablespoonful of <ingredient>lard;</ingredient> one quarter of an <ingredient>onion;</ingredient> one half pound of fresh <ingredient>mushrooms;</ingredient> one tablespoonful 
+ 
+<pb n="56" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=66"/>
+of <ingredient>syou;</ingredient> four <ingredient>eggs;</ingredient> one quarter teaspoonful of <ingredient>salt.</ingredient></p><p>Into a tablespoonful of hot, <ingredient>sweet lard</ingredient> fry quarter of an <ingredient>onion</ingredient> a light brown. Cut half a pound of <ingredient>fresh mushrooms</ingredient> very fine, and cook for five minutes. Beat four <ingredient>eggs</ingredient> with one tablespoonful of <ingredient>syou</ingredient>, and turn into pan. Cook for five minutes without touching, but keep from burning by gently shaking the pan. Fold over, or slip from pan into dish which is kept warm over a dish of hot <ingredient>water.</ingredient></p></recipe>
+</section>
+<section class1="fruitvegbeans">
+ 
+<pb n="57" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=67"/>
+<hd align="center" rend="bold">VEGETABLES</hd>
+<recipe class1="fruitvegbeans" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">FRIED BEAN SPROUTS</purpose>
+Into a hot iron pan put a quarter of a pound of fresh <ingredient>pork fat,</ingredient> and fry brown. Drain all <ingredient>water</ingredient> from a pound of <ingredient>bean sprouts,</ingredient> put into the hot <ingredient>fat,</ingredient> and fry uncovered for five minutes, stirring to keep from burning. Now add to the three tablespoonfuls of <ingredient>syou,</ingredient> <ingredient>salt,</ingredient> and <ingredient>pepper.</ingredient> Cover tight, and let simmer for fifteen minutes.</p></recipe>
+<recipe class1="fruitvegbeans" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">FRIED CABBAGE</purpose> 
+Wash and dry the <ingredient>cabbage,</ingredient> then cut in long, slender strips, and throw into a deep frying pan containing two tablespoonfuls of hot <ingredient>fat.</ingredient> Sprinkle with <ingredient>salt</ingredient> and <ingredient>pepper</ingredient> to taste and fry, stirring for five minutes, shaking the pan to keep <ingredient>cabbage</ingredient> from burning. This is very good with <ingredient>rice,</ingredient> and is used by the poor Chinese as a substitute for fish.</p></recipe>
+<pb n="58" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=68"/>
+<recipe class1="fruitvegbeans" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">ENDIVE</purpose>
+Have <ingredient>water</ingredient> boiling hot and salted. Now put in a tiny piece of <ingredient>washing soda.</ingredient> Wash the endive, throw it into boiling <ingredient>water,</ingredient> and boil slowly for ten minutes. While boiling, take one tablespoonful of <ingredient>olive oil</ingredient> and heat it. Add one tablespoonful of <ingredient>vinegar,</ingredient> a dash of <ingredient>cayenne,</ingredient> half a teaspoonful of <ingredient>salt,</ingredient> and one clove of <ingredient>garlic,</ingredient> chopped very fine. Let this all simmer for five minutes, then drain off the <ingredient>water,</ingredient> and pour out the endive, and serve.</p><p>Endive is also good cooked as follows: Place one tablespoonful of <ingredient>sweet lard</ingredient> in pan, wash endive, and fry it for five minutes. Then cover it up tight and let it simmer in its own juice for ten minutes.</p></recipe>
+<recipe class1="fruitvegbeans" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">CHINESE PICKELED YELLOW TURNIPS</purpose>
+Cut the <ingredient>turnip</ingredient> in thin slices, then cut each slice in narrow strips until it looks like strands. Place in bowl and over it pour two cupfuls of <ingredient>vinegar,</ingredient> a dash of <ingredient>cayenne,</ingredient> a quarter of a clove
+ 
+<pb n="59" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=69"/>
+of <ingredient>garlic,</ingredient> two teaspoonfuls of <ingredient>salt,</ingredient> and one teaspoonful of <ingredient>ginger,</ingredient> and let stand twenty-four hours before serving. To the above quantity use enough <ingredient>turnip</ingredient> for the <ingredient>vinegar</ingredient> to cover evenly.</p></recipe>
+<recipe class1="fruitvegbeans" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">EGG PLANT</purpose>
+One large <ingredient>egg plant;</ingredient> two cups of <ingredient>vinegar;</ingredient> one dessert-spoonful of <ingredient>mixed spices;</ingredient> one cup of <ingredient>sugar.</ingredient></p><p>Cut one large <ingredient>egg plant</ingredient> in slices (not too thin). Soak for two hours in <ingredient>cold water</ingredient> with a handful of <ingredient>salt.</ingredient> Then drain this off, and pour over the <ingredient>egg plant</ingredient> a little <ingredient>vinegar</ingredient> mixed with <ingredient>water,</ingredient> and let it lie in this for about half an hour. Then drain thoroughly and pour over it two cupfuls of hot <ingredient>vinegar</ingredient> with dessert-spoonful of <ingredient>mixed spices</ingredient> and one cup of <ingredient>sugar.</ingredient> Cover tight and put away for at least twenty-four hours.</p></recipe>
+<recipe class1="fruitvegbeans" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">BOILED AND DEVILED CUCUMBERS</purpose>
+Peel the <ingredient>cucumbers,</ingredient> and place in salted boiling <ingredient>water.</ingredient> Boil slowly until the <ingredient>cucumbers</ingredient> become transparent.
+ 
+<pb n="60" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=70"/>
+Drain off all <ingredient>water</ingredient> and serve with a <ingredient>sauce</ingredient> made of one tablespoonful of <ingredient>olive oil</ingredient> and one teaspoonful of <ingredient>vinegar,</ingredient> beaten well with a dash of <ingredient>cayenne </ingredient>and the <ingredient>yolks of two hard-boiled eggs.</ingredient></p><p><ingredient>Cucumbers</ingredient> can also be cooked by placing one tablespoonful of <ingredient>oil</ingredient> or <ingredient>fat</ingredient> in a deep frying pan, and into this putting the washed and peeled <ingredient>cucumbers,</ingredient> rolling them about, and frying for five minutes. Cover tight, and let simmer in their own juice until transparent.</p></recipe>
+<recipe class1="fruitvegbeans" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">FRIED BAMBOO SHOOTS</purpose>
+Take one can of <ingredient>bamboo shoots</ingredient> and drain off all water. Wipe the bamboo shoots dry, and slice in long thin strips. Have ready boiling <ingredient>peanut oil,</ingredient> and toss the shoots into that. Cook until crisp. Delicious. Must be eaten hot.</p></recipe>
+<recipe class1="fruitvegbeans" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">WATER CHESTNUT SALAD</purpose>
+Peel and wash these little <ingredient>nuts,</ingredient> which are about the size of an ordinary
+ 
+<pb n="61" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=71"/>
+chestnut. Slice very thin. Make a dressing of the following: To two tablespoonfuls of <ingredient>olive oil</ingredient> add the <ingredient>juice of one onion,</ingredient> one tablespoonful of fine <ingredient>vinegar,</ingredient> two teaspoonfuls of <ingredient>syou,</ingredient> one teaspoonful of <ingredient>salt,</ingredient> the <ingredient>yolks of two hard-boiled eggs</ingredient> crushed smooth, and half a teaspoonful of <ingredient>sugar.</ingredient> Mix all until smooth, then pour it over the <ingredient>water chestnuts.</ingredient> Sprinkle with chopped <ingredient>parsley.</ingredient></p></recipe>
+<recipe class1="fruitvegbeans" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">CHAR QU&#196;<lb/>(Chinese Artichokes)</purpose>
+Six <ingredient>char quars;</ingredient> one teaspoonful of <ingredient>olive oil;</ingredient> one tablespoonful of <ingredient>Quong Sang Chong;</ingredient> two tablespoonfuls of <ingredient>syou;</ingredient> two tablespoonfuls of chopped <ingredient>parsley;</ingredient> <ingredient>yolks of two hard-boiled eggs.</ingredient></p><p>These little vegetables are peculiar to China, but are also grown very successfully on Long Island by the Chinese farmers. They have a very delicate flavor, and cooked the following way are very delicious, as well as extremely attractive. First wash thoroughly in <ingredient>cold water,</ingredient> then turn
+ 
+<pb n="62" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=72"/>
+them into boiling <ingredient>salted water</ingredient> and boil about twenty minutes, meanwhile preparing the following sauce: Mix one teaspoonful of <ingredient>olive oil</ingredient> with one tablespoonful of <ingredient>Quong Sang Chong (water chestnut flour)</ingredient> until very smooth, then pour enough boiling <ingredient>water</ingredient> over it to make a thick cream. Add one teaspoonful of <ingredient>syou,</ingredient> and let it just come to a boil, stirring in the chopped <ingredient>parsley</ingredient> gently. Arrange the <ingredient>artichokes</ingredient> on a small platter with green lining, or place a green leaf under each <ingredient>artichoke.</ingredient> Fill the center of each with the <ingredient>yolks of hard-boiled egg,</ingredient> whipped smooth with a little <ingredient>olive oil</ingredient> and <ingredient>salt.</ingredient> Lastly, pour the <ingredient>sauce</ingredient> over, and serve. This should look like a <ingredient>water</ingredient> lily.</p></recipe>
+<recipe class1="fruitvegbeans" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">CHINESE FRIED PEAS<lb/>(Used by Children as Salted Peanuts are Used in America)</purpose>
+Put a teaspoonful of <ingredient>peanut oil</ingredient> in the frying pan, taking care to have one with a long handle, as the <ingredient>peas</ingredient> may pop. Toss a pint of <ingredient>yellow whole
+ 
+<pb n="63" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=73"/>
+peas</ingredient> in the pan, and shake the pan while the <ingredient>peas</ingredient> roll about and turn a light brown. Chinese children make little cornucopia paper bags into which to put these <ingredient>peas</ingredient> and eat them like nuts.</p></recipe>
+<recipe class1="fruitvegbeans" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">PUMPKIN AND YELLOW SEEDS</purpose> 
+Remove large <ingredient>seeds</ingredient> and spread them on paper. Sprinkle with <ingredient>salt,</ingredient> and bake them until dry.</p></recipe>
+<recipe class1="breadsweets" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">FRIED NOODLES </purpose>
+Have about two quarts of boiling <ingredient>peanut oil.</ingredient> Throw in the <ingredient>noodles</ingredient> and fry a golden brown. Remove from <ingredient>oil,</ingredient> and drain off all fat by laying noodles on bit of paper.</p></recipe>
+</section>
+<section class1="breadsweets">
+ 
+<pb n="64" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=74"/>
+<hd align="center" rend="bold">CAKES</hd>
+<recipe class1="breadsweets" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">ALMOND CAKES</purpose>
+Two cupfuls of <ingredient>rice flour;</ingredient> one quarter cupful of <ingredient>almond oil;</ingredient> one half cupful of chopped <ingredient>almonds;</ingredient> one and one half cupfuls of <ingredient>powdered sugar;</ingredient> two <ingredient>eggs.</ingredient></p><p>Mix thoroughly two cupfuls of <ingredient>rice flour,</ingredient> one and one half cupfuls of <ingredient>powdered sugar,</ingredient> and half a cupful of <ingredient>blanched almonds,</ingredient> chopped very fine, with a quarter of a cupful of <ingredient>almond oil.</ingredient> Moisten with two beaten <ingredient>eggs.</ingredient> Use no <ingredient>water,</ingredient> and if too stiff, add more <ingredient>egg.</ingredient> Roll about quarter of an inch thick, and cut in fanciful shapes. Place <ingredient>half an almond</ingredient> in the center of each cake, and bake them for one hour in a moderate oven. These cakes are certain to keep for a long time if they are placed in a tin box.</p></recipe>
+<pb n="65" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=75"/>
+<recipe class1="breadsweets" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">GUM LU<lb/>(Golden Cakes)</purpose> 
+One and one half cupfuls of <ingredient>rice flour;</ingredient> one cupful of <ingredient>honey;</ingredient> one quarter cupful of <ingredient>mixed nuts,</ingredient> chopped; three teaspoonfuls of <ingredient>clarified goose fat;</ingredient> <ingredient>yolks of two eggs;</ingredient> pinch of <ingredient>salt.</ingredient></p><p>Take one and one half cupfuls of <ingredient>rice flour</ingredient> and a pinch of <ingredient>salt</ingredient> and into this work three teaspoonfuls of <ingredient>clarified goose fat.</ingredient> Then chop very fine about quarter of a cup of minced <ingredient>nuts.</ingredient> Beat the <ingredient>yolks of two eggs,</ingredient> and mix all together. Now pour in one cup of <ingredient>raw, dark honey.</ingredient> If too moist, add more <ingredient>flour.</ingredient> Stir thoroughly for fifteen or twenty minutes, and pour into small cake pans, well oiled, and bake slowly for two hours.</p></recipe>
+<recipe class1="breadsweets" ethnicgroup="chinese"><p><purpose align="center" rend="bold" placement="heading">LAI YUT<lb/>(Beautiful Moon Tarts) </purpose>
+Two cupfuls of <ingredient>rice flour;</ingredient> one tablespoonful of <ingredient>clarified goose fat;</ingredient> two <ingredient>eggs.</ingredient></p><p>These tarts are a sort of dumpling. Work a heaping tablespoonful of 
+ 
+<pb n="66" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=76"/>
+<ingredient>clarified goose fat</ingredient> into two cups of <ingredient>rice flour.</ingredient> Add <ingredient>ice-cold water</ingredient> slowly to make a stiff paste. Roll out, brush with the whipped <ingredient>whites of eggs,</ingredient> and fold over several times, each time brushing with <ingredient>egg;</ingredient> then roll about quarter of an inch thick and cut into rounds about the size of a small saucer. Put in the filling, and place another <ingredient>round of paste</ingredient> on top. Press together at the edge, forming a rounded edge, and brush all again with <ingredient>white of egg.</ingredient> Bake for fifty minutes in a moderate oven, then remove the outer flake, which will leave the tart snow white. Decorate with a <ingredient>yellow moon</ingredient> in the center, cut from <ingredient>candied orange peel</ingredient> or painted with <ingredient>fruit coloring.</ingredient></p><p>Filling: Two cups of <ingredient>lychee nuts,</ingredient> stoned and mashed to a pulp, one and one half cupfuls of <ingredient>sugar,</ingredient> quarter of a cupful of <ingredient>crystallized limes,</ingredient> and a teaspoonful of  <ingredient>mixed spices.</ingredient> Mix all well together, and use to fill tart.</p><p><variation>Another filling: Quarter of a pound of <ingredient>beef fat,</ingredient> cut in small pieces, one
+ 
+<pb n="67" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=77"/>
+cupful of chopped <ingredient>dates,</ingredient> one cupful of <ingredient>preserved pineapple,</ingredient> quarter of a cupful of <ingredient>blanched chopped almonds,</ingredient> one and one half cupfuls of <ingredient>sugar,</ingredient> and one teaspoonful of <ingredient>mixed spices.</ingredient> Mix thoroughly.</variation></p></recipe>
+</section>
+ 
+<pb n="blank" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=78"/>
+</chapter>
+<chapter>
+ 
+<pb n="NONE OF THE ABOVE" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=79"/>
+<hd align="center">PART II<lb/>JAPANESE RECIPES</hd>
+ 
+<pb n="blank" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=80"/>
+<section class1="soups">
+ 
+<pb n="71" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=81"/>
+<hd align="center" rend="bold">SOUPS</hd>
+<recipe class1="soups" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">SATSUMA SOUP</purpose>
+One small <ingredient>chicken;</ingredient> one medium-sized <ingredient>carrot;</ingredient> one pint of <ingredient>satorius (elephant-ear plant);</ingredient> two <ingredient>white radishes;</ingredient> one quarter pound of <ingredient>dried mushrooms;</ingredient> one quarter pound of <ingredient>aburage (oil-fried Tofu);</ingredient> one quarter pound of <ingredient>miso paste (soy bean and rice cheese);</ingredient> one half teaspoonful of <ingredient>mixed red-pepper spices.</ingredient></p><p>To prepare the <ingredient>chicken,</ingredient> separate the <ingredient>meat</ingredient> from the bones; then put <ingredient>bones</ingredient>in<ingredient>cold water</ingredient> and boil slowly for about two hours. Strain, and add the <ingredient>well-chopped vegetables</ingredient>. (The <ingredient>mushrooms</ingredient> should have been washed, and soaked in lukewarm water for ten minutes previously.) Boil for one more hour, then add the <ingredient>chicken meat,</ingredient> cut in very small pieces, <ingredient>salt,</ingredient> <ingredient>spices,</ingredient> and half a teaspoonful of <ingredient>sugar.</ingredient> Cook all slowly for one hour. This makes about three pints of soup. It
+ 
+<pb n="72" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=82"/>
+is better to make it the day before it is to be used. Soup is always improved by standing over night. The late Mikado took three or four sips of this soup for breakfast.</p></recipe>
+<recipe class1="soups" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">TORI SHIRU<lb/>(Chicken Soup)</purpose>
+Two pound <ingredient>chicken</ingredient> (not necessarily young); one half pound of <ingredient>egg noodles;</ingredient> one half cupful <ingredient>syou sauce;</ingredient> one quarter pound of <ingredient>white mushrooms;</ingredient> one half dozen <ingredient>water chestnuts;</ingredient> <ingredient>salt,</ingredient> <ingredient>pepper,</ingredient> and <ingredient>sugar.</ingredient></p><p>Thoroughly clean and singe the <ingredient>chicken,</ingredient> and scald feet to peel off scabs or skin. Cut <ingredient>giblets</ingredient> in small pieces and the <ingredient>chicken</ingredient> in about six pieces, and cover with three quarts of <ingredient>cold water.</ingredient> Boil all for about three hours, according to the age of the chicken. While it is boiling wash and cut up the vegetables. Now make the <ingredient>egg noodles</ingredient> of <ingredient>flour</ingredient> and <ingredient>eggs</ingredient> and roll as thin as paper on a floured board, then cut in shapes of flowers (chrysanthemums, the Japanese prefer), and 
+ 
+<pb n="73" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=83"/>
+leave spread out on the board to dry. Drain all soup from the bones and bring to a boil. Add <ingredient>vegetables,</ingredient> <ingredient>salt,</ingredient> <ingredient>pepper,</ingredient> and one teaspoonful of <ingredient>sugar;</ingredient> also the <ingredient>syou sauce.</ingredient> Boil all for half an hour, then throw in the noodles and cook for ten minutes. Serve each bowl of soup with one large noodle flower on top.</p></recipe>
+<recipe class1="soups" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">UWO SHIRU (Fish Soup)</purpose> 
+One and one half pounds of <ingredient>fish</ingredient> (any kind); one quarter pound of <ingredient>fat pork;</ingredient> one pound of <ingredient>miso paste (bean and rice paste);</ingredient> one half cupful of <ingredient>syou sauce;</ingredient> one cupful of <ingredient>cooking juice sauce;</ingredient> one small <ingredient>carrot;</ingredient> two <ingredient>onions;</ingredient> three <ingredient>hard-boiled eggs;</ingredient> two tablespoonfuls of cooked, chopped <ingredient>ham;</ingredient> <ingredient>pepper,</ingredient> <ingredient>salt,</ingredient> <ingredient>sugar,</ingredient> and <ingredient>spices.</ingredient></p><p>To make this soup, any <ingredient>fish</ingredient> of the milder variety can be used, such as <ingredient>cod,</ingredient> <ingredient>haddock,</ingredient> or <ingredient>bass;</ingredient> <ingredient>lobster</ingredient> and shrimps are also good cooked this way. Have the <ingredient>pork</ingredient> cut into small pieces, and fry a golden brown; then
+ 
+<pb n="74" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=84"/>
+wash the <ingredient>fish</ingredient> and take out all bones, chop up into small pieces, add to the <ingredient>pork,</ingredient> and fry for a few minutes. Have ready all the vegetables, cleaned and grated, and put into the pot with the syou and cooking juice, <ingredient>salt,</ingredient> <ingredient>pepper,</ingredient> and <ingredient>spices.</ingredient> Let it come to a boil, then add the <ingredient>miso paste,</ingredient> mixed with a pint and a half of <ingredient>boiling water.</ingredient> Stir all well together, and boil for one hour, adding <ingredient>boiling water</ingredient> if it cooks away. Strain into soup bowls, and serve with slices of <ingredient>hard-boiled eggs,</ingredient> sprinkled with chopped <ingredient>parsley</ingredient> and grated <ingredient>ham.</ingredient></p></recipe>
+</section>
+<section class1="meatfishgame">
+ 
+<pb n="75" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=85"/>
+<hd align="center" rend="bold">FISH</hd>
+<recipe class1="meatfishgame" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">MUSHI KUJIRA<lb/>(Boiled Whale or Bass)</purpose>
+Two pounds of <ingredient>fish;</ingredient> one half teacupful of <ingredient>syou;</ingredient> <ingredient>orange and lemon skin;</ingredient> two long, large <ingredient>radishes;</ingredient> two tablespoonfuls of <ingredient>vinegar;</ingredient> <ingredient>salt,</ingredient> and dash of <ingredient>cayenne pepper.</ingredient></p><p>Take off all bones and slice the <ingredient>fish</ingredient> daintily in long slices, and then in half-inch dice. Sprinkle with <ingredient>salt,</ingredient> and leave for about fifteen minutes. Cut <ingredient>radishes</ingredient> in long, even, delicate strips. Boil for a few minutes, strain, then add half a cupful of <ingredient>syou sauce</ingredient> and two tablespoonfuls of a fine <ingredient>vinegar.</ingredient> When it boils, drop in the <ingredient>fish</ingredient> slices. Boil up, then push to back of range, and, covered tight, let it simmer for half an hour. Grate the <ingredient>peels of half a lemon and half an orange,</ingredient> and sprinkle over the <ingredient>fish,</ingredient> after having removed it to a hot platter. Serve with <ingredient>boiled rice.</ingredient></p>
+ 
+<pb n="76" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=86"/>
+<p>NOTE. This dish comes from Nagasaki, and is really a Japanized Chinese dish. Japanese cooking of fish greatly resembles that of the Chinese.</p></recipe>
+<recipe class1="meatfishgame" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">TEMBANI OF MACKEREL<lb/>(Fish Delicacy)</purpose>
+One good-sized <ingredient>mackerel;</ingredient> one fresh <ingredient>radish;</ingredient> one cupful of syou <ingredient>sauce;</ingredient> <ingredient>vinegar;</ingredient> <ingredient>orange or lemon peel;</ingredient> one half cupful of cooking <ingredient>juice.</ingredient></p><p>Clean the <ingredient>fish,</ingredient> and remove all <ingredient>bones.</ingredient> Cut into half-inch dice, sprinkle with <ingredient>salt,</ingredient> and let stand for about half an hour. Wash the <ingredient>radish</ingredient> and cut into thin pieces, then throw it into the salted, boiling <ingredient>water.</ingredient> Boil for about five minutes, then strain off all <ingredient>water</ingredient> and add half a cupful of syou <ingredient>sauce</ingredient> and the same amount of cooking <ingredient>juice.</ingredient> Let all boil up, then add the <ingredient>fish</ingredient> and let it simmer for about twenty-five minutes. Remove from the fire, and before serving add a tablespoonful of <ingredient>vinegar.</ingredient> Place on a hot platter, and sprinkle with grated <ingredient>lemon or orange peel.</ingredient> Serve with boiled <ingredient>rice.</ingredient></p></recipe>
+<pb n="77" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=87"/>
+<recipe class1="meatfishgame" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">ONIGARA YAKI<lb/>(Broiled Lobster)</purpose>
+One <ingredient>lobster;</ingredient> <ingredient>syou sauce;</ingredient> <ingredient>salt</ingredient> and <ingredient>pepper;</ingredient> <ingredient>powdered sanshi spice.</ingredient></p><p>Wash the lobster carefully in <ingredient>cold water.</ingredient> Place in boiling, <ingredient>salted water,</ingredient> and boil very slowly for one hour. Remove from the saucepan, and immediately throw into <ingredient>cold water.</ingredient> Cut in two pieces lengthwise, and dip each half in <ingredient>syou sauce.</ingredient> Place upon <implement>gridiron,</implement> and toast well both back and front, taking minute care not to blacken skin and fins. Once again cover with <ingredient>syou sauce,</ingredient> sprinkle with <ingredient>sanshi spice</ingredient> and <ingredient>pepper,</ingredient> and serve.</p><p>NOTE: <ingredient>Sanshi spice</ingredient> is made from the <ingredient>seeds</ingredient> that grow on the sanshi tree in Japan.</p></recipe>
+<recipe class1="meatfishgame" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">YAKI ZAKANA (Fried Fish)<lb/></purpose>
+For any small <ingredient>fish.</ingredient> Wash the <ingredient>fish</ingredient> and scale it if necessary, removing all fins. Rub well with <ingredient>salt.</ingredient> Have ready a deep iron pot and use <ingredient>peanut or goma-seed oil,</ingredient> or, if preferred, <ingredient>olive oil.</ingredient> Do not have too much <ingredient>oil</ingredient> in pan,
+ 
+<pb n="78" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=88"/>
+but only enough to prevent burning. Lay the <ingredient>fish</ingredient> in the pan, but do not crowd one on top of another; fry a light brown, being careful in turning not to break the <ingredient>fish.</ingredient> Have ready <ingredient>oil-fried Tofu,</ingredient> and place each <ingredient>fish</ingredient> on a cake of about the length of the <ingredient>fish.</ingredient> Sprinkle with <ingredient>grated lemon peel,</ingredient> and serve with <ingredient>rice,</ingredient> very hot.</p><p>NOTE: Tofu is made from a mixture of <ingredient>syou bean and rice.</ingredient> It is mashed and rolled into a thin cake, and fried in <ingredient>oil,</ingredient> very much like pancakes.</p></recipe>
+<recipe class1="meatfishgame" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">JAPANESE FISH BALLS</purpose>
+Take any boiled <ingredient>fish,</ingredient> cold, and mix with <ingredient>rice,</ingredient> boiled to a <ingredient>paste.</ingredient> Roll in <ingredient>flour</ingredient> to balls the size of large marbles; toss into <ingredient>boiling goma-seed oil,</ingredient> and fry a golden brown.</p></recipe>
+</section>
+<section class1="meatfishgame">
+ 
+<pb n="79" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=89"/>
+<hd align="center" rend="bold">POULTRY AND GAME</hd>
+<recipe class1="meatfishgame" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">YAKI UDZURA<lb/>(Broiled Quail or Pigeons)</purpose>
+<ingredient>Quail (or pigeons);</ingredient> <ingredient>mushrooms;</ingredient> <ingredient>aburage (bean cheese paste)</ingredient> <ingredient>Tofu; olive oil;</ingredient> <ingredient>parsley.</ingredient></p><p>Prepare the <ingredient>quail or pigeons</ingredient> the day before using by washing and singeing and rubbing with <ingredient>salt,</ingredient> then put them away in cool place. Next day take half a pound of <ingredient>aburage,</ingredient> and fry the Tofu cakes in <ingredient>oil.</ingredient> Set in warm place to drain off the <ingredient>oil</ingredient> while toasting the birds. Dip the birds in <ingredient>olive oil,</ingredient> then in dry <ingredient>flour,</ingredient> and toast over a red-hot fire, turning quickly until they are a crisp brown. Place each bird, or half of a bird, if it is a pigeon, on the fried Tofu, and have some <ingredient>white mushrooms</ingredient> which have been fried in <ingredient>oil,</ingredient> placed around the birds. Then sprinkle with chopped <ingredient>parsley,</ingredient> and serve very hot.</p></recipe>
+<pb n="80" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=90"/>
+<recipe class1="meatfishgame" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">SHIKA SHIRO<lb/>(Pot-roasted Venison)</purpose>
+Three pounds of <ingredient>venison steak;</ingredient> one cupful of <ingredient>syou sauce;</ingredient> one cupful of <ingredient>vinegar;</ingredient> two tablespoonfuls of <ingredient>sugar;</ingredient> one quarter pound of fresh <ingredient>pork</ingredient> (fat); one quarter pound of <ingredient>miso paste;</ingredient> one <ingredient>onion.</ingredient></p><p>Place the <ingredient>meat</ingredient> in an earthenware bowl and cover with one cup of <ingredient>vinegar,</ingredient> two tablespoonfuls of <ingredient>sugar</ingredient> and the same amount of <ingredient>salt,</ingredient> one tablespoonful of <ingredient>mixed spices,</ingredient> and one <ingredient>onion,</ingredient> sliced. Cover, and put away to <ingredient>pickle</ingredient> for two or three days in a cool place. When ready to cook, remove <ingredient>meat</ingredient> from the juices, cut up the <ingredient>pork</ingredient> in small strips, and fry a light brown in deep iron pan. Add the <ingredient>venison meat,</ingredient> and fry well on both sides until brown, taking care not to burn it. Add the <ingredient>syou sauce,</ingredient> cover tight, and let simmer for one hour, or two, if necessary. Mix the <ingredient>miso paste</ingredient> with a little <ingredient>cold water,</ingredient> and stir it until it thickens. Remove the platter, and garnish with slices of <ingredient>lemon</ingredient> sprinkled with chopped <ingredient>parsley.</ingredient></p></recipe>
+<pb n="81" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=91"/>
+<recipe class1="meatfishgame" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">FRIED SQUAB</purpose>
+Take very small <ingredient>squabs,</ingredient> clean them, and rub dry. Separate the legs and wings, and cut the body into small pieces. Toss into boiling <ingredient>peanut oil,</ingredient> and cook until crisp. Remove, drain off <ingredient>oil,</ingredient> and serve on fried <ingredient>Tofu</ingredient>.</p></recipe>
+<recipe class1="meatfishgame" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">HATO SHIRO<lb/>(Stewed Pigeon)</purpose>
+Two good-sized <ingredient>pigeons;</ingredient> one cupful of <ingredient>syou sauce;</ingredient> one half cupful of <ingredient>mirin sauce or sherry;</ingredient> one tablespoonful of <ingredient>sugar;</ingredient> one small <ingredient>onion;</ingredient> two tablespoonfuls of <ingredient>kudze starch;</ingredient> one quarter pound of <ingredient>fat</ingredient> <ingredient>fresh pork;</ingredient> one dozen <ingredient>water chestnuts;</ingredient> one quarter pound of <ingredient>bamboo shoots;</ingredient> <ingredient>salt</ingredient> and <ingredient>pepper.</ingredient></p><p>Select good, plump <ingredient>pigeons</ingredient> and singe and clean thoroughly, then dry. Rub well with <ingredient>salt.</ingredient> Take the <ingredient>fat pork</ingredient> and fry out all the <ingredient>fat,</ingredient> and when boiling hot put in the <ingredient>pigeons</ingredient> and brown all over, rolling them on all sides. Have ready the <ingredient>water chestnuts;</ingredient> washed and cut in thin slices, 
+ 
+<pb n="82" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=92"/>
+also the bamboo shoots cut in thin strips. Chop up the <ingredient>onion</ingredient> very fine, and turn into the saucepan with the <ingredient>pigeons,</ingredient> adding the <ingredient>syou sauce,</ingredient> <ingredient>pepper,</ingredient> <ingredient>salt,</ingredient> and <ingredient>sugar.</ingredient> Cover very tight, and simmer over a slow fire for one hour. Then add the <ingredient>mirin sauce,</ingredient> or <ingredient>sherry.</ingredient> Lastly, mix two tablespoonfuls of <ingredient>kudzu starch</ingredient> in <ingredient>cold water,</ingredient> and stir into the juice until it thickens. Serve with <ingredient>rice.</ingredient></p></recipe>
+<recipe class1="meatfishgame" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">MUSHI KIJI (Roast Pheasant)</purpose>
+One good <ingredient>pheasant;</ingredient> one pound of small <ingredient>Japanese almonds;</ingredient> one and one half cupfuls of <ingredient>rice paste</ingredient> (comes prepared); three cupfuls of <ingredient>mirin sauce;</ingredient> one half cupful of <ingredient>cooking sauce;</ingredient> one tablespoonful of <ingredient>sugar;</ingredient> <ingredient>salt,</ingredient> <ingredient>pepper,</ingredient> and <ingredient>mixed spices;</ingredient> <ingredient>oil.</ingredient></p><p>Wash and singe the bird, then rub well with <ingredient>salt.</ingredient> Place in deep dish and cover with three cupfuls of <ingredient>mirin sauce;</ingredient> more, if that quantity does not cover the bird. Lay away in a cool place over night, then drain 
+ 
+<pb n="83" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=93"/>
+off all liquid and have ready the <ingredient>almonds,</ingredient> blanched and chopped very fine. Add them to the <ingredient>rice paste</ingredient> with the <ingredient>sugar,</ingredient> a little <ingredient>salt,</ingredient> quarter of a cup of <ingredient>cooking sauce,</ingredient> and a pinch of <ingredient>mixed spices.</ingredient> Stir all together, and stuff the <ingredient>pheasant</ingredient> with this mixture. Sew up, and truss. Have ready boiling hot <ingredient>olive oil</ingredient> or goma-<ingredient>seed oil,</ingredient> pour it over the <ingredient>pheasant,</ingredient> and place in a hot oven. Roast until tender (about one hour), adding little by little the rest of the <ingredient>cooking sauce,</ingredient> and basting frequently. Cook for a half-hour longer, then place on hot platter and garnish with flower petals and <ingredient>water cress.</ingredient></p></recipe>
+<recipe class1="meatfishgame" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">USAGI AMAI-SUI<lb/>(Hare, Sweet and Sour)</purpose>
+One good-sized <ingredient>rabbit or hare;</ingredient> one cupful of <ingredient>vinegar;</ingredient> one cupful of <ingredient>syou sauce;</ingredient> one tablespoonful of <ingredient>salt;</ingredient> three tablespoonfuls of <ingredient>sugar;</ingredient> one half cupful of <ingredient>mirin sauce;</ingredient> one tablespoonful of <ingredient>mixed spices;</ingredient> one half pound of <ingredient>fat fresh pork;</ingredient> one dozen <ingredient>red plums;</ingredient> one small <ingredient>lime or lemon.</ingredient></p>
+ 
+<pb n="84" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=94"/>
+<p>Take a small <ingredient>hare or large rabbit</ingredient> that has been hanging for at least two days, and after it has been skinned, and the insides removed, wash well in <ingredient>cold water.</ingredient> Cut in quarters and put in a deep dish, covering it well with the <ingredient>vinegar,</ingredient> <ingredient>sugar,</ingredient> <ingredient>salt,</ingredient> and so on, mixed with <ingredient>water.</ingredient> Add the <ingredient>spices</ingredient> also, and a quarter of a cupful of <ingredient>mirin sauce.</ingredient> Cover up well, and let it pickle in a cool place for two or three days; then remove it from the liquid and cut in small pieces. Have ready the <ingredient>fat pork</ingredient> cut in small pieces, and fry. Toss in the <ingredient>hare,</ingredient> and brown. Now have ready a covered China cook dish or casserole, and place in it the <ingredient>hare</ingredient> and <ingredient>pork,</ingredient> adding the <ingredient>syou sauce,</ingredient> a pinch of <ingredient>salt,</ingredient> pinch of the <ingredient>spices,</ingredient> and the quarter cupful of <ingredient>mirin sauce.</ingredient> Cover up tightly, and cook in a slow oven for one hour. Then prepare a dozen large <ingredient>red plums,</ingredient> removing the stones, and add them. Dissolve one teaspoonful of <ingredient>Kanton (Japanese gelatine)</ingredient> and mix with the <ingredient>gravy,</ingredient> taking care not to break the 
+ 
+<pb n="85" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=95"/>
+<ingredient>plums.</ingredient> Cook for another five minutes, then place on a hot platter, decorated with slices of <ingredient>lemon</ingredient> or <ingredient>limes,</ingredient> with a <ingredient>plum</ingredient> placed on top of each slice. This is good served either with <ingredient>white-bean cakes</ingredient> or <ingredient>rice.</ingredient></p></recipe>
+<recipe class1="meatfishgame" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">MUSHI AHIRU<lb/>(Baked Duck)</purpose>
+Clean and singe the <ingredient>duck</ingredient> and wash in <ingredient>lukewarm water,</ingredient> then wipe dry with a clean cloth. Rub well with <ingredient>salt.</ingredient> Cut in pieces, and dip each piece of the <ingredient>duck</ingredient> in a batter made of <ingredient>kudzu starch</ingredient> and <ingredient>eggs.</ingredient> Make the batter of about the thickness of fritters. Lay these in a pan that has been oiled, and bake in a slow oven for two hours. Make a <ingredient>gravy</ingredient> by chopping the <ingredient>giblets</ingredient> very fine and putting them in a pot with a cupful of <ingredient>water,</ingredient> a cupful of <ingredient>syou sauce,</ingredient> <ingredient>salt</ingredient> and <ingredient>pepper,</ingredient> and a teaspoonful of <ingredient>sugar.</ingredient> Boil slowly while the <ingredient>duck</ingredient> is baking. Place the <ingredient>duck,</ingredient> which should be well browned, on a platter, then pour over it the <ingredient>gravy</ingredient> and garnish with <ingredient>orange or lemon peel,</ingredient> grated.</p></recipe>
+<pb n="86" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=96"/>
+<recipe class1="meatfishgame" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">ROAST CHICKEN<lb/>(Japanese Style)</purpose>
+Take a young, tender <ingredient>chicken</ingredient> and clean and singe. Put the <ingredient>feet</ingredient> to boil until the scabs scale off, then place with the <ingredient>giblets</ingredient> to boil slowly. Make a stuffing of <ingredient>rice</ingredient> boiled dry in <ingredient>chicken gravy,</ingredient> add chopped <ingredient>onion</ingredient> and a pinch of <ingredient>mixed spices,</ingredient> <ingredient>salt,</ingredient> <ingredient>pepper,</ingredient> and a dash of <ingredient>cayenne.</ingredient> Put this in body of <ingredient>chicken</ingredient> and sew up. Roast for an hour, or longer, according to age of <ingredient>chicken.</ingredient> Make a <ingredient>gravy</ingredient> from the stock of the <ingredient>giblets.</ingredient> Chop the <ingredient>giblets</ingredient> up fine and add to the gravy. Serve with roasted <ingredient>sweet potatoes.</ingredient></p></recipe>
+</section>
+<section class1="eggscheesedairy">
+ 
+<pb n="87" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=97"/>
+<hd align="center" rend="bold">OMELETTES AND CUSTARDS</hd>
+<recipe class1="eggscheesedairy" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">UNOHANA YAKI<lb/>(Flower Custard)</purpose>
+Two ounces of <ingredient>Kanton (Japanese gelatine);</ingredient> six <ingredient>eggs;</ingredient> three tablespoonfuls of <ingredient>cherry sirup;</ingredient> one ounce of <ingredient>goma seeds.</ingredient></p><p>To make the pink custards, whip the whites of five <ingredient>eggs</ingredient> into the dissolved two ounces of gelatine. Add, while stirring over a slow fire, three tablespoonfuls of <ingredient>cherry sirup.</ingredient> Let it come to a boil, then pour quickly into flower-shaped molds, and let it set.</p><p>Yellow custards can be made by using the <ingredient>yolks instead of the whites of eggs,</ingredient> and half a pint of <ingredient>coconut milk.</ingredient> When the custards are solid, turn them from the molds on to large leaves on a plate, or decorate the flowered custard with leaves suitable to the flower represented. If the flower has a dark center, use <ingredient>goma seeds,</ingredient> and if variegated colors are
+ 
+<pb n="88" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=98"/>
+liked, pour half the <ingredient>yellow and half the cherry custards</ingredient> into the molds. The effect is very pretty, and the custards delicious. The pouring should be done very quickly and lightly, and the molds, of course, should be of flower designs. All travelers are enthusiasts on the subject of Japanese flower custards.</p></recipe>
+<recipe class1="eggscheesedairy" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">KINOKO-TAMAGO-YAKI<lb/>(Shrimp Omelette)</purpose>
+Four <ingredient>eggs;</ingredient> one half cupful of <ingredient>shrimp meat;</ingredient> one half cupful of <ingredient>syou sauce;</ingredient><ingredient>goma-seed oil.</ingredient></p><p>Beat up the <ingredient>eggs</ingredient> with half a cupful of syou. Have ready about four or five small frying pans. Wipe pans when hot with paper soaked in <ingredient>goma-seed oil.</ingredient> Pour into each pan an equal quantity of the <ingredient>egg,</ingredient> and quickly divide and scatter in the <ingredient>shrimp meat,</ingredient> which has been finely chopped. Fry all slowly for four minutes. The Japanese brown both sides at once, by putting some burning <ingredient>charcoal</ingredient> into a tin plate and laying this on top of 
+ 
+<pb n="89" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=99"/>
+the omelette on the stove. The omelette should be served very hot, and for this purpose there are special omelette dishes, Chinese and Japanese, the lower part of which is a hot water holder.</p></recipe>
+<recipe class1="eggscheesedairy" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">USU TAMAGO YAKI<lb/>(Fried Eggs)</purpose>
+One half dozen <ingredient>eggs;</ingredient> one cupful of <ingredient>cooking juice;</ingredient> two tablespoonfuls of <ingredient>syou sauce.</ingredient></p><p>Beat the <ingredient>eggs</ingredient> with chopsticks, adding the <ingredient>cooking sauce</ingredient> and <ingredient>syou.</ingredient> Mix all well. Wipe a frying pan with paper soaked with <ingredient>goma-seed oil,</ingredient> and as soon as pan is well heated, pour in the above mixture and fry over a slow fire.</p></recipe>
+<recipe class1="eggscheesedairy" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">TAMAGO TOFU</purpose>
+<ingredient>Eggs;</ingredient> <ingredient>cooking juice;</ingredient> <ingredient>syou sauce;</ingredient> <ingredient>horseradish.</ingredient></p><p>Break any required number of <ingredient>eggs</ingredient> and beat with chopsticks. Mix with twice the amount of <ingredient>cooking juice</ingredient> and one third of <ingredient>syou sauce.</ingredient> Pour
+ 
+<pb n="90" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=100"/>
+the mixture into a thin china bowl or a tin mold, and steam over <ingredient>boiling water</ingredient> for thirty or forty minutes. Transfer a soupladleful to each individual bowl, and over each pour a small quantity of <ingredient>cookingjuice</ingredient> and a few drops of<ingredient> syou sauce.</ingredient> Sprinkle with ground <ingredient>horseradish,</ingredient> and serve very hot.</p></recipe>
+<recipe class1="eggscheesedairy" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">SCRAMBLED EGGS<lb/>(Japanese Style)</purpose>
+<ingredient>Eggs;</ingredient><ingredient>green pepper;</ingredient> <ingredient>cold boiled rice;</ingredient> <ingredient>mushrooms.</ingredient></p><p>Break into frying pan half a dozen <ingredient>eggs,</ingredient> stirring lightly with knife. Add quickly, before <ingredient>egg</ingredient> begins to cook, a tablespoonful of chopped <ingredient>green pepper,</ingredient> the <ingredient>juice of an onion,</ingredient> half a cupful of chopped <ingredient>mushrooms,</ingredient> and half a cupful of <ingredient>boiled rice.</ingredient>Toss all quickly together. Cook over a very slow fire, and serve hot.</p></recipe>
+<recipe class1="eggscheesedairy" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">SAKURA<lb/>(Cherry Custard)</purpose>
+Beat up lightly and frothily six fresh <ingredient>eggs.</ingredient> Add one cupful of <ingredient>milk,</ingredient> <ingredient>sugar,</ingredient>
+ 
+<pb n="91" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=101"/>
+and three tablespoonfuls of <ingredient>cherry sirup.</ingredient> Throw a handful of ripe, plump <ingredient>red cherries</ingredient> into the <implement>baking pan,</implement> and over this pour the above mixture. Bake for about half an hour in a medium oven. Then remove, and at intervals over top of dish set more <ingredient>cherries.</ingredient> <ingredient>Sugar</ingredient> is unnecessary where the <ingredient>cherries</ingredient> are sweet and ripe, as the sirup will then suffice.</p></recipe>
+<recipe class1="eggscheesedairy"><p><purpose align="center" rend="bold" placement="heading">TAMAGO BOLAN<lb/>(Peony Eggs)</purpose>
+Boil five <ingredient>eggs hard.</ingredient> Place in <ingredient>cold water.</ingredient> Remove shells carefully, so as not to blemish whites. Carefully cut off top with thread, one end between teeth, the other between fingers, drawing thread through <ingredient>egg.</ingredient> Remove the <ingredient>yolks.</ingredient> Boil a small <ingredient>pink snapper (fish)</ingredient> in <ingredient>hot water</ingredient> for ten minutes, or steam for thirty. Remove all bones and fins, and chop together until fine. Mix with finely <ingredient>mashed miso,</ingredient> <ingredient>pepper,</ingredient> and <ingredient>salt.</ingredient> Chop <ingredient>yolks</ingredient> daintily and fluffily, and mix with <ingredient>fish meat.</ingredient> Fill the <ingredient>whites</ingredient> with
+ 
+<pb n="92" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=102"/>
+this mixture. Now place the filled whites in center of a <ingredient>lettuce head</ingredient> and arrange fine strips of <ingredient>udo shoots</ingredient> round it. To fix <ingredient>lettuce head</ingredient> properly, all the leaves should be carefully adjusted and separated, washed, and then put back into shape again. It looks now like a bouquet, and is held together with toothpicks.</p></recipe>
+</section>
+<section class1="fruitvegbeans">
+ 
+<pb n="93" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=103"/>
+<hd align="center" rend="bold">VEGETABLES AND RELISHES</hd>
+<recipe class1="fruitvegbeans" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">KUWAI-KINTON<lb/>(Water Chestnut Cream)</purpose>
+Fifteen large <ingredient>water chestnuts;</ingredient> three quarters pound of <ingredient>sweet potatoes;</ingredient> three tablespoonfuls of <ingredient>vinegar;</ingredient> three quarters pound of <ingredient>sugar;</ingredient> one half pint of <ingredient>mirin sauce.</ingredient></p><p>Peel the skin from fifteen large <ingredient>water chestnuts</ingredient> and slice them very thin. Boil in <ingredient>lukewarm water</ingredient> for about fifteen minutes. Peel the <ingredient>sweet potatoes,</ingredient> cut in slices, and dip in <ingredient>ice-cold water</ingredient> three or four times, changing the <ingredient>water</ingredient> with each dipping. Boil about one quart in an enameled saucepan, add the <ingredient>vinegar,</ingredient> then throw in the <ingredient>sweet potatoes.</ingredient> Cover, and boil for about twenty minutes; then, if tender, drain off all the <ingredient>water</ingredient> and add the <ingredient>sugar,</ingredient> with five tablespoonfuls of <ingredient>warm water</ingredient> and also the <ingredient>mirin sauce.</ingredient> Add a pinch of <ingredient>salt.</ingredient> Then place over the fire and add the above prepared <ingredient>water chestnuts.</ingredient>
+ 
+<pb n="94" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=104"/>
+When the <ingredient>water chestnuts</ingredient> have thoroughly absorbed the <ingredient>juice,</ingredient> add the strained <ingredient>sweet potatoes,</ingredient> stir with wooden spoon, taking care not to burn it, and boil until it is firm. Serve hot or cold--it is better hot.</p></recipe>
+<recipe class1="fruitvegbeans" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">MUSHI TAMANA AND BUTA<lb/>(Cabbage and Pork)</purpose>
+One good-sized hard <ingredient>cabbage;</ingredient> one cupful of <ingredient>syou sauce;</ingredient> one tablespoonful of <ingredient>sugar;</ingredient> one pound of <ingredient>salt pork;</ingredient> one <ingredient>onion;</ingredient> <ingredient>salt</ingredient> and <ingredient>pepper.</ingredient></p><p>First boil the <ingredient>salt pork</ingredient> for one hour, then chop it in small pieces. Select a good hard <ingredient>cabbage</ingredient> without blemishes and wash it thoroughly in <ingredient>cold water;</ingredient> soak it in <ingredient>water</ingredient> with a handful of <ingredient>salt</ingredient> to kill all possible vermin. Remove from <ingredient>salted water,</ingredient> and rinse in <ingredient>fresh water,</ingredient> removing all <ingredient>salt.</ingredient> Carefully cut out the heart and center leaves, making a good-sized pocket, and fill this space with the chopped <ingredient>pork</ingredient> and one <ingredient>onion</ingredient> chopped very fine, <ingredient>salt,</ingredient> <ingredient>pepper,</ingredient> and a teaspoonful of <ingredient>goma seeds.</ingredient> Press the <ingredient>cabbage</ingredient>
+ 
+<pb n="95" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=105"/>
+leaves back into place, and tie tight in cheesecloth. Have ready a deep pot of <ingredient>boiling salted water,</ingredient> and in this place the <ingredient>cabbage</ingredient> in the bag. Cover, and boil slowly for two hours. Remove to a platter, and pour over it the <ingredient>syou sauce,</ingredient> which has first been boiled. Serve with <ingredient>rice.</ingredient></p></recipe>
+<recipe class1="fruitvegbeans" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">SHIRO URI<lb/>(Stewed Squash)</purpose>
+These <ingredient>squash</ingredient> or various kinds of vegetable marrows are best simply peeled and boiled in <ingredient>salted water</ingredient> for twenty minutes, then removed and allowed to simmer in boiling <ingredient>syou sauce</ingredient> for five minutes longer. They are also very good stuffed with chopped <ingredient>meat</ingredient> or <ingredient>fish.</ingredient> To stuff one, take <ingredient>cold meat,</ingredient> chop it very fine, then mix with it two tablespoonfuls of <ingredient>miso</ingredient> and <ingredient>salt,</ingredient> <ingredient>pepper,</ingredient> and <ingredient>spices,</ingredient> and two tablespoonfuls of <ingredient>syou,</ingredient> and fill the center. <ingredient>Fish</ingredient> can be used instead of <ingredient>meat;</ingredient> but if <ingredient>fish</ingredient> is used, add the <ingredient>juice of a lemon.</ingredient></p></recipe>
+<pb n="96" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=106"/>
+<recipe class1="fruitvegbeans" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">NASUBI YAKI<lb/>(Fried Eggplant)</purpose>
+Peel the <ingredient>eggplant</ingredient> and cut it in slices. Cover with <ingredient>ice water</ingredient> and a handful of <ingredient>salt.</ingredient> Put on a heavy weight, iron or stone, to press out the <ingredient>juice,</ingredient> and leave for about half an hour. Then strain off all <ingredient>water,</ingredient> which will be a dark brown, and rinse with fresh <ingredient>cold water,</ingredient> wiping dry each slice. Dip each piece in beaten <ingredient>eggs,</ingredient> and fry in <ingredient>goma-seed oil;</ingredient> drain off all <ingredient>oil.</ingredient> Place on a platter, covering well with one cupful of <ingredient>cooking sauce,</ingredient> boiled. Sprinkle with <ingredient>goma seeds,</ingredient> and serve with <ingredient>rice.</ingredient></p></recipe>
+<recipe class1="fruitvegbeans" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">AMAI TAMANA<lb/>(Sweet and Sour Cabbage)</purpose>
+Cut a small, hard <ingredient>cabbage</ingredient> very fine. Place in frying pan one tablespoonful of <ingredient>goma oil,</ingredient> and when it is boiling hot throw in the <ingredient>shredded cabbage.</ingredient> Sprinkle with <ingredient>salt,</ingredient> and fry, stirring constantly to keep it from burning. Add one tablespoonful of <ingredient>sugar,</ingredient> the same quantity of <ingredient>vinegar,</ingredient> and a little
+ 
+<pb n="97" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=107"/>
+piece of <ingredient>lemon</ingredient> or <ingredient>orange peel,</ingredient> shaved very fine. Cover tight, and let all simmer for twenty minutes. Finally add half a teaspoon of <ingredient>goma seeds.</ingredient> Serve hot.</p></recipe>
+<recipe class1="fruitvegbeans" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">SATSUMA TAMANA<lb/>(Cabbage, Satsuma Style)</purpose>
+Wash and shred fine a hard, crisp <ingredient>cabbage.</ingredient> In deep pan put <ingredient>goma-seed</ingredient> or <ingredient>olive oil.</ingredient> Add the <ingredient>cabbage,</ingredient> with half a dozen stoned <ingredient>prunes</ingredient> and the <ingredient>juice of a lemon,</ingredient> <ingredient>pepper,</ingredient> and <ingredient>salt.</ingredient> Let this slowly stew in its own juices for an hour or so. <ingredient>Raisins</ingredient> can be used instead of <ingredient>prunes,</ingredient> if preferred. It is a delicious way of cooking cabbage, the fruit lending a most delightful aroma to the <ingredient>cabbage.</ingredient></p></recipe>
+<recipe class1="fruitvegbeans" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">FRIED CABBAGE</purpose>
+Wash and shred a hard <ingredient>cabbage.</ingredient> Put <ingredient>olive oil</ingredient> in deep iron pot, and add the <ingredient>cabbage,</ingredient> pressing down until it is absorbed into the <ingredient>oil</ingredient> and moisture. Add <ingredient>pepper,</ingredient> <ingredient>salt,</ingredient> and <ingredient>syou sauce,</ingredient> and let simmer slowly for half an hour.
+ 
+<pb n="98" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=108"/>
+Remove lid about ten minutes before serving, to allow <ingredient>cabbage</ingredient> to brown.</p></recipe>
+<recipe class1="meatfishgame" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">CHICKEN LIVER PASTE</purpose>
+Fry <ingredient>chicken livers</ingredient> over slow fire, or boil if preferred. Drain from <ingredient>water</ingredient> or <ingredient>fat</ingredient> when cooked, and crush through sieve. Fry a cupful of fresh or <ingredient>dried mushrooms.</ingredient> Crush these also through sieve, and add it to the <ingredient>livers.</ingredient> Add the <ingredient>juice of an onion</ingredient> and some <ingredient>lemon juice.</ingredient> Serve on <ingredient>salted crackers.</ingredient> Delicious for sandwiches.</p></recipe>
+<recipe class1="meatfishgame" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">GIBLET PASTE</purpose>
+Boil <ingredient>giblets</ingredient> until they are in shreds. Crush through sieve, then add the <ingredient>juice of an onion</ingredient> and <ingredient>lemon juice.</ingredient> Whip lightly with the <ingredient>hard-boiled yolk of eggs.</ingredient> Serve on <ingredient>crackers,</ingredient> with <ingredient>crumbled yolks of eggs</ingredient> sprinkled on top.</p><p>Pastes can also be made in a similar manner from soft <ingredient>meats</ingredient> and <ingredient>fish.</ingredient> <ingredient>Onion</ingredient> is usually added, and sometimes chopped <ingredient>parsley.</ingredient></p></recipe>
+<pb n="99" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=109"/>
+<recipe class1="fruitvegbeans" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">SUMOMO SUI AND AMAI<lb/>(Plums, Sour and Sweet)</purpose>
+Have a sirup made of half a cupful of <ingredient>water,</ingredient> two cupfuls of <ingredient>sugar,</ingredient> a quarter cupful of <ingredient>vinegar,</ingredient> and half a teaspoonful of <ingredient>mixed spices,</ingredient> ground. When it is boiling drop in the <ingredient>plums,</ingredient> and let boil slowly for twenty minutes. Add half a cupful of <ingredient>mirin sauce,</ingredient> or any other desired spirits, and let all come to a boil once. Remove, and serve.</p></recipe>
+<recipe class1="fruitvegbeans" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">BAKED BANANAS</purpose>
+Split the <ingredient>bananas</ingredient> on one side of the skin. Place in a medium oven and bake for about ten minutes. Now take the <ingredient>fruit</ingredient> carefully from the skin, taking pains not to break the skin. Whip smooth with chopped <ingredient>dates</ingredient> and <ingredient>almonds</ingredient> (about a teaspoonful of <ingredient>dates</ingredient> and <ingredient>nuts</ingredient> to each banana), return mixture to shell, and serve with <ingredient>powdered rice</ingredient> or <ingredient>sugar.</ingredient> Serve cold or hot.</p></recipe>
+<recipe class1="fruitvegbeans" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">STUFFED BANANAS</purpose>
+Bake long, plump <ingredient>bananas</ingredient> for ten minutes in medium oven. Remove
+ 
+<pb n="100" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=110"/>
+and split skin down one side. Remove the inside, and <ingredient>whip</ingredient> it up with <ingredient>shredded coconut,</ingredient> a little <ingredient>cream</ingredient> and <ingredient>sugar,</ingredient> and a little <ingredient>lemon juice.</ingredient> Return to shell, and bake for another ten minutes.</p></recipe>
+<recipe class1="meatfishgame" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">TORI-KAN<lb/>(Chicken Jelly)</purpose>
+Two pounds of <ingredient>chicken</ingredient> flesh; one half pound of <ingredient>seaweed jelly</ingredient> or gelatine; one tablespoonful of <ingredient>sugar;</ingredient> <ingredient>salt</ingredient> and <ingredient>pepper;</ingredient> one quarter pound of <ingredient>dried mushrooms;</ingredient> one cup <ingredient>mirin sauce.</ingredient></p><p>Cook in <ingredient>boiling water</ingredient> a young, tender <ingredient>chicken</ingredient> until it is tender. Take from the liquid, remove all the <ingredient>bone</ingredient> and cut in small pieces. Pick off stalks from <ingredient>mushrooms</ingredient> and soak in <ingredient>lukewarm water</ingredient> for twenty minutes. Cut in small pieces and boil for twenty-five minutes in about two cupfuls of <ingredient>water.</ingredient> Add the <ingredient>mirin sauce</ingredient> and boil again about five minutes. Wash the dry <ingredient>seaweed jelly</ingredient> and soak for about two hours, then take from <ingredient>water</ingredient> and squeeze dry. Break into small pieces
+ 
+<pb n="101" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=111"/>
+and boil in one quart of <ingredient>water</ingredient> until it dissolves. Strain into another saucepan, with a pinch of <ingredient>salt</ingredient> and a tablespoonful of <ingredient>sugar.</ingredient> To this add the <ingredient>mushrooms</ingredient> and <ingredient>mirin sauce,</ingredient> and mix all together, with the <ingredient>chicken meat,</ingredient> <ingredient>salt,</ingredient> <ingredient>pepper,</ingredient> <ingredient>spices,</ingredient> etc. Have ready a <ingredient>lacquered box or smooth wooden box or mold,</ingredient> and pour in the mixture. Let it set, and, when serving, cut it in slices.</p></recipe>
+<recipe class1="meatfishgame" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">KAREFISH NIGORE<lb/>(Sole Jelly)</purpose>
+One medium-sized <ingredient>sole;</ingredient> one cupful of <ingredient>mirin sauce;</ingredient> two <ingredient>carrots;</ingredient> one quarter pound of <ingredient>dried mushrooms;</ingredient> one half pound of <ingredient>Kanton (dried seaweed jelly)</ingredient>.</p><p>First prepare the <ingredient>sole</ingredient> by cutting away the head and thoroughly cleaning and scaling. Cut in fillets or slices, removing the small bones. Take one cupful of <ingredient>mirin sauce</ingredient> and a pinch of <ingredient>salt.</ingredient> Place in pot, and boil only a few minutes. Chop into small pieces two <ingredient>carrots</ingredient> and about a quarter pound
+ 
+<pb n="102" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=112"/>
+of <ingredient>dried mushrooms</ingredient> (first washed and soaked). Boil in a small quantity of <ingredient>water,</ingredient> and when tender, strain. Add the <ingredient>mirin sauce,</ingredient> previously boiled for fifteen minutes. Wash half a pound of dry <ingredient>seaweed jelly,</ingredient> and soak in <ingredient>water</ingredient> for two hours. Take out, and squeeze dry. Break in small pieces, and throw in pan with a quart of <ingredient>water.</ingredient> Boil and dissolve. Strain into another saucepan. Add half a cupful of <ingredient>sugar</ingredient> and a tablespoonful of <ingredient>syou sauce.</ingredient> With this mix the <ingredient>fish</ingredient> and vegetables, and stir thoroughly. Transfer to lacquered or smooth wooden box, and let it set. When it is firm, cut in desired small shapes. Properly prepared, this is really delicious. It should be made the day before it is to be served, as of course it is eaten cold.</p></recipe>
+<recipe class1="fruitvegbeans" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">RINGO-KAN<lb/>(Apple jelly, Japanese Style)</purpose>
+One half pound of <ingredient>seaweed jelly;</ingredient> three quarters pound of <ingredient>sugar;</ingredient> two big, <ingredient>tart apples;</ingredient> two tablespoonfuls of <ingredient>kudzu starch.</ingredient></p>
+ 
+<pb n="103" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=113"/>
+<p>After washing half a pound of <ingredient>seaweed jelly</ingredient> soak it in <ingredient>water</ingredient> for about three hours, then squeeze it dry and break in small pieces into a pan with one and a half quarts of <ingredient>water.</ingredient> Boil over medium heat. Add three quarters of a pound of <ingredient>sugar,</ingredient> stirring the while, and a pinch of <ingredient>salt.</ingredient> Prepare two big, <ingredient>tart apples</ingredient> by peeling and removing the cores, then rub them on a <implement>nutmeg grater</implement> until they are reduced to powder. Transfer jelly to another saucepan, strain it, and mix with <ingredient>powdered apple.</ingredient> When thoroughly boiled, add two tablespoonfuls of <ingredient>kudzu starch,</ingredient> dissolved in <ingredient>cold water.</ingredient> Stir well with wooden chopsticks or spoon. Remove from fire, and pour into lacquered box or molds. Two or three hours after it has hardened, cut in desired shapes and sizes.</p></recipe>
+</section>
+<section class1="breadsweets">
+ 
+<pb n="104" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=114"/>
+<hd align="center" rend="bold">CAKES, CANDIES, SWEETMEATS</hd>
+<hd align="center">Chinese and Japanese</hd>
+<recipe class1="breadsweets" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">KATAMOCHI</purpose>
+This <ingredient>cracker</ingredient> comes ready prepared in boxes, and is good to serve with soups, <ingredient>oysters,</ingredient> etc. For those who wish to make it, the following recipe is given: Moisten the <ingredient>rice flour</ingredient> and allow it to rise of itself over night, no yeast or baking powder being used. Add <ingredient>salt,</ingredient> and roll into thin <ingredient>crackers.</ingredient> The process is precisely the same as the Jewish Matzoth cracker, and there appears to be a similarity also in the names, which has caused students often to point to it as another interesting evidence that the Japanese people are of Semitic origin--perhaps the "lost tribe"!</p></recipe>
+<recipe class1="breadsweets" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">YOMOGA GA SHIMA</purpose>
+This crisp little Japanese cake also comes prepared in boxes. It acquired fame through its being the favorite cake of the late Mikado.</p>
+ 
+<pb n="105" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=115"/>
+<p>To make it, boil to a paste fresh or dried (previously soaked) <ingredient>lima beans.</ingredient> When they are cooked, set them aside to cool and thoroughly dry, then pound them to a <ingredient>fine flour.</ingredient> Roll on a floured board into thin <ingredient>crackers,</ingredient> and bake in a hot oven till crisp. They can be sweet or not, as desired.</p><p><ingredient>Lily-root candy </ingredient>can be bought at almost any Chinese store. It has the consistency of very stiff gumdrops, and one variety, called <ingredient>Chicken Neck,</ingredient> is peppered over with <ingredient>red seeds.</ingredient></p></recipe>
+<recipe class1="breadsweets" ethnicgroup="Chinese"><p><purpose align="center" rend="bold" placement="heading">SAN CHAR GO</purpose>
+A favorite Chinese candy, made from red <ingredient>Chinese dates.</ingredient></p><p>The <ingredient>fruit</ingredient> is first mashed to a pulp, then mixed with <ingredient>powdered sugar</ingredient> and gelatine, beaten into a paste, rolled in sheets as thin as paper, and spread in the sun to dry. After it has dried crisp, it is cut into squares of six by four inches, wrapped in waxed paper, and packed in bundles. It has a delightfully piquant flavor, tart and sweet.</p></recipe>
+<pb n="106" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=116"/>
+<recipe class1="breadsweets" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">OWA OKASHI</purpose>
+A favorite Japanese candy. It is made of <ingredient>sweet rice,</ingredient> roasted over an open fire, same as popcorn, mixed with <ingredient>goma seeds,</ingredient> and held together in pressed bars with <ingredient>barley sugar.</ingredient> It is an improvement over the American popcorn-peanut balls.</p></recipe>
+<recipe class1="breadsweets" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">YOHAN CANDY</purpose>
+Boil <ingredient>adzuki (purple beans)</ingredient> to a paste, and mix with <ingredient>sugar</ingredient> and <ingredient>seaweed gelatine</ingredient>. Allow it to harden.</p></recipe>
+<recipe class1="breadsweets" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">CHESTNUT KINTONS<lb/>(Cream Candy)</purpose>
+One quart of <ingredient>chestnuts;</ingredient> one pint of <ingredient>sweet potatoes;</ingredient> one pound of <ingredient>sugar;</ingredient> three quarters pint of <ingredient>mirin sauce;</ingredient> one tablespoonful of <ingredient>vinegar.</ingredient></p><p>Blanch the <ingredient>chestnuts</ingredient> and place them in <ingredient>lukewarm water.</ingredient> Boil, changing <ingredient>water</ingredient> several times, until you can pierce the <ingredient>nuts</ingredient> with a needle. Strain off <ingredient>water,</ingredient> then add one pound of <ingredient>sugar,</ingredient> three quarters of a pint of <ingredient>mirin sauce,</ingredient> and boil slowly. Have ready <ingredient>sweet
+ 
+<pb n="107" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=117"/>
+potatoes</ingredient> which have been peeled and boiled for twenty minutes. Add to them the <ingredient>vinegar,</ingredient> and strain and press through sieve. Gradually mix with the <ingredient>chestnuts,</ingredient> and slowly boil, stirring constantly, until dry; then mold into desired shapes. Roll in <ingredient>powdered sugar.</ingredient></p><p>This might be called the Japanese Fudge.</p></recipe>
+<recipe class1="breadsweets" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">DAI-KAN<lb/>(Orange Jelly Candy)</purpose>
+One half pound of <ingredient>Kanton (seaweed jelly);</ingredient> three quarters pound of fine <ingredient>white sugar;</ingredient> three tablespoonfuls of <ingredient>kudzu starch;</ingredient> two <ingredient>oranges.</ingredient></p><p>Wash half a pound of <ingredient>dry seaweed jelly,</ingredient> and soak it for two and a half hours in <ingredient>cold water.</ingredient> Then squeeze out all the <ingredient>water</ingredient> and break in small pieces. Boil in about a quart of <ingredient>water,</ingredient> until well melted, then mix three quarters of a pound of <ingredient>sugar</ingredient> with this, stirring with chopsticks or wooden spoon. Strain into another pan, and boil over medium fire. Take three tablespoonfuls
+ 
+<pb n="108" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=118"/>
+of <ingredient>kudzu starch</ingredient> and dissolve in a little <ingredient>cold water.</ingredient> Then, drop by drop, gradually drop this into the <ingredient>jelly,</ingredient> while stirring with wooden spoon. When it becomes transparent, squeeze in the <ingredient>juice of two oranges</ingredient> and immediately remove from fire. Pour into a wooden box, and set in cool place for two hours to harden.</p></recipe>
+<recipe class1="breadsweets" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">SWEET POTATO CANDY</purpose>
+This is loved by Japanese children, and is easily made. Boil <ingredient>sweet potatoes,</ingredient> mash and roll them into little balls, then toss into <ingredient>boiling sirup.</ingredient> Let them brown. Take out, and set to cool and become brittle.</p></recipe>
+<recipe class1="breadsweets" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">RICE AND NUT CANDIES</purpose>
+These come in a great variety of ways. They are made chiefly of boiled <ingredient>rice</ingredient> pressed into balls with chopped <ingredient>nuts,</ingredient> tossed into <ingredient>boiling sirup,</ingredient> and then allowed to cool and harden. <ingredient>Seeds</ingredient> are often added, but these cannot be obtained in America.</p></recipe>
+</section>
+<section class1="fruitvegbeans" class2="beverages">
+ 
+<pb n="109" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=119"/>
+<hd align="center" rend="bold">BEAN SPROUTS AND BEVERAGES</hd>
+<recipe class1="fruitvegbeans" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">HOW TO PREPARE BEAN SPROUTS</purpose>
+These come in cans, but it is better to make them fresh at home, and it is easily done.</p><p>Take ordinary <ingredient>white beans,</ingredient> or <ingredient>dried lima beans,</ingredient> and soak over night in <ingredient>lukewarm water.</ingredient> In the morning take a large cloth, wet it, and set it on a table. Over this spread the <ingredient>beans.</ingredient> The cloth must be kept wet. In a night or two the <ingredient>beans</ingredient> will have sprouted. Use the <ingredient>sprouts</ingredient> as directed in the chop suey recipes.</p></recipe>
+<recipe class1="beverages" ethnicgroup="Japanese"><p><purpose align="center" rend="bold" placement="heading">BEVERAGES</purpose>
+<ingredient>Tea,</ingredient> of course, is the staple drink of both the Chinese and the Japanese, and it comes in any number of varieties. Of the <ingredient>Chinese teas</ingredient> a few may be especially recommended, such as <ingredient>Loong Taing,</ingredient> <ingredient>Long Gue,</ingredient> <ingredient>Oolong,</ingredient> and <ingredient>Lung Sue.</ingredient> Of the Japanese <ingredient>teas,</ingredient> <ingredient>Gyukura</ingredient>, or, in English, <ingredient>Pearl Dews</ingredient>,
+ 
+<pb n="110" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=120"/>
+<ingredient>tea</ingredient> is delicious. <ingredient>Coconut milk</ingredient> with flower petals floating in it is another favorite beverage. Chinese whisky and <ingredient>wine</ingredient> are very strong, and have a smoky flavor much appreciated by the epicure. <ingredient>Sak&#233;,</ingredient> famous as chief drink of the Japanese, is a sort of <ingredient>rice wine,</ingredient> with a curious salty-sweet taste to it. It is very good, when once one becomes accustomed to it.</p></recipe>
+</section>
+</chapter>
+<chapter>
+ 
+<pb n="111" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=121"/>
+<section class1="generalfood"><emph rend="bold">
+<hd align="center" rend="bold">LIST OF GROCERIES</hd>
+</emph>
+<hd align="center">Chinese and Japanese</hd>
+<list><item>Almonds, Chinese</item>
+<item>Apricots, green and red, crystallized</item>
+<item>Apricots, green, preserved</item>
+<item>Bacon, Chinese</item>
+<item>Bamboo shoots</item>
+<item>Beans and peas, various kinds of </item>
+<item>Bean sprouts</item>
+<item>Bird's-nest by box or pound</item>
+<item>Carambola, crystallized</item>
+<item>Carambola, preserved</item>
+<item>Cherry blossoms, crystallized</item>
+<item>Chicken neck</item>
+<item>Duck, dried</item>
+<item>Eggs, preserved</item>
+<item>Fish, all kinds of</item>
+<item>Fish, dried</item>
+<item>Fruit, mixed, preserved</item>
+<item>Ginger in sirup</item>
+<item>Ginger, preserved</item>
+<item>Ginger, sour pickled</item>
+<item>Ginger, sugar, dried</item>
+<item>Ginger, sweet pickled</item>
+<item>Hams, Chinese</item>
+ 
+<pb n="112" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=122"/>
+<item>Honey candy</item>
+<item>Kumquats, preserved</item>
+<item>Lily-root candy</item>
+<item>Limes, golden, crystallized</item>
+<item>Limes, golden, preserved</item>
+<item>Lotus seeds</item>
+<item>Lychee nuts</item>
+<item>Lychees, preserved</item>
+<item>Melon and pumpkin seeds, salted</item>
+<item>Mushrooms, canned</item>
+<item>Mushrooms, Chinese dried</item>
+<item>Mushrooms, fresh</item>
+<item>Noodles, Chinese (all kinds)</item>
+<item>Nuts, all kinds of mixed</item>
+<item>Nuts, salted</item>
+<item>Owa Okashi</item>
+<item>Pineapple, preserved</item>
+<item>Prunes, Chinese</item>
+<item>Rice cakes, boxed, all kinds of</item>
+<item>San Char go</item>
+<item>Star fruit, crystallized</item>
+<item>Sui Sin Fu candy</item>
+<item>Syou (Chinese sauce)</item>
+<item>Tofu (Japanese fried cakes)</item>
+<item>Vegetables, fresh Chinese</item>
+<item>Water chestnuts</item>
+<item>Yohan candy</item>
+</list>
+</section>
+</chapter>
+</body>
+<back>
+<div type="index">
+ 
+<pb n="113" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=123"/>
+<hd align="center">INDEX</hd>
+<lb/>
+<list><item align="right">Page</item>
+<item><emph rend="italic">Preface</emph>.................................................... <ref target="chin011.gif">1</ref></item>
+<lb/>
+<hd align="center">PART I. CHINESE RECIPES</hd>
+<lb/>
+<hd align="center">CAKES</hd>
+<lb/><item>Almond Cakes............................................... <ref target="chin074.gif">64</ref></item>
+<item>Golden Cakes (Gum Lu)...................................... <ref target="chin075.gif">65</ref></item>
+<item>Gum Lu (Golden Cakes)...................................... <ref target="chin075.gif">65</ref></item>
+<item>Lai Yut (Beautiful Moon Tarts)............................. <ref target="chin075.gif">65</ref></item>
+<item>Tarts, Beautiful Moon (Lai Yut)............................ <ref target="chin075.gif">65</ref></item>
+<lb/>
+<hd align="center">CHOP SUEYS</hd>
+<lb/><item>Chicken and Pork Chop Suey (Gai Yuk Chee Yuk).............. <ref target="chin054.gif">44</ref></item>
+<item>Chop Suey (Plain).......................................... <ref target="chin056.gif">46</ref></item>
+<item>Duck Chop Suey............................................. <ref target="chin052.gif">42</ref></item>
+<item>Extra White Chop Suey...................................... <ref target="chin051.gif">41</ref></item>
+<item>Gai Yuk Chee Yuk (Chicken and Pork Chop Suey).............. <ref target="chin054.gif">44</ref></item>
+<item>Gar Lu Chop Suey (with Chinese Dried Mushrooms)............ <ref target="chin053.gif">43</ref></item>
+<lb/>
+<hd align="center">CHOW MAINS</hd>
+<lb/><item>Chicken Chow Main.......................................... <ref target="chin058.gif">48</ref></item>
+<item>Lobster Chow Main.......................................... <ref target="chin059.gif">49</ref></item>
+<item>Meat Chow Main............................................. <ref target="chin058.gif">47</ref></item>
+<lb/>
+<hd align="center">FISH</hd>
+<lb/><item>Curry Shrimps.............................................. <ref target="chin035.gif">25</ref></item>
+<item>Dried Shrimp Stew.......................................... <ref target="chin035.gif">25</ref></item>
+<item>Fish Cakes (Yew)........................................... <ref target="chin033.gif">23</ref></item>
+<item>Lobster Omelette........................................... <ref target="chin031.gif">21</ref></item>
+<item>Pickled Fish, Cold......................................... <ref target="chin032.gif">22</ref></item>
+ 
+<pb n="114" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=124"/>
+<item align="right">Page</item>
+<item>Pineapple Fish............................................. <ref target="chin031.gif">21</ref></item>
+<item>Shrimps, Curry............................................. <ref target="chin035.gif">25</ref></item>
+<item>Shrimp Omelette............................................ <ref target="chin034.gif">24</ref></item>
+<item>Sweet and Sour Fish (Ten Sune Gune)........................ <ref target="chin030.gif">20</ref></item>
+<item>Ten Sune Gune (Sweet and Sour Fish)........................ <ref target="chin030.gif">20</ref></item>
+<item>Yew (Fish Cakes)........................................... <ref target="chin033.gif">23</ref></item>
+<lb/>
+<hd align="center">FRIED RICE</hd>
+<lb/><item>Fried Rice with Chicken and Mushrooms...................... <ref target="chin049.gif">39</ref></item>
+<item>Fried Rice with Eggs and Herbs............................. <ref target="chin062.gif">52</ref></item>
+<item>Fried Rice with Herbs...................................... <ref target="chin062.gif">52</ref></item>
+<item>Fried Rice with Tomato Sauce............................... <ref target="chin062.gif">52</ref></item>
+<lb/>
+<hd align="center">GRAVY</hd>
+<lb/><item>Gravy...................................................... <ref target="chin029.gif">19</ref></item>
+<item>Gravy with Onions.......................................... <ref target="chin029.gif">19</ref></item>
+<lb/>
+<hd align="center">MEATS</hd>
+<lb/>
+<item>Beef, Fried, with Mushrooms................................ <ref target="chin048.gif">38</ref></item>
+<item>Beef Kidney with Chinese Mushrooms......................... <ref target="chin047.gif">37</ref></item>
+<item>Chinese Fried Pork with Onions............................. <ref target="chin046.gif">36</ref></item>
+<item>Fried Beef with Mushrooms.................................. <ref target="chin048.gif">38</ref></item>
+<item>Fried Rice with Chicken and Mushrooms...................... <ref target="chin049.gif">39</ref></item>
+<item>Pepper Steak............................................... <ref target="chin047.gif">37</ref></item>
+<item>Pork, Chinese Fried, with Onions........................... <ref target="chin046.gif">36</ref></item>
+<item>Pork with Green Peppers.................................... <ref target="chin046.gif">36</ref></item>
+<item>Rice, Fried, with Chicken and Mushrooms.................... <ref target="chin049.gif">39</ref></item>
+<lb/>
+<hd align="center">OMELETTES</hd>
+<lb/><item>Eggs, Chinese Scrambled.................................... <ref target="chin065.gif">55</ref></item>
+<item>Foo Tay D&#196;n (Chinese Ham and Eggs).................... <ref target="chin064.gif">54</ref></item>
+<item>Foo Yung D&#196;n (Chinese Omelette with Herbs)............ <ref target="chin064.gif">54</ref></item>
+<item>Ham and Eggs, Chinese (Foo Tay D&#196;n)................... <ref target="chin064.gif">54</ref></item>
+ 
+<pb n="115" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=125"/>
+<item align="right">Page</item>
+<item>Lobster Omelette........................................... <ref target="chin031.gif">21</ref></item>
+<item>Mushroom Omelette.......................................... <ref target="chin065.gif">55</ref></item>
+<item>Scrambled Eggs, Chinese.................................... <ref target="chin065.gif">55</ref></item>
+<lb/>
+<hd align="center">POULTRY AND GAME</hd>
+<lb/><item>Boo Loo Gai (Pineapple Chicken)............................ <ref target="chin042.gif">32</ref></item>
+<item>Chicken, Fried (Chinese Style)............................. <ref target="chin037.gif">27</ref></item>
+<item>Chicken, Fried, with Almonds or Walnuts (Hop Ho Gai Din)... <ref target="chin044.gif">34</ref></item>
+<item>Chicken, Lychee............................................ <ref target="chin043.gif">33</ref></item>
+<item>Chicken, Pineapple (Boo Loo Gai)........................... <ref target="chin042.gif">32</ref></item>
+<item>Chicken, Sweet and Pungent................................. <ref target="chin042.gif">32</ref></item>
+<item>Chicken with Mushrooms..................................... <ref target="chin045.gif">35</ref></item>
+<item>Duck, Steamed.............................................. <ref target="chin040.gif">30</ref></item>
+<item>Duck with Herbs............................................ <ref target="chin040.gif">30</ref></item>
+<item>Fried Chicken (Chinese Style).............................. <ref target="chin037.gif">27</ref></item>
+<item>Fried Chicken with Almonds or Walnuts (Hop Ho Gai Din)..... <ref target="chin044.gif">34</ref></item>
+<item>Fried Squab (Shu Bok Ap)................................... <ref target="chin037.gif">27</ref></item>
+<item>Hop Ho Gai Din (Fried Chicken with Almonds or Walnuts)..... <ref target="chin044.gif">34</ref></item>
+<item>Lychee Chicken............................................. <ref target="chin043.gif">33</ref></item>
+<item>Pineapple Chicken (Boo Loo Gai)............................ <ref target="chin042.gif">32</ref></item>
+<item>Roast Squab................................................ <ref target="chin039.gif">29</ref></item>
+<item>Shu Bok Ap (Fried Squab)................................... <ref target="chin037.gif">27</ref></item>
+<item>Squab, Fried (Shu Bok Ap).................................. <ref target="chin037.gif">27</ref></item>
+<item>Squab, Roast............................................... <ref target="chin039.gif">29</ref></item>
+<item>Steamed Duck............................................... <ref target="chin040.gif">30</ref></item>
+<item>Sweet and Pungent Chicken.................................. <ref target="chin042.gif">32</ref></item>
+<lb/>
+<hd align="center">RULES FOR COOKING</hd>
+<lb/><item>Rice, to Boil.............................................. <ref target="chin020.gif">10</ref></item>
+<item>Tea........................................................ <ref target="chin021.gif">11</ref></item>
+<lb/>
+<hd align="center">SOUPS</hd>
+<lb/><item>B&#196;k Toy T'ong (Chinese Soup of White Vegetables)...... <ref target="chin027.gif">17</ref></item>
+<item>Bird's-nest Soup (Gai Grun Yung Waa)....................... <ref target="chin025.gif">15</ref></item>
+<pb n="116" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=126"/>
+<item align="right">Page</item>
+<item>Gai Grun Yung Waa (Bird's-nest Soup)....................... <ref target="chin025.gif">15</ref></item>
+<item>Mo Ku Gai T'ong (Spring Chicken Soup with Mushrooms)....... <ref target="chin024.gif">14</ref></item>
+<item>Sea Weed Soup.............................................. <ref target="chin026.gif">16</ref></item>
+<item>Soup Stock................................................. <ref target="chin023.gif">13</ref></item>
+<item>Spring Chicken Soup with Mushrooms (Mo Ku Gai T'ong)....... <ref target="chin024.gif">14</ref></item>
+<item>White Vegetables, Chinese Soup of (B&#196;k Toy Gun)....... <ref target="chin027.gif">17</ref></item>
+<item>Yat Ko Main................................................ <ref target="chin022.gif">12</ref></item>
+<item>Yea Foo Main............................................... <ref target="chin022.gif">12</ref></item>
+<lb/>
+<hd align="center">VEGETABLES</hd>
+<lb/><item>Artichokes, Chinese (Char Qu&#196;)........................ <ref target="chin071.gif">61</ref></item>
+<item>Bamboo Shoots, Fried....................................... <ref target="chin070.gif">60</ref></item>
+<item>Boiled Sprouts, Fried...................................... <ref target="chin067.gif">57</ref></item>
+<item>Boiled and Deviled Cucumbers............................... <ref target="chin069.gif">59</ref></item>
+<item>Cabbage, Fried............................................. <ref target="chin067.gif">57</ref></item>
+<item>Char Qu&#196; (Chinese Artichokes)......................... <ref target="chin071.gif">61</ref></item>
+<item>Cucumbers, Boiled and Deviled.............................. <ref target="chin069.gif">59</ref></item>
+<item>Egg Plant.................................................. <ref target="chin069.gif">59</ref></item>
+<item>Endive..................................................... <ref target="chin068.gif">58</ref></item>
+<item>Fried Bamboo Shoots........................................ <ref target="chin070.gif">60</ref></item>
+<item>Fried Bean Sprouts......................................... <ref target="chin067.gif">57</ref></item>
+<item>Fried Cabbage.............................................. <ref target="chin067.gif">57</ref></item>
+<item>Fried Noodles.............................................. <ref target="chin073.gif">63</ref></item>
+<item>Fried Peas, Chinese........................................ <ref target="chin072.gif">62</ref></item>
+<item>Noodles, Fried............................................. <ref target="chin073.gif">63</ref></item>
+<item>Peas, Chinese, Fried....................................... <ref target="chin072.gif">62</ref></item>
+<item>Pickled Yellow Turnips, Chinese............................ <ref target="chin068.gif">58</ref></item>
+<item>Seeds, Pumpkin or Yellow................................... <ref target="chin073.gif">63</ref></item>
+<item>Turnips, Chinese, Pickled, Yellow.......................... <ref target="chin068.gif">58</ref></item>
+<lb/>
+<hd align="center">PART II. JAPANESE RECIPES</hd>
+<lb/>
+<hd align="center">FISH</hd>
+<lb/><item>Bass or Whale, Boiled (Mushi Kujira)....................... <ref target="chin085.gif">75</ref></item>
+<item>Fish Balls, Japanese....................................... <ref target="chin088.gif">78</ref></item>
+<pb n="117" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=127"/>
+<item align="right">Page</item>
+<item>Fried Fish (Yaki Zakana)................................... <ref target="chin087.gif">77</ref></item>
+<item>Lobster, Broiled (Onigara Yaki)............................ <ref target="chin087.gif">77</ref></item>
+<item>Mushi Kujira (Boiled Whale or Bass)........................ <ref target="chin085.gif">75</ref></item>
+<item>Onigara Yaki (Broiled Lobster)............................. <ref target="chin087.gif">77</ref></item>
+<item>Tembani of Mackerel (Fish Delicacy)........................ <ref target="chin086.gif">76</ref></item>
+<item>Whale or Bass, Broiled (Mushi Kujira)...................... <ref target="chin085.gif">75</ref></item>
+<item>Yaki Zakana (Fried Fish)................................... <ref target="chin087.gif">77</ref></item>
+<lb/>
+<hd align="center">OMELETTES AND CUSTARDS</hd>
+<lb/><item>Cherry Custard (Sakura).................................... <ref target="chin100.gif">90</ref></item>
+<item>Custard, Flower (Unohana Yaki)............................. <ref target="chin097.gif">87</ref></item>
+<item>Eggs, Fried (Usu Tamago Yaki).............................. <ref target="chin099.gif">89</ref></item>
+<item>Eggs, Peony (Tamago Bolan)................................. <ref target="chin101.gif">91</ref></item>
+<item>Eggs, Scrambled (Japanese Style)........................... <ref target="chin100.gif">90</ref></item>
+<item>Flower Custard (Unohana Yaki).............................. <ref target="chin097.gif">87</ref></item>
+<item>Fried Eggs (Usu Tamago Yaki)............................... <ref target="chin099.gif">89</ref></item>
+<item>Kinoko-Tamago-Yaki (Shrimp Omelette)....................... <ref target="chin098.gif">88</ref></item>
+<item>Peony Eggs (Tamago Bolan).................................. <ref target="chin101.gif">91</ref></item>
+<item>Sakura (Cherry Custard).................................... <ref target="chin100.gif">90</ref></item>
+<item>Scrambled Eggs (Japanese Style)............................ <ref target="chin100.gif">90</ref></item>
+<item>Shrimp Omelette (Kinoko-Tamago-Yaki)....................... <ref target="chin098.gif">88</ref></item>
+<item>Tamago Tofu................................................ <ref target="chin099.gif">89</ref></item>
+<item>Tamago Bolan (Peony Eggs).................................. <ref target="chin101.gif">91</ref></item>
+<item>Unohana Yaki (Flower Custard).............................. <ref target="chin097.gif">87</ref></item>
+<item>Usu Tamago Yaki (Fried Eggs)............................... <ref target="chin099.gif">89</ref></item>
+<lb/>
+<hd align="center">POULTRY AND GAME</hd>
+<lb/><item>Baked Duck (Mushi Ahiru)................................... <ref target="chin095.gif">85</ref></item>
+<item>Chicken, Roast (Japanese Style)............................ <ref target="chin096.gif">86</ref></item>
+<item>Duck, Baked (Mushi Ahiru).................................. <ref target="chin095.gif">85</ref></item>
+<item>Fried Squab................................................ <ref target="chin091.gif">81</ref></item>
+<item>Hare, Sweet and Sour (Usagi Amai-Sui)...................... <ref target="chin093.gif">83</ref></item>
+<item>Hato Shiro (Stewed Pigeon)................................. <ref target="chin091.gif">81</ref></item>
+<item>Mushi Ahiru (Baked Duck)................................... <ref target="chin095.gif">85</ref></item>
+<item>Mushi Kiji (Roast Pheasant)................................ <ref target="chin092.gif">82</ref></item>
+<item>Pheasant Roast (Mushi Kiji)................................ <ref target="chin092.gif">82</ref></item>
+<item>Pigeon, Stewed (Hato Shiro)................................ <ref target="chin091.gif">81</ref></item>
+<item>Pigeons or Quail, Broiled (Yaki Udzura).................... <ref target="chin089.gif">79</ref></item>
+<item>Quail or Pigeons, Broiled (Yaki Udzura).................... <ref target="chin089.gif">79</ref></item>
+<lb/>
+ 
+<pb n="118" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=128"/>
+<lb/><item align="right">Page</item>
+<item>Roast Chicken (Japanese Style)............................. <ref target="chin096.gif">86</ref></item>
+<item>Roast Pheasant (Mushi Kiji)................................ <ref target="chin092.gif">82</ref></item>
+<item>Shika Shiro (Pot-roasted Venison).......................... <ref target="chin090.gif">80</ref></item>
+<item>Squab, Fried............................................... <ref target="chin091.gif">81</ref></item>
+<item>Stewed Pigeon (Hato Shiro)................................. <ref target="chin091.gif">81</ref></item>
+<item>Usagi Amai-Sui (Hare, Sweet and Sour)...................... <ref target="chin093.gif">83</ref></item>
+<item>Venison, Pot-roasted (Shika Shiro)......................... <ref target="chin090.gif">80</ref></item>
+<item>Yaki Udzura (Broiled Quail or Pigeons)..................... <ref target="chin089.gif">79</ref></item>
+<lb/>
+<hd align="center">SOUPS</hd>
+<lb/><item>Chicken Soup (Tori Shiru).................................. <ref target="chin082.gif">72</ref></item>
+<item>Fish Soup (Uwo Shiru)...................................... <ref target="chin083.gif">73</ref></item>
+<item>Satsuma Soup............................................... <ref target="chin081.gif">71</ref></item>
+<item>Tori Shiru (Chicken Shiru)................................. <ref target="chin082.gif">72</ref></item>
+<item>Uwo Shiru (Fish Soup)...................................... <ref target="chin083.gif">73</ref></item>
+<lb/>
+<hd align="center">VEGETABLES AND RELISHES</hd>
+<lb/><item>Amai Tamana (Sweet and Sour Cabbage)....................... <ref target="chin106.gif">96</ref></item>
+<item>Apple Jelly, Japanese Style (Ringo-Kan).................... <ref target="chin112.gif">102</ref></item>
+<item>Baked Bananas.............................................. <ref target="chin109.gif">99</ref></item>
+<item>Bananas, Baked............................................. <ref target="chin109.gif">99</ref></item>
+<item>Bananas, Stuffed........................................... <ref target="chin109.gif">99</ref></item>
+<item>Cabbage and Pork (Mushi Tamana and Buta)................... <ref target="chin104.gif">94</ref></item>
+<item>Cabbage, Fried............................................. <ref target="chin107.gif">97</ref></item>
+<item>Cabbage, Sweet and Sour (Amai Tamana)...................... <ref target="chin106.gif">96</ref></item>
+<item>Chicken Jelly (Tori- Kan).................................. <ref target="chin110.gif">100</ref></item>
+<item>Chicken Liver Paste........................................ <ref target="chin108.gif">98</ref></item>
+<item>Eggplant, Fried (Nasubi Yaki).............................. <ref target="chin106.gif">96</ref></item>
+<item>Fried Cabbage.............................................. <ref target="chin107.gif">97</ref></item>
+<item>Fried Eggplant (Nasubi Yaki)............................... <ref target="chin106.gif">96</ref></item>
+<item>Giblet Paste............................................... <ref target="chin108.gif">98</ref></item>
+<item>Karefish Nigore (Sole Jelly)............................... <ref target="chin111.gif">101</ref></item>
+<pb n="119" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=129"/>
+<item align="right">Page</item>
+<item>Kuwai- Kinton (Water Chestnut Cream)....................... <ref target="chin103.gif">93</ref></item>
+<item>Mushi Tamana and Buta (Cabbage and Pork)................... <ref target="chin104.gif">94</ref></item>
+<item>Nasubi Yaki (Fried Eggplant)............................... <ref target="chin106.gif">96</ref></item>
+<item>Paste, Chicken Liver....................................... <ref target="chin108.gif">98</ref></item>
+<item>Paste, Giblet.............................................. <ref target="chin108.gif">98</ref></item>
+<item>Plums, Sour and Sweet (Sumomo Sui and Amai)................ <ref target="chin109.gif">99</ref></item>
+<item>Pork and Cabbage (Mushi Tamana and Buta)................... <ref target="chin104.gif">94</ref></item>
+<item>Ringo-Kan (Apple Jelly, Japanese Style).................... <ref target="chin102.gif">102</ref></item>
+<item>Satsuma Tamana (Cabbage, Satsuma Style).................... <ref target="chin107.gif">97</ref></item>
+<item>Shiro Uri (Stewed Squash).................................. <ref target="chin105.gif">95</ref></item>
+<item>Sole Jelly (Karefish Nigore)............................... <ref target="chin105.gif">95</ref></item>
+<item>Stuffed Bananas............................................ <ref target="chin109.gif">99</ref></item>
+<item>Sumomo Sui and Amai (Plums, Sour and Sweet)................ <ref target="chin109.gif">99</ref></item>
+<item>Tori-Kan (Chicken Jelly)................................... <ref target="chin110.gif">100</ref></item>
+<item>Water Chestnut Cream (Kuwai- Kinton)....................... <ref target="chin103.gif">93</ref></item>
+<lb/>
+<hd align="center">CAKES, CANDIES, SWEETMEATS</hd>
+<lb/>
+<hd align="center">(Chinese and Japanese)</hd>
+<lb/><item>Bean Sprouts, How to Prepare............................... <ref target="chin119.gif">109</ref></item>
+<item>Beverages.................................................. <ref target="chin119.gif">109</ref></item>
+<item>Chestnut Kintons (Cream Candy)............................. <ref target="chin116.gif">106</ref></item>
+<item>Cream Candy (Chestnut Kintons)............................. <ref target="chin116.gif">106</ref></item>
+<item>Dai-K&#196;m (Orange- Jelly Candy)......................... <ref target="chin117.gif">107</ref></item>
+<item>Katamochi.................................................. <ref target="chin114.gif">104</ref></item>
+<item>Nut and Rice Candies....................................... <ref target="chin118.gif">108</ref></item>
+<item>Orange-Jelly Candy (Dai- K&#196;m)......................... <ref target="chin117.gif">107</ref></item>
+<item>Owa Okashi................................................. <ref target="chin116.gif">106</ref></item>
+<item>Rice and Nut Candies....................................... <ref target="chin118.gif">108</ref></item>
+ 
+<pb n="120" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=130"/>
+<item align="right">Page</item>
+<item>San Char Go................................................ <ref target="chin115.gif">105</ref></item>
+<item>Sweet Potato Candy......................................... <ref target="chin118.gif">108</ref></item>
+<item>Yohan Candy................................................ <ref target="chin116.gif">106</ref></item>
+<item>Yomoga Ga Shima............................................ <ref target="chin114.gif">104</ref></item>
+<lb/><item><emph rend="italic">List of Groceries</emph>................................................ <ref target="chin121.gif">111</ref></item>
+</list>
+</div>
+<div type="other">
+ 
+<pb n="NONE OF THE ABOVE" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=131"/>
+<hd align="center" rend="bold">MEMORANDA.</hd>
+ 
+<pb n="NONE OF THE ABOVE" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=132"/>
+<hd align="center" rend="bold">MEMORANDA.</hd>
+ 
+<pb n="NONE OF THE ABOVE" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=133"/>
+<hd align="center" rend="bold">MEMORANDA.</hd>
+ 
+<pb n="NONE OF THE ABOVE" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=134"/>
+<hd align="center" rend="bold">MEMORANDA.</hd>
+</div>
+<div type="other">
+ 
+<pb n="blank" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=135"/>
+ 
+<pb n="blank" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=136"/>
+ 
+<pb n="blank" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=137"/>
+</div>
+<div type="backcover">
+ 
+<pb n="back cover" id="/projects/cookbooks/coldfusion/display.cfm?ID=chin&#38;PageNum=138"/>
+</div>
+</back>
+</cookbook>

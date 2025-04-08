@@ -1,0 +1,2127 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl"
+href="../cookbooks.xsl"?>
+<cookbook type="general" class1="beverages" region="general" bookID="1917bart">
+<meta>
+</meta>
+<front>
+<div type="frontcover">
+ 
+<pb n="front cover" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=1"/>
+
+<p align="center">THE<lb/>
+
+IDEAL BARTENDER<lb/>
+
+BY<lb/>
+
+TOM BULLOCK</p></div>
+<div type="other">
+ 
+<pb n="blank" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=2"/>
+
+<p>Edwin H. Steadman</p>
+<ednote>Handwritten inscription</ednote>
+</div>
+<div type="other">
+ 
+<pb n="blank" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=3"/>
+
+ 
+<pb n="blank" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=4"/>
+
+</div>
+<div type="dedication">
+ 
+<pb n="dedication" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=5"/>
+
+<hd align="center" rend="ornate">Dedicated</hd>
+<p align="center">TO THOSE WHO ENJOY SNUG CLUB ROOMS, THAT THEY MAY LEARN THE ART OF PREPARING FOR THEMSELVES WHAT IS GOOD</p></div>
+<div type="other">
+<illustration><description>A small illustration of an ornate lamp.</description></illustration>
+<p>IS IT ANY WONDER THAT MANKIND STANDS OPEN-MOUTHED BEFORE THE BARTENDER, CONSIDERING THE MYSTERIES AND MARVELS OF AN ART THAT BORDERS ON MAGIC? THE RECIPES FOUND IN THIS BOOK HAVE BEEN COMPOSED AND COLLECTED. TRIED AND TESTED, IN A QUARTER-CENTURY OF EXPERIENCE BY TOM BULLOCK OF THE ST. LOUIS COUNTRY CLUB.</p></div>
+<div type="copyrightstmt"><p align="center">COPYRIGHTED 1917<lb/>BY<lb/>
+
+TOM BULLOCK<lb/>ALL RIGHTS RESERVED</p></div>
+<div type="other">
+ 
+<pb n="blank" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=6"/>
+
+</div>
+<div type="illustration">
+ 
+<pb n="illustration" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=7"/>
+
+<illustration><description>A picture of the author.</description></illustration>
+</div>
+<div type="other">
+ 
+<pb n="blank" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=8"/>
+
+</div>
+<div type="other">
+ 
+<pb n="3" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=9"/>
+
+<p>A testimonial from the St. Louis Post-Dispatch which appeared in the form of an editorial, Wednesday evening, May 28, 1913, at a time when Col. Roosevelt was vindicating, by a libel suit, his reputation for sobriety and temperance.</p><p size="smaller">Colonel Roosevelt's fatal admission that he drank just a part of one julep at the St. Louis Country Club will come very near losing his case.</p><p size="smaller">Who was ever known to drink just a part of one of Tom's? Tom, than whom there is no greater mixologist of any race, color or condition of servitude, was taught the art of the julep by no less than Marse Lilburn G. McNair, the father of the julep. In fact, the very cup that Col. Roosevelt drank it from belonged to Governor McNair, the first Governor of Missouri, the great-grandfather of Marse Lilburn and the great-great-grandfather of the julep.</p><p size="smaller">As is well known, the Country Club mint originally sprang on the slopes of Parnassus and was transplanted thence to the bosky banks of Culpeper Creek, Gaines County, Ky., and thence to our own environs; while the classic distillation with which Tom mingles it to produce his chief d'oeuvre is the oft-quoted liquefied soul of a Southern moonbeam falling aslant the dewy slopes of the Cumberland Mountains.</p><p size="smaller">To believe that a red-blooded man, and a true Colonel at that, ever stopped with just a part of one of those refreshments which have made St. Louis hospitality proverbial and become one of our most distinctive genre institutions, is to strain credulity too far. Are the Colonel's powers of self restraint altogether transcendent? Have we found the living superman at last?</p><p size="smaller">When the Colonel says that he consumed just a part of one he doubtless meant that he did not swallow the mint itself, munch the ice and devour the very cup.</p></div>
+<div type="other">
+ 
+<pb n="blank" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=10"/>
+
+</div>
+<div type="introduction">
+ 
+<pb n="5" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=11"/>
+
+<hd align="center" size="larger">INTRODUCTION</hd>
+<p>I have known the author of "The Ideal Bartender" for many years, and it is a genuine privilege to be permitted to testify to his qualifications for such a work.</p><p>To his many friends in St. Louis, Louisville, Cincinnati, Chicago and elsewhere, my word will be superfluous, but to those who do not know him, and who are to be the gainers by following his advices, it may prove at the very beginning a stimulus to know something of his record of achievement.</p><p>For the past quarter of a century he has refreshed and delighted the members and their friends of the Pendennis Club of Louisville and the St. Louis Country Club of St. Louis. In all that time I doubt if he has erred in even one of his concoctions. Thus if there is "many a slip twixt the cup and the lip" it has been none of his doing, but rather the fault of those who have appreciated his art too highly. But why go on! His work is before you. It is the best to be had. Follow on, and as you sip the nectar of his schemings tell your friends, to the end that both they and he may be benefitted.</p><p align="right">G.H. WALKER.</p></div>
+<div type="other">
+ 
+<pb n="blank" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=12"/>
+
+</div>
+</front>
+<body>
+ 
+<pb n="7" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=13"/>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">ABRICONTINE POUSSE CAFE</purpose>
+
+Fill <implement>Pousse Cafe glass</implement> one-third full of <ingredient>Abricontine</ingredient> and add <ingredient>Maraschino,</ingredient> <ingredient>Curacoa,</ingredient> <ingredient>Chartreuse</ingredient> and <ingredient>Brandy</ingredient> in equal proportions until the glass is filled. The ingredients should be poured in one after the other from a small Wine glass, with great care, to prevent the colors from blending. Ignite the Brandy on top, and after it has blazed for a few seconds extinguish it by placing a saucer or the bottom of another glass over the blazing fluid. Then serve.</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose placement="heading" size="larger">ABSINTHE</purpose>
+
+(When the customer asks for Absinthe without specifying any particular style of service).</p><p>Pour one pony of <ingredient>Absinthe</ingredient> into large <implement>Bar glass</implement> and let <ingredient>ice cold water</ingredient> drip from the <implement>Absinthe glass</implement> into <implement>Bar glass</implement> until full. The <implement>Absinthe glass</implement> has a hole in the center. By filling the bowl of the <implement>Absinthe glass</implement> partly with <ingredient>Shaved Ice,</ingredient> and the rest with <ingredient>water,</ingredient> the <ingredient>water</ingredient> will be ice cold as it drops from the <implement>Absinthe glass.</implement></p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">ABSINTHE, AMERICAN SERVICE</purpose>
+
+<list><item><implement>Mixing glass</implement> 3/4 full <ingredient>Shaved Ice.</ingredient></item>
+<item>4 dashes <ingredient>Gum Syrup.</ingredient></item>
+<item>1 pony <ingredient>Absinthe.</ingredient></item>
+<item>Shake until outside of <implement>shaker</implement> is well frosted; strain into large <implement>Champagne glass</implement> and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">ABSINTHE COCKTAIL</purpose>
+
+<list><item>Fill <implement>Mixing glass</implement> 3/4 full <ingredient>Shaved Ice.</ingredient></item>
+<item>1/2 jigger <ingredient>Water.</ingredient></item>
+<item>1/2 jigger <ingredient>Absinthe.</ingredient></item>
+<item>2 dashes <ingredient>Angostura Bitters.</ingredient></item>
+<item>1 teaspoonful <ingredient>Benedictine.</ingredient></item>
+<item>Stir; strain into <implement>Cocktail glass</implement> and serve.</item>
+</list>
+</p></recipe>
+
+<pb n="8" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=14"/>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">ABSINTHE FRAPPE</purpose>
+
+<list><item>Fill medium <implement>bar glass</implement> full of <ingredient>Shaved Ice.</ingredient></item>
+<item>1 teaspoonful <ingredient>Benedictine.</ingredient></item>
+<item>1 pony <ingredient>Absinthe.</ingredient></item>
+<item>Shake until outside of <implement>Shaker</implement> has frosty appearance; strain into six-ounce <implement>Shell glass</implement> and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">ABSINTHE, FRENCH SERVICE</purpose>
+
+Pour 1 pony of <ingredient>Absinthe</ingredient> into a <implement>Champagne glass</implement> which is standing in a bowl. Fill the bowl of your <implement>Absinthe glass</implement> with <ingredient>Shaved Ice</ingredient> and <ingredient>water.</ingredient> Raise the bowl and let the <ingredient>Ice Water</ingredient> drip into the Absinthe until the proper color is obtained. Serve in thin <implement>Bar glass.</implement></p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">ABSINTHE, ITALIAN SERVICE</purpose>
+
+<list><item>1 pony of <ingredient>Absinthe</ingredient> in a large <implement>Bar glass.</implement></item>
+<item>3 pieces <ingredient>Cracked Ice.</ingredient></item>
+<item>3 dashes <ingredient>Maraschino.</ingredient></item>
+<item>1/2 pony <ingredient>Anisette.</ingredient></item>
+<item>Pour <ingredient>Ice Water</ingredient> in glass, at same time stirring gently with <implement>Bar Spoon.</implement> Serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">ADMIRAL SCHLEY HIGH BALL</purpose>
+
+<list><item>Drop a piece of Ice into a <implement>High Ball glass.</implement></item>
+<item>1 teaspoonful <ingredient>Pineapple Syrup.</ingredient></item>
+<item>1 teaspoonful <ingredient>Lemon Juice.</ingredient></item>
+<item>2/3 jigger <ingredient>Irish Whiskey.</ingredient></item>
+<item>2/3 jigger <ingredient>Tokay,</ingredient> <ingredient>Angelica</ingredient> or <ingredient>Sweet Catawba Wine.</ingredient></item>
+<item>Fill up with <ingredient>Apollinaris</ingredient> or <ingredient>Seltzer.</ingredient></item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">ALE FLIP</purpose>
+
+<list><item>Fill an <implement>Ale glass</implement> nearly full.</item>
+<item>1 teaspoonful of <ingredient>Bar Sugar.</ingredient></item>
+<item>Break in 1 whole <ingredient>Egg;</ingredient> grate a little <ingredient>Nutmeg</ingredient> on top and serve the drink with a spoon alongside of the glass.</item>
+</list>
+</p></recipe>
+
+<pb n="9" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=15"/>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">ALE SANGAREE</purpose>
+
+Dissolve in an <implement>Ale glass</implement> 1 teaspoonful <ingredient>Bar Sugar.</ingredient> Fill up with <ingredient>Ale</ingredient> and serve with grated <ingredient>Nutmeg</ingredient> on top.</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">AMERICAN POUSSE CAFE</purpose>
+
+Fill a <implement>Pousse Cafe glass</implement> 1/4 full of <ingredient>Chartreuse,</ingredient> and add <ingredient>Maraschino,</ingredient> <ingredient>Curacoa</ingredient> and <ingredient>Brandy</ingredient> in equal proportions until the glass is filled. Then proceed as for Abricontine Pousse Cafe.</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">APOLLINARIS LEMONADE</purpose>
+
+<list><item>Fill large <implement>Bar glass</implement> 2/3 full <ingredient>Shaved Ice.</ingredient></item>
+<item>2 teaspoonfuls <ingredient>Powdered Sugar.</ingredient></item>
+<item>1 <ingredient>Lemon's Juice.</ingredient></item>
+<item>Fill up with <ingredient>Apollinaris;</ingredient> stir; strain into Lemonade glass; dress with <ingredient>Fruit</ingredient> and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">APPLE JACK COCKTAIL</purpose>
+
+<list><item>Fill large <implement>Bar glass</implement> 3/4 full <ingredient>Shaved Ice</ingredient>.</item>
+<item>3 dashes <ingredient>Gum Syrup.</ingredient></item>
+<item>3 dashes <ingredient>Raspberry Syrup.</ingredient></item>
+<item>1 1/4 jiggers <ingredient>Applejack.</ingredient></item>
+<item>Shake; strain into <implement>Cocktail glass</implement> and serve with piece of <ingredient>Lemon Peel</ingredient> twisted on top.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">APPLEJACK FIX</purpose>
+
+<list><item>Fill large <implement>Bar glass</implement> with <ingredient>Shaved Ice.</ingredient></item>
+<item>2 teaspoonfuls <ingredient>Bar Sugar,</ingredient> dissolved in little <ingredient>Water.</ingredient></item>
+<item>1/4 <ingredient>Juice of 1 Lemon.</ingredient></item>
+<item>3 dashes of <ingredient>Curacoa.</ingredient></item>
+<item>4 dashes of any <ingredient>Fruit Syrup.</ingredient></item>
+<item>1 jigger <ingredient>Applejack Brandy.</ingredient></item>
+<item>Stir; dress with <ingredient>Fruits;</ingredient> serve with Straws.</item>
+</list>
+</p></recipe>
+
+<pb n="10" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=16"/>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">APPLEJACK SOUR</purpose>
+
+<list><item>Fill large <implement>Bar glass</implement> 3/4 full <ingredient>Shaved Ice.</ingredient></item>
+<item>2 teaspoonfuls <ingredient>Bar Sugar,</ingredient> dissolved in little <ingredient>Water.</ingredient></item>
+<item>3 dashes <ingredient>Lemon</ingredient> or <ingredient>Lime Juice.</ingredient></item>
+<item>1 jigger <ingredient>Applejack.</ingredient></item>
+<item>Stir well; strain into Sour glass; dress with <ingredient>Fruit</ingredient> and <ingredient>Berries</ingredient> and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">"ARF-AND-ARF"</purpose>
+
+Pour into an <implement>Ale glass</implement> or mug 1/2 Porter and 1/2 <ingredient>Ale,</ingredient> or <ingredient>Porter</ingredient> and <ingredient>Stout</ingredient> with Ale, or 1/2 Old and 1/2 New Ale.</p><p>The use of the Porter and Ale is more prevalent in England. In the United States 1/2 Old and 1/2 New Ale is usually used when this drink is called for, unless otherwise specified.</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">ARRACK PUNCH</purpose>
+
+Pour into a <implement>Punch glass</implement> the <ingredient>Juice of 1 Lime</ingredient> and a little <ingredient>Apollinaris Water</ingredient> in which a heaping teaspoonful of <ingredient>Bar Sugar</ingredient> has been dissolved. Add 1 Lump <ingredient>Ice.</ingredient></p><p>
+<list><item>3/4 jigger <ingredient>Batavia Arrack.</ingredient></item>
+<item>1/4 jigger <ingredient>Jamaica Rum.</ingredient></item>
+<item>Stir well; dash with <ingredient>Champagne;</ingredient> stir again briskly; dress with <ingredient>Fruit</ingredient> and Serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">ASTRINGENT</purpose>
+
+<list><item>1/2 Wineglass <ingredient>Port Wine.</ingredient></item>
+<item>6 dashes <ingredient>Jamaica Ginger.</ingredient></item>
+<item>Fill up with <ingredient>Brandy;</ingredient> stir gently and serve with little <ingredient>Nutmeg</ingredient> on top.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">AUDITORIUM COOLER</purpose>
+
+<list><item>Into large <implement>Bar glass</implement> squeeze <ingredient>Juice of 1 Lemon.</ingredient></item>
+<item>1 teaspoonful <ingredient>Bar Sugar.</ingredient></item>
+<item>1 bottle <ingredient>Ginger Ale</ingredient> off the ice.</item>
+<item>Stir; decorate with <ingredient>Fruit</ingredient> and <ingredient>Berries.</ingredient> Serve.</item>
+</list>
+</p></recipe>
+
+<pb n="11" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=17"/>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">ALL RIGHT COCKTAIL</purpose>
+
+<list><item>Use a large <implement>Mixing glass</implement> filled with <ingredient>Lump Ice.</ingredient></item>
+<item>1 jigger <ingredient>Rye Whiskey.</ingredient></item>
+<item>2/3 jigger <ingredient>Orange Curacoa.</ingredient></item>
+<item>1 dash <ingredient>Angostura Bitters.</ingredient></item>
+<item>Shake well; strain into <implement>Cocktail glass</implement> and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">BACARDI COCKTAIL</purpose>
+
+<list><item>Use a large <implement>Mixing glass.</implement></item>
+<item>Fill with <ingredient>Lump Ice.</ingredient></item>
+<item>1/2 jigger <ingredient>Cusiner Grenadine.</ingredient></item>
+<item>1 jigger <ingredient>Bacardi Rum.</ingredient></item>
+<item>Shake well and serve in a <implement>Cocktail glass.</implement></item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">BACARDI COCKTAIL--Country Club Style</purpose>
+
+<list><item>Use a large <implement>Mixing glass.</implement></item>
+<item>Fill with <ingredient>Lump Ice.</ingredient></item>
+<item>1/2 <ingredient>Lime Juice.</ingredient></item>
+<item>2 dashes <ingredient>Imported Grenadine.</ingredient></item>
+<item>1 jigger <ingredient>Bacardi Rum.</ingredient></item>
+<item>Shake well; strain into <implement>Cocktail glass</implement> and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">BALDY COCKTAIL</purpose>
+
+<list><item>Use a large <implement>Mixing glass</implement> with <ingredient>Lump Ice.</ingredient></item>
+<item>1 jigger of <ingredient>Burnette's Old Tom Gin.</ingredient></item>
+<item>1 pony of <ingredient>Orange Juice.</ingredient></item>
+<item>1 Dash of <ingredient>Orange Bitters.</ingredient></item>
+<item>Shake; strain into <implement>Cocktail glass</implement> and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">BAMBOO COCKTAIL</purpose>
+
+<list><item>Fill large <implement>Bar glass</implement> 1/3 full <ingredient>Fine Ice.</ingredient></item>
+<item>3/4 jigger <ingredient>Sherry Wine.</ingredient></item>
+<item>3/4 jigger <ingredient>Italian Vermouth.</ingredient></item>
+<item>Stir; strain into <implement>Cocktail glass.</implement> Serve.</item>
+</list>
+</p></recipe>
+
+<pb n="12" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=18"/>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">BLACK COW</purpose>
+
+<list><item>Use a large <implement>Mixing glass</implement> with <ingredient>Lump Ice.</ingredient></item>
+<item>2 jiggers of <ingredient>Cream.</ingredient></item>
+<item>1 bottle <ingredient>Sarsaparilla.</ingredient></item>
+<item>Stir well and serve with Straws.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">BLOOD HOUND COCKTAIL</purpose>
+
+<list><item>Fill large <implement>Bar glass</implement> 1/2 full <ingredient>Shaved Ice.</ingredient></item>
+<item>Add 1/2 dozen fresh <ingredient>Strawberries.</ingredient></item>
+<item>1 jigger <ingredient>Burnette's Old Tom Gin.</ingredient></item>
+<item>Shake well; strain into <implement>Cocktail glass</implement> and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">BOMBAY COCKTAIL</purpose>
+
+<list><item>Use a <implement>Claret glass.</implement></item>
+<item>1/2 pony <ingredient>Olive Oil.</ingredient></item>
+<item>1/2 pony <ingredient>Vinegar.</ingredient></item>
+<item>1/2 pony <ingredient>Worcestershire Sauce.</ingredient></item>
+<item>Break one <ingredient>Ice Cold Egg</ingredient> into glass.</item>
+<item>Add <ingredient>salt</ingredient> and <ingredient>Spanish Paprica</ingredient> and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">BENEDICTINE</purpose>
+
+Place an inverted <implement>Whiskey glass</implement> on the bar, set a <implement>Pony glass</implement> on it and fill up with <ingredient>Benedictine.</ingredient> Serve all liquors straight in this manner.</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">BEEF TEA</purpose>
+
+1/2 teaspoonful <ingredient>Beef Extract</ingredient> in small <implement>Bar glass.</implement></p><p>Fill glass with <ingredient>Hot Water.</ingredient> Stir well while seasoning with <ingredient>Pepper,</ingredient> <ingredient>Salt</ingredient> and <ingredient>Celery Salt.</ingredient> Serve with small glass of <ingredient>Cracked Ice</ingredient> and spoon on the side.</p></recipe>
+
+<pb n="13" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=19"/>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">BISHOP</purpose>
+
+<list><item>1 teaspoonful <ingredient>Bar Sugar</ingredient> in large <implement>Bar glass.</implement></item>
+<item>2 dashes <ingredient>Lemon Juice with the Skin of Two Slices.</ingredient></item>
+<item>Fill glass 3/4 full <ingredient>Shaved Ice.</ingredient></item>
+<item>1 dash <ingredient>Seltzer Water.</ingredient></item>
+<item>2 dashes <ingredient>Jamaica Rum.</ingredient></item>
+<item>Fill up with <ingredient>Claret</ingredient> or <ingredient>Burgundy;</ingredient> shake; ornament with <ingredient>Fruit</ingredient> and serve with Straws.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">BISHOP A LA PRUSSE</purpose>
+
+Before a Fire or in a Hot Oven roast 6 large <ingredient>Oranges</ingredient> until they are of a light brown color, and then place them in a deep dish and scatter over them 1/2 lb. of <ingredient>Granulated Sugar</ingredient> and pour on 1 pint of <ingredient>Port or Claret Wine.</ingredient> Then cover the dish and set aside for 24 hours before the time to serve. When about ready for the service, set the dish in <ingredient>boiling water;</ingredient> press the Juice from the Oranges with a large spoon or <implement>wooden potato masher</implement> and strain the Juice through a fine seive or <implement>cheese cloth.</implement> Then boil 1 pint of <ingredient>Port</ingredient> or <ingredient>Claret</ingredient> and mix it with the Strained Juice. Serve in stem <implement>Claret glasses</implement> while warm. A little <ingredient>Nutmeg</ingredient> on top improves the drink, but should not be added unless requested by customer or guest.</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">BISMARCK</purpose>
+
+<list><item>2 teaspoonfuls <ingredient>Vanilla Cordial</ingredient> in <implement>Sherry Wine glass.</implement></item>
+<item>1 <ingredient>yolk of an Egg</ingredient> covered with <ingredient>Benedictine</ingredient> so as not to break the yolk.</item>
+<item>1/2 Wineglass <ingredient>Kuemmel.</ingredient></item>
+<item>1 light dash <ingredient>Angostura Bitters.</ingredient></item>
+<item>The colors should be kept separate and great care exercised to prevent the ingredients from running together.</item>
+</list>
+</p></recipe>
+
+<pb n="14" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=20"/>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">BIZZY IZZY HIGH BALL</purpose>
+
+<list><item>Drop 1 piece of <ingredient>Ice</ingredient> into a Highball glass.</item>
+<item>2 dashes <ingredient>Lemon Juice.</ingredient></item>
+<item>2 teaspoonfuls <ingredient>Pineapple Syrup.</ingredient></item>
+<item>1/2 jigger <ingredient>Sherry Wine.</ingredient></item>
+<item>1/2 jigger <ingredient>Rye</ingredient> or <ingredient>Bourbon Whiskey.</ingredient></item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">BLACK STRIPE</purpose>
+
+Pour Wineglass <ingredient>Santa Cruz</ingredient> or <ingredient>Jamaica Rum</ingredient> into a small <implement>Bar glass</implement> and add 1 tablespoonful of <ingredient>Molasses.</ingredient></p><p>If to serve hot, fill glass with<ingredient> boiling Water</ingredient> and sprinkle <ingredient>Nutmeg</ingredient> on top.</p><p>If to serve cold, add 1/2 Wineglass <ingredient>Water.</ingredient></p><p>Stir well and fill up with <ingredient>Shaved Ice.</ingredient></p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">BLACK AND TAN PUNCH (For party of 10)</purpose>
+
+<list><item>1 lb. <ingredient>white Sugar.</ingredient></item>
+<item><ingredient>Juice of 6 Lemons.</ingredient></item>
+<item>1 quart <ingredient>Guinness Stout.</ingredient></item>
+<item>1 quart <ingredient>Champagne.</ingredient></item>
+<item>Pour into mixture of <ingredient>Lemon Juice</ingredient> and <ingredient>Sugar</ingredient> the <ingredient>Champagne</ingredient> and Stout, ice cold. Serve in <implement>Punch glasses</implement> dressed with <ingredient>Fruit.</ingredient></item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">BLACKTHORNE COCKTAIL</purpose>
+
+<list><item>Fill <implement>Mixing glass</implement> 2/3 full <ingredient>Shaved Ice.</ingredient></item>
+<item>1/4 teaspoonful <ingredient>Lemon Juice.</ingredient></item>
+<item>1 teaspoonful <ingredient>Syrup.</ingredient></item>
+<item>1/2 jigger <ingredient>Vermouth.</ingredient></item>
+<item>1/2 jigger <ingredient>Sloe Gin.</ingredient></item>
+<item>1 dash <ingredient>Angostura Bitters.</ingredient></item>
+<item>2 dashes <ingredient>Orange Bitters.</ingredient></item>
+<item>Stir; strain into <implement>Cocktail glass</implement> and serve.</item>
+</list>
+</p></recipe>
+
+<pb n="15" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=21"/>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">BLACKTHORNE SOUR</purpose>
+
+<list><item>Fill large <implement>Bar glass</implement> 2/3 full <ingredient>Shaved Ice.</ingredient></item>
+<item>4 dashes <ingredient>Lime or Lemon Juice.</ingredient></item>
+<item>1 teaspoonful <ingredient>Pineapple Syrup.</ingredient></item>
+<item>1/2 teaspoonful <ingredient>green Chartreuse.</ingredient></item>
+<item>1 jigger <ingredient>Sloe Gin.</ingredient></item>
+<item>Stir; strain into <implement>Claret glass;</implement> ornament with <ingredient>Fruit</ingredient> and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">BLIZ'S ROYAL RICKEY</purpose>
+
+<list><item>Drop 3 lumps <ingredient>Cracked Ice</ingredient> in a <implement>Rickey (thin Champagne) glass.</implement></item>
+<item>1/2 <ingredient>Lime</ingredient> or 1/4 <ingredient>Lemon.</ingredient></item>
+<item>4 dashes <ingredient>Raspberry Syrup.</ingredient></item>
+<item>1 pony <ingredient>Vermouth.</ingredient></item>
+<item>3/4 jigger <ingredient>Gin.</ingredient></item>
+<item>Fill up with <ingredient>Ginger Ale</ingredient> (imported); stir; dress with <ingredient>Fruit</ingredient> and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">BLUE BLAZER</purpose>
+
+<list><item>Use two Pewter or Silver Mugs.</item>
+<item>1 teaspoonful <ingredient>Bar Sugar</ingredient> dissolved in a little <ingredient>Hot Water.</ingredient></item>
+<item>1 Wineglass (or jigger) <ingredient>Scotch Whiskey.</ingredient></item>
+</list>
+</p><p>Ignite the mixture, and while blazing pour it several times from one mug to the other. Serve with a piece of twisted <ingredient>Lemon Peel</ingredient> on top.</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">BOATING PUNCH</purpose>
+
+<list><item>Into a large <implement>Bar glass</implement> put:</item>
+<item>2 teaspoonfuls <ingredient>Bar Sugar.</ingredient></item>
+<item>2 dashes <ingredient>Lemon Juice.</ingredient></item>
+<item>1 dash <ingredient>Lime Juice.</ingredient></item>
+<item>Fill up with <ingredient>Shaved Ice</ingredient> and add:</item>
+<item>1 pony <ingredient>Brandy.</ingredient></item>
+<item>1 jigger <ingredient>Santa Cruz Rum.</ingredient></item>
+<item>Stir; dress with <ingredient>Fruit</ingredient> and serve with Straws.</item>
+</list>
+</p></recipe>
+
+<pb n="16" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=22"/>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">BOMBAY PUNCH (2 1/2-gallon mixture for 40 people)</purpose>
+
+<list><item>Bruise the skins of 6 <ingredient>Lemons</ingredient> in 1 lb. of <ingredient>Bar sugar</ingredient> and put the Sugar in a Punch bowl and add:</item>
+<item>1 box <ingredient>Strawberries.</ingredient></item>
+<item>2 <ingredient>Lemons,</ingredient> sliced.</item>
+<item>6 <ingredient>Oranges,</ingredient> sliced.</item>
+<item>1 <ingredient>Pineapple,</ingredient> cut into small pieces.</item>
+<item>1 quart <ingredient>Brandy.</ingredient></item>
+<item>1 quart <ingredient>Sherry Wine.</ingredient></item>
+<item>1 quart <ingredient>Madeira Wine.</ingredient></item>
+<item>Stir well; empty into another bowl in which a block of <ingredient>Clear Ice</ingredient> has been placed and add:</item>
+<item>4 quarts of <ingredient>Champagne.</ingredient></item>
+<item>2 quarts <ingredient>Carbonated Water.</ingredient></item>
+<item>Serve into <implement>Punch glasses</implement> so that each person will have some of the <ingredient>Fruit.</ingredient></item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">BON SOIR ("Good Night")</purpose>
+
+<list><item>Fill a Sherry glass 1/2 full of <ingredient>Shaved Ice.</ingredient></item>
+<item>1/2 pony <ingredient>Benedictine.</ingredient></item>
+<item>1/2 pony <ingredient>Creme Yvette.</ingredient></item>
+<item>Fill up with <ingredient>Ginger Ale;</ingredient> stir gently and serve with a Straw cut in two.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">BOSTON COOLER</purpose>
+
+<list><item>1 <ingredient>Lemon Rind</ingredient> in large <implement>Bar glass.</implement></item>
+<item>3 lumps <ingredient>Ice.</ingredient></item>
+<item>1 bottle <ingredient>Giner Ale.</ingredient></item>
+<item>1 bottle <ingredient>Sarsaparilla.</ingredient></item>
+<item>Serve.</item>
+</list>
+</p></recipe>
+
+<pb n="17" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=23"/>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">BOTTLE OF COCKTAIL</purpose>
+
+<list><item>Pour a quart of <ingredient>Whiskey</ingredient> or other Liquor desired into a <implement>Bar measure</implement> or glass pitcher and add:</item>
+<item>1 jigger <ingredient>Gum Syrup.</ingredient></item>
+<item>1 pony <ingredient>Curacoa.</ingredient></item>
+<item>3/4 pony <ingredient>Angostura Bitters.</ingredient></item>
+<item>Pour back and forth from one measure or pitcher into another measure or pitcher until the liquid is thoroughly mixed. Bottle and cork.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">BRACE UP</purpose>
+
+<list><item>1 tablespoonful <ingredient>Bar Sugar</ingredient> in large <implement>Mixing glass.</implement></item>
+<item>3 dashes <ingredient>Boker's or Angostura Bitters.</ingredient></item>
+<item>3 dashes <ingredient>Lemon Juice.</ingredient></item>
+<item>2 dashes <ingredient>Anisette.</ingredient></item>
+<item>1 <ingredient>Egg.</ingredient></item>
+
+<item>1 jigger <ingredient>Brandy.</ingredient></item>
+<item>1/2 glass <ingredient>Shaved Ice.</ingredient></item>
+<item>Shake well; strain into tall, thin glass; fill with <ingredient>Apollinaris</ingredient>and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">BRANDY AND GINGER ALE</purpose>
+
+<list><item>3 lumps of <ingredient>Ice</ingredient> in tall, thin glass.</item>
+<item>1 Wineglass <ingredient>Brandy.</ingredient></item>
+<item>1 bottle <ingredient>Ginger Ale.</ingredient></item>
+<item>Stir briskly and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">BRANDY AND SODA</purpose>
+
+<list><item>2 pieces of <ingredient>Ice</ingredient> in tall, thin glass.</item>
+<item>1 Wineglass <ingredient>Brandy.</ingredient></item>
+<item>1 bottle <ingredient>plain Soda.</ingredient></item>
+<item>Stir briskly and serve.</item>
+</list>
+</p></recipe>
+
+<pb n="18" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=24"/>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">BRANDY FLIP</purpose>
+
+<list><item>Fill medium <implement>Bar glass</implement> 1/4 full <ingredient>Shaved Ice.</ingredient></item>
+<item>1 <ingredient>Egg</ingredient> broken in whole.</item>
+<item>2 level teaspoonfuls <ingredient>Bar Sugar.</ingredient></item>
+<item>1 jigger <ingredient>Brandy.</ingredient></item>
+<item>Shake well; strain into small <implement>Shell glass;</implement> grate a little <ingredient>Nutmeg</ingredient> on top and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">BRANDY FLOAT</purpose>
+
+<list><item>Fill a <implement>Cocktail glass</implement> 2/3 full of <ingredient>Carbonated Water.</ingredient></item>
+<item>1 pony <ingredient>Brandy</ingredient> floated on top.</item>
+<item>(Use spoon to float the Brandy).</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">BRANDY JULEP</purpose>
+
+Into a small <implement>Bar glass</implement> pour 3/4 Wineglass of <ingredient>Water</ingredient> and stir in 1 heaping teaspoonful of <ingredient>Bar Sugar.</ingredient> Bruise 3 or 4 sprigs of <ingredient>Mint</ingredient> in the Sugar and Water with a <implement>Muddler</implement> until the flavor of the Mint has been extracted. Then withdraw the Mint and pour the flavored Water into a tall <implement>Shell glass</implement> or large <implement>Goblet,</implement> which has been filled with <ingredient>fine Ice,</ingredient> and add:</p><p>
+<list><item>1 jigger of <ingredient>Brandy.</ingredient></item>
+<item>2 dashes <ingredient>Jamaica Rum.</ingredient></item>
+<item>Stir well; decorate with few sprigs of Mint by planting the sprigs stems downward in the Ice around the rim of glass; dress with <ingredient>Fruit</ingredient> and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">BRANDY PUNCH</purpose>
+
+<list><item>Fill large <implement>Bar glass</implement> 3/4 full <ingredient>Shaved Ice.</ingredient></item>
+<item>2 teaspoonfuls <ingredient>Bar Sugar</ingredient> dissolved in little <ingredient>Water.</ingredient></item>
+<item>1/2 <ingredient>Juice of 1 Lemon.</ingredient></item>
+<item>1/4 jigger <ingredient>Santa Cruz Rum.</ingredient></item>
+<item>1 1/2 jiggers <ingredient>Brandy.</ingredient></item>
+<item>1 slice <ingredient>Orange.</ingredient></item>
+<item>1 piece of <ingredient>Pineapple.</ingredient></item>
+<item>Shake; dress with <ingredient>Fruit</ingredient> and serve with Straw.</item>
+</list>
+</p></recipe>
+
+<pb n="19" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=25"/>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">BRANDY SCAFFA</purpose>
+
+<list><item>Into a small Wineglass pour:</item>
+<item><ingredient>Green Chartreuse.</ingredient></item>
+<item><ingredient>Maraschino.</ingredient></item>
+<item>Old <ingredient>Brandy.</ingredient></item>
+<item>In equal proportion to fill the glass, using care as in preparing Crustas, not to allow the colors to blend.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">BRANDY SHAKE</purpose>
+
+<list><item>Fill small <implement>Bar glass</implement> 3/4 full <ingredient>Shaved Ice.</ingredient></item>
+<item>1 teaspoonful <ingredient>Bar Sugar.</ingredient></item>
+<item><ingredient>Juice of 2 Limes.</ingredient></item>
+<item>1 jigger <ingredient>Brandy.</ingredient></item>
+<item>Shake; strain into small fancy glass and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">BRANDY SHRUB (2-gallon mixture for 40 people)</purpose>
+
+Into a Punch bowl put the <ingredient>Peeled Rinds of 5 Lemons</ingredient> and the <ingredient>Juice of 12 Lemons</ingredient> and add 5 quarts of <ingredient>Brandy.</ingredient> Make the bowl airtight and set it aside. At the expiration of 6 days add 3 quarts of <ingredient>Sherry wine</ingredient> and 6 pounds of <ingredient>Loaf Sugar,</ingredient> which has been dissolved in 1 quart of plain <ingredient>Soda.</ingredient> Strain through a bag and bottle.</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">BRANDY SKIN</purpose>
+
+<list><item>Fill a <implement>Whiskey glass</implement> 1/2 full <ingredient>Hot Water</ingredient> and pour in:</item>
+<item>1 jigger <ingredient>Brandy.</ingredient></item>
+<item>Twist a piece of <ingredient>Lemon Skin</ingredient> on top and serve.</item>
+<item>(It may occur that a customer will ask for a little <ingredient>Sugar.</ingredient> In that case add 1/2 small teaspoonful, and stir).</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">BRANDY SLING</purpose>
+
+<list><item>In a <implement>Whiskey glass</implement>:</item>
+<item>1 lump <ingredient>Ice.</ingredient></item>
+<item>1 teaspoonful <ingredient>Sugar</ingredient> dissolved in little <ingredient>Water.</ingredient></item>
+<item>1 jigger <ingredient>Brandy.</ingredient></item>
+<item>Stir; twist in a piece of <ingredient>Lemon Peel;</ingredient> grate <ingredient>Nutmeg</ingredient> on top and serve.</item>
+</list>
+</p></recipe>
+
+<pb n="20" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=26"/>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">BRANDY SMASH</purpose>
+
+<list><item>Fill large <implement>Bar glass</implement> 1/2 full <ingredient>Shaved Ice.</ingredient></item>
+<item>1 heaping teaspoonful <ingredient>Bar Sugar.</ingredient></item>
+<item>3 sprigs of <ingredient>Mint.</ingredient></item>
+<item>1 jigger <ingredient>Brandy.</ingredient></item>
+<item>Stir; strain into fancy Stem glass and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">BRANDY SOUR</purpose>
+
+<list><item>Fill large <implement>Bar glass</implement> 3/4 full <ingredient>Shaved Ice.</ingredient></item>
+<item>2 teaspoonfuls <ingredient>Bar Sugar.</ingredient></item>
+<item>3 dashes <ingredient>Lemon or Lime Juice.</ingredient></item>
+<item>3 dashes <ingredient>Seltzer or Apollinaris Water.</ingredient></item>
+<item>1 jigger <ingredient>Brandy.</ingredient></item>
+<item>Stir; strain into Sour glass; dress with <ingredient>Fruit</ingredient> and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">BRANDY TODDY</purpose>
+
+<list><item>Into a <implement>Whiskey glass</implement> drop 1 lump <ingredient>Cracked Ice.</ingredient></item>
+<item>1 teaspoonful of <ingredient>Bar Sugar</ingredient> dissolved in little <ingredient>Water.</ingredient></item>
+<item>Stir; place the bottle before the customer and allow him to pour his own drink.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">BRONX COCKTAIL</purpose>
+
+<list><item>Fill large <implement>Bar glass</implement> 3/4 full <ingredient>Shaved Ice.</ingredient></item>
+<item>1/3 jigger <ingredient>Dry Gin.</ingredient></item>
+<item>1/3 jigger <ingredient>French Vermouth.</ingredient></item>
+<item>1/3 jigger <ingredient>Italian Vermouth.</ingredient></item>
+<item>1 Slice <ingredient>Orange.</ingredient></item>
+<item>Shake well; strain into <implement>Cocktail glass</implement> and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">BURNT BRANDY</purpose>
+
+Place two lumps of <ingredient>Cut Loaf Sugar</ingredient> in a small, shallow dish or saucer and pour over the Sugar 1 1/2 jiggers of <ingredient>Cognac Brandy.</ingredient> Ignite the Sugar and <ingredient>Brandy</ingredient> and let them burn for about two minutes. Then cover the dish or saucer with a plate, and when the fire is extinguished pour the liquid into a small <implement>Bar glass</implement> and serve.</p></recipe>
+
+<pb n="21" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=27"/>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">BUSTER BROWN COCKTAIL</purpose>
+
+<list><item>Fill large <implement>Bar glass</implement> 2/3 full <ingredient>Shaved Ice.</ingredient></item>
+<item>1 teaspoonful <ingredient>Gum Syrup.</ingredient></item>
+<item>2 dashes <ingredient>Lemon Juice.</ingredient></item>
+<item>2 dashes <ingredient>Orange Bitters.</ingredient></item>
+<item>1 jigger <ingredient>Whiskey.</ingredient></item>
+<item>Stir; strain into <implement>Cocktail glass</implement> and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">BUTTERED RUM</purpose>
+
+<list><item>In a <implement>Tumbler</implement> drop 1 lump of <ingredient>Sugar</ingredient> and dissolve it in a little <ingredient>hot Water,</ingredient> and add:</item>
+<item>1 1/4 jiggers <ingredient>Rum.</ingredient></item>
+<item>1 piece of <ingredient>Butter</ingredient> about the size of a Walnut.</item>
+<item>Grate <ingredient>Nutmeg</ingredient> on top and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">CALIFORNIA SHERRY COBBLER</purpose>
+
+<list><item>1 pony of <ingredient>Pineappple Syrup</ingredient> in large <implement>Bar glass.</implement></item>
+<item>2 jiggers <ingredient>California Sherry.</ingredient></item>
+<item>Fill glass with <ingredient>Shaved Ice;</ingredient> stir well; decorate with <ingredient>Fruit;</ingredient> dash a little <ingredient>Port Wine</ingredient> on top and serve with Straws.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">CALIFORNIA WINE COBBLER</purpose>
+
+<list><item>Fill tall, thin glass nearly full <ingredient>Shaved Ice.</ingredient></item>
+<item>1 heaping teaspoonful <ingredient>Bar Sugar.</ingredient></item>
+<item><ingredient>Juice of 1 Orange.</ingredient></item>
+<item>2 1/2 jiggers <ingredient>California Wine.</ingredient></item>
+<item>Stir; ornament with <ingredient>Fruit</ingredient> and serve with Straws.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">CARLETON RICKEY--St. Louis Style</purpose>
+
+<list><item>Use a large <implement>Mixing glass;</implement> fill with <ingredient>Lump Ice.</ingredient></item>
+<item><ingredient>Juice 1 Lime.</ingredient></item>
+<item>Drop squeezed <ingredient>Lime</ingredient> in glass.</item>
+<item>1 jigger <ingredient>Old Bourbon Whiskey.</ingredient></item>
+<item>Fill with <ingredient>Sweet Soda.</ingredient></item>
+<item>Stir well and serve.</item>
+</list>
+</p></recipe>
+
+<pb n="22" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=28"/>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">CATAWBA COBBLER</purpose>
+
+<list><item>Fill large <implement>Bar glass</implement> 1/2 full of <ingredient>Shaved Ice.</ingredient></item>
+<item>1 teaspoonful <ingredient>Bar Sugar</ingredient> dissolved in a little <ingredient>Water.</ingredient></item>
+<item>1 1/2 jiggers <ingredient>Catawba Wine.</ingredient></item>
+<item>1/4 slice of <ingredient>Orange.</ingredient></item>
+<item>Fill with Shaved Ice; stir well; decorate with <ingredient>Berries</ingredient> and serve with Straws.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">CELERY SOUR</purpose>
+
+<list><item>Fill large <implement>Bar glass</implement> full <ingredient>Shaved Ice.</ingredient></item>
+<item>1 teaspoonful <ingredient>Lemon Juice.</ingredient></item>
+<item>1 teaspoonful <ingredient>Pineapple Syrup.</ingredient></item>
+<item>1 teaspoonful <ingredient>Celery Bitters.</ingredient></item>
+<item>Stir; strain into Fancy Wineglass with <ingredient>Fruit</ingredient> and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">CENTURY CLUB PUNCH (for a party of 5)</purpose>
+
+<list><item>Fill glass Pitcher 1/4 full <ingredient>Cracked Ice.</ingredient></item>
+<item>1/2 pint <ingredient>Jamaica Rum.</ingredient></item>
+<item>1/2 pint <ingredient>Santa Cruz Rum.</ingredient></item>
+<item>2 1/2 pints <ingredient>aerated Water.</ingredient></item>
+<item>2 1/2 tablespoonfuls <ingredient>Bar Sugar.</ingredient></item>
+<item>Stir well and serve in <implement>Punch glasses.</implement></item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">CHAMPAGNE</purpose>
+
+Serve off the Ice very cold. <ingredient>Ice</ingredient> should never be put in the <ingredient>Wine.</ingredient></p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">CHAMPAGNE COBBLER</purpose>
+
+<list><item>1 teaspoonful <ingredient>Bar Sugar</ingredient> in large <implement>Bar glass.</implement></item>
+<item>1 slice <ingredient>Lemon Peel.</ingredient></item>
+<item>1 slice <ingredient>Orange Peel.</ingredient></item>
+<item>Fill glass 1/2 full <ingredient>Shaved Ice</ingredient> and fill up with <ingredient>Champagne.</ingredient></item>
+<item>Decorate with <ingredient>Fruit</ingredient> and serve with Straws.</item>
+</list>
+</p></recipe>
+
+<pb n="23" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=29"/>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">CHAMPAGNE COCKTAIL</purpose>
+
+<list><item>1 lump <ingredient>Sugar</ingredient> in tall, thin glass.</item>
+<item>1 small piece <ingredient>Ice.</ingredient></item>
+<item>2 dashes <ingredient>Angostura Bitters.</ingredient></item>
+<item>1 piece twisted <ingredient>Lemon Peel.</ingredient></item>
+<item>Fill up with <ingredient>Champagne.</ingredient></item>
+<item>Stir and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">CHAMPAGNE CUP (2-gallon mixture)</purpose>
+
+<list><item>For mixing use a large Punch bowl or other suitable vessel of glass or porcelain lined.</item>
+<item>4 <ingredient>Oranges,</ingredient> sliced.</item>
+<item>4 <ingredient>Lemons,</ingredient> sliced.</item>
+<item>1/2 <ingredient>Pineapple,</ingredient> sliced.</item>
+<item>1/2 pint <ingredient>Chartreuse.</ingredient></item>
+<item>1/2 pint <ingredient>Abricontine.</ingredient></item>
+<item>1 pint <ingredient>Curacoa.</ingredient></item>
+<item>1 pint <ingredient>Cognac Brandy.</ingredient></item>
+<item>1 pint <ingredient>Tokay Wine.</ingredient></item>
+<item>Stir well and allow mixture to stand three hours. Strain into another bowl and add:</item>
+<item>3 quarts <ingredient>Champagne.</ingredient></item>
+<item>3 pints <ingredient>Apollinaris Water.</ingredient></item>
+<item>1 large piece of <ingredient>Ice.</ingredient></item>
+<item>Stir well; decorate with <ingredient>Fruit;</ingredient> float slices of <ingredient>Grape Fruit</ingredient> on top and serve in <implement>Champagne glasses.</implement></item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">CHAMPAGNE FRAPPE</purpose>
+
+Place a bottle in a <implement>Champagne cooler</implement> and around it a freezing mixture of <ingredient>fine Ice</ingredient> and <ingredient>Salt.</ingredient> Twirl the bottle until it is about to freeze, when it will be ready to serve.</p></recipe>
+
+<pb n="24" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=30"/>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">CHAMPAGNE JULEP</purpose>
+
+<list><item>Fill medium size <implement>Shell glass</implement> 1/3 full <ingredient>Cracked Ice.</ingredient></item>
+<item>2 teaspoonfuls <ingredient>Bar Sugar.</ingredient></item>
+<item>2 sprigs bruised <ingredient>Mint.</ingredient></item>
+<item>Pour <ingredient>Champagne</ingredient> slowly into the glass, stirring gently at the same time.</item>
+<item>Dress with <ingredient>fruit;</ingredient> dash with <ingredient>Brandy</ingredient> and serve with Straws.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">CHAMPAGNE PUNCH (for a party of 6)</purpose>
+
+<list><item>Into a glass Pitcher pour the <ingredient>Juice of 1 Lemon,</ingredient> and add:</item>
+<item>1/4 lb. <ingredient>Bar Sugar.</ingredient></item>
+<item>1 jigger <ingredient>Strawberry Syrup.</ingredient></item>
+<item>1 quart bottle <ingredient>Champagne.</ingredient></item>
+<item>Stir with Ladle and drop in:</item>
+<item>1 sliced <ingredient>Orange.</ingredient></item>
+<item>3 slices <ingredient>Pineapple.</ingredient></item>
+<item>Decorate with <ingredient>Fruit</ingredient> and serve in Champagne <implement>goblets.</implement></item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">CHAMPAGNE SOUR</purpose>
+
+<list><item>Fill medium <implement>Bar glass</implement> 1/3 full <ingredient>Shaved Ice.</ingredient></item>
+<item>3 dashes <ingredient>Lemon Juice.</ingredient></item>
+<item>Fill up with <ingredient>Champagne.</ingredient></item>
+<item>Stir gently; dress with <ingredient>Fruit</ingredient> and <ingredient>Berries;</ingredient> dash with <ingredient>Brandy</ingredient> and serve with Straws.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">CHAMPAGNE VELVET</purpose>
+
+Fill <implement>Goblet</implement> 1/2 full ice-cold <ingredient>Champagne.</ingredient> Fill up balance of <implement>Goblet</implement> with ice-cold <ingredient>Porter.</ingredient> Stir and serve.</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">CHOCOLATE PUNCH</purpose>
+
+<list><item>Fill large <implement>Bar glass</implement> 2/3 full <ingredient>Shaved Ice.</ingredient></item>
+<item>1 teaspoonful <ingredient>Bar Sugar.</ingredient></item>
+<item>1/4 jigger <ingredient>Curacoa.</ingredient></item>
+<item>1 jigger <ingredient>Port Wine.</ingredient></item>
+<item>1 <ingredient>Egg.</ingredient></item>
+<item>Fill up with <ingredient>Milk;</ingredient> shake well; strain into <implement>Punch glass;</implement> grate <ingredient>Nutmeg</ingredient> on top and serve.</item>
+</list>
+</p></recipe>
+
+<pb n="25" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=31"/>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">CIDER EGGNOG</purpose>
+
+<list><item>Into a large <implement>Bar glass</implement> break a fresh <ingredient>Egg.</ingredient></item>
+<item>1 teaspoonful <ingredient>Sugar.</ingredient></item>
+<item>4 lumps <ingredient>Cracked Ice.</ingredient></item>
+<item>Fill up with <ingredient>Sweet Cider.</ingredient></item>
+<item>Shake; strain into tall, thin glass and serve with grated <ingredient>Nutmeg</ingredient> on top.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">CLARET AND ICE</purpose>
+
+<list><item>4 lumps <ingredient>Ice</ingredient> in medium size Mineral Water glass.</item>
+<item>Fill up with <ingredient>Claret</ingredient> and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">CLARET COBBLER</purpose>
+
+<list><item>Dissolve one teaspoonful of <ingredient>Sugar</ingredient> with little <ingredient>Water</ingredient> in large <implement>Bar glass.</implement></item>
+<item>1 quartered slice <ingredient>Orange.</ingredient></item>
+<item>2 jiggers <ingredient>Claret.</ingredient></item>
+<item>Fill up with <ingredient>Shaved Ice</ingredient> and serve with Straws.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">CLARET CUP (2-gallon mixture)</purpose>
+
+<list><item>For mixing use a large Punch bowl or other suitable vessel of glass or porcelain lined.</item>
+<item>6 <ingredient>oranges,</ingredient> sliced.</item>
+<item>3 <ingredient>lemons,</ingredient> sliced.</item>
+<item>2 <ingredient>Pineapples.</ingredient></item>
+<item>2 jiggers <ingredient>Abricontine.</ingredient></item>
+<item>4 jiggers <ingredient>Curacoa.</ingredient></item>
+<item>4 quarts <ingredient>Claret.</ingredient></item>
+<item>3 pints <ingredient>Apollinaris.</ingredient></item>
+</list>
+</p><p>Mix well with a Ladle and set aside for three hours before using. Then strain into another bowl, and when ready to use add 3 pints of some <ingredient>sparkling Wine,</ingredient> preferably <ingredient>Champagne.</ingredient> Stir gently once or twice, and then put in a block of <ingredient>clear Ice</ingredient> and decorate the top of it tastily with <ingredient>Fruits</ingredient> and let several slices of <ingredient>Grape Fruit</ingredient> float around in the bowl. Serve in <implement>Champagne glasses.</implement></p></recipe>
+
+<pb n="26" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=32"/>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">CLARET FLIP</purpose>
+
+<list><item>Fill large <implement>Bar glass</implement> 1/2 full <ingredient>Shaved Ice.</ingredient></item>
+<item>2 heaping teaspoonfuls <ingredient>Bar Sugar</ingredient> dissolved in a little <ingredient>Water.</ingredient></item>
+<item>1 whole <ingredient>Egg</ingredient> broken in.</item>
+<item>1 1/2 jiggers <ingredient>Claret Wine.</ingredient></item>
+<item>Shake thoroughly; strain into <implement>Punch glass;</implement> sprinkle with <ingredient>Nutmeg</ingredient> on top and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">CLARET PUNCH</purpose>
+
+<list><item>Fill large <implement>Bar glass</implement> 2/3 full <ingredient>Shaved Ice.</ingredient></item>
+<item>3 teaspoonfuls <ingredient>Bar Sugar.</ingredient></item>
+<item>4 dashes <ingredient>Lemon Juice.</ingredient></item>
+<item>2 slices <ingredient>Orange.</ingredient></item>
+<item>2 jiggers <ingredient>Claret.</ingredient></item>
+<item>Shake; strain into thin glass; dress with <ingredient>Fruit</ingredient> and serve with Straws.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">CLARET PUNCH (5-gallon mixture for a large reception or party of 100 people)</purpose>
+
+<list><item>For mixing use a large agate or porcelain-lined vessel.</item>
+<item>4 lbs. Cut <ingredient>Loaf Sugar.</ingredient></item>
+<item><ingredient>Juice of 25 Lemons.</ingredient></item>
+<item>2 quarts <ingredient>Brandy.</ingredient></item>
+<item>10 quarts <ingredient>Claret.</ingredient></item>
+<item>7 jiggers <ingredient>Chartreuse (green).</ingredient></item>
+<item>8 quarts <ingredient>Carbonated Water.</ingredient></item>
+<item>Stir well.</item>
+<item>Place a large block of <ingredient>Ice</ingredient> in a Punch bowl and fill nearly full of the mixture, adding:</item>
+<item>18 <ingredient>Oranges,</ingredient> cut in slices.</item>
+<item>1 1/2 cans sliced <ingredient>Pineapples.</ingredient></item>
+<item>Serve from the bowl into <implement>Punch glasses</implement> with a Ladle, and renew the contents of the bowl from the mixing vessel as needed.</item>
+</list>
+</p></recipe>
+
+<pb n="27" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=33"/>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">CLOVER CLUB COCKTAIL</purpose>
+
+<list><item>Fill large <implement>Bar glass</implement> 1/2 full <ingredient>Fine Ice.</ingredient></item>
+<item>1/2 pony <ingredient>Raspberry Syrup.</ingredient></item>
+<item>1/2 jigger <ingredient>Dry Gin.</ingredient></item>
+<item>1/2 jigger <ingredient>French Vermouth.</ingredient></item>
+<item><ingredient>White of 1 Egg.</ingredient></item>
+<item>Shake well; strain into <implement>Cocktail glass</implement> and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">CLOVER LEAF COCKTAIL</purpose>
+
+<list><item>Fill <implement>Mixing glass</implement> with <ingredient>Lump Ice.</ingredient></item>
+<item>1/2 pony <ingredient>Cusenier Grenadine.</ingredient></item>
+<item>The <ingredient>white of one Egg.</ingredient></item>
+<item>1 jigger <ingredient>Sir Robert Burnette's Old Tom Gin.</ingredient></item>
+<item>Shake well and strain into a <implement>Cocktail glass.</implement></item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">CLUB COCKTAIL</purpose>
+
+<list><item>Fill large <implement>Bar glass</implement> 1/2 full <ingredient>Shaved Ice.</ingredient></item>
+<item>2 dashes <ingredient>Angostura Bitters.</ingredient></item>
+<item>2 dashes <ingredient>Pineapple Syrup.</ingredient></item>
+<item>1 jigger <ingredient>Brandy.</ingredient></item>
+<item>Stir; strain into <implement>Cocktail glass;</implement> dress with <ingredient>Berries;</ingredient> dash with <ingredient>Champagne;</ingredient> twist a piece of <ingredient>Lemon Skin</ingredient> over the drink and drop it on top. Serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">CLUB HOUSE CLARET PUNCH</purpose>
+
+<list><item>Fill large <implement>Bar glass</implement> 3/4 full Shaved Ice.</item>
+<item>4 dashes <ingredient>Gum Syrup.</ingredient></item>
+<item>1 teaspoonful <ingredient>Lemon Juice.</ingredient></item>
+<item>1 teaspoonful <ingredient>Orange Juice.</ingredient></item>
+<item>2 jiggers <ingredient>Claret.</ingredient></item>
+<item>Shake; strain into tall, thin glass; fill up with <ingredient>Apollinaris</ingredient> or <ingredient>Seltzer;</ingredient> dress with <ingredient>Fruit</ingredient> and serve.</item>
+</list>
+</p></recipe>
+
+<pb n="28" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=34"/>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">CLUB HOUSE PUNCH (for a party of 20)</purpose>
+
+<list><item>For mixing use a large Punch bowl.</item>
+<item>1/2 can <ingredient>Peaches.</ingredient></item>
+<item>1/2 can <ingredient>Pineapples.</ingredient></item>
+<item>3 <ingredient>Oranges,</ingredient> sliced.</item>
+<item>3 <ingredient>Lemons,</ingredient> sliced.</item>
+<item>3 quarts <ingredient>Sweet Catawba</ingredient> or <ingredient>Tokay.</ingredient></item>
+<item>1 pint <ingredient>Brandy.</ingredient></item>
+<item>1 1/2 jiggers <ingredient>Jamaica Rum.</ingredient></item>
+<item>1 jigger <ingredient>Green Chartreuse.</ingredient></item>
+</list>
+</p><p>Set this mixture aside in <implement>ice box</implement> for 6 hours. Then place block of <ingredient>Ice</ingredient> in another bowl of sufficient capacity and strain in the mixture from the Mixing bowl. Dress the Ice with <ingredient>Fruit</ingredient> and serve with a Ladle into <implement>Punch glasses.</implement></p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">COFFEE COCKTAIL</purpose>
+
+<list><item>Fill large <implement>Bar glass</implement> 2/3 full <ingredient>Shaved Ice.</ingredient></item>
+<item>1 fresh <ingredient>Egg.</ingredient></item>
+<item>1 teaspoonful <ingredient>Bar Sugar.</ingredient></item>
+<item>1 jigger <ingredient>Port Wine.</ingredient></item>
+<item>1 pony <ingredient>Brandy.</ingredient></item>
+<item>Shake; strain into medium thin glass; grate <ingredient>Nutmeg</ingredient> on top and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">COHASSET PUNCH</purpose>
+
+<list><item>Fill large <implement>Bar glass</implement> 1/2 full <ingredient>Shaved Ice.</ingredient></item>
+<item>1 jigger <ingredient>New England Rum.</ingredient></item>
+<item>1 jigger <ingredient>Vermouth.</ingredient></item>
+<item>3 dashes <ingredient>Gum Syrup.</ingredient></item>
+<item>1 dash <ingredient>Orange Bitters.</ingredient></item>
+<item>1/2 <ingredient>juice of a Lemon.</ingredient></item>
+<item>Stir and serve with a <ingredient>Preserved Peach</ingredient> and its liquor.</item>
+</list>
+</p></recipe>
+
+<pb n="29" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=35"/>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">COLD RUBY PUNCH (2 1/2-gallon mixture for 50 people)</purpose>
+
+<list><item>4 lbs. <ingredient>Cut Loaf Sugar.</ingredient></item>
+<item>2 quarts <ingredient>Port Wine.</ingredient></item>
+<item>2 quarts <ingredient>Batavia Arrack.</ingredient></item>
+<item>6 quarts <ingredient>green Tea.</ingredient></item>
+<item><ingredient>Juice of 24 Lemons.</ingredient></item>
+<item>(See instructions for mixing and serving Punches in quantities.)</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">COLUMBIA SKIN</purpose>
+
+This drink is identical with Whiskey Skin.</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">COMPANION PUNCH (2 1/2-gallon mixture for a reception or party of 50 people)</purpose>
+
+<list><item>Into a large Punch bowl pour:</item>
+<item>1 1/4 pints <ingredient>Lemon Juice.</ingredient></item>
+<item>2 pints <ingredient>Gum Syrup.</ingredient></item>
+<item>3/4 pint <ingredient>Orange Juice.</ingredient></item>
+<item>1 1/4 pints <ingredient>Brandy.</ingredient></item>
+<item>6 quarts equal parts <ingredient>Sweet and Dry Catawba.</ingredient></item>
+<item>2 quarts <ingredient>Carbonated Water.</ingredient></item>
+<item>When well stirred place large block of <ingredient>Ice</ingredient> in center of bowl; dress the Ice with <ingredient>Fruit</ingredient> and serve with a Ladle into <implement>Punch glasses.</implement></item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">CONTINENTAL SOUR</purpose>
+
+<list><item>Fill a large <implement>Bar glass</implement> 2/3 full <ingredient>Shaved Ice.</ingredient></item>
+<item>1 teaspoonful <ingredient>Bar Sugar</ingredient> dissolved in little <ingredient>Water.</ingredient></item>
+<item><ingredient>Juice of 1/2 Lemon.</ingredient></item>
+<item>1 jigger of <ingredient>Whiskey,</ingredient> <ingredient>Brandy</ingredient> or <ingredient>Gin,</ingredient> as preferred.</item>
+<item>Shake; strain into Sour glass; dash with <ingredient>Claret</ingredient> and serve.</item>
+</list>
+</p></recipe>
+
+<pb n="30" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=36"/>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">CORDIAL LEMONADE</purpose>
+
+Add to a plain <ingredient>Lemonade</ingredient> 1/3 jigger of any <ingredient>Cordial</ingredient> which the customer may prefer, and serve.</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">COUNTRY COCKTAIL</purpose>
+
+<list><item>Fill large <implement>Bar glass</implement> 2/3 full <ingredient>Shaved Ice.</ingredient></item>
+<item>1 teaspoonful <ingredient>Bar Sugar.</ingredient></item>
+<item>1 pony <ingredient>Brandy.</ingredient></item>
+<item>1 jigger <ingredient>Port Wine.</ingredient></item>
+<item>1 <ingredient>Egg.</ingredient></item>
+<item>Shake well; strain into thin glass; grate <ingredient>Nutmeg</ingredient> on top and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">COUPEREE</purpose>
+
+<list><item>Fill large <implement>Bar glass</implement> 1/3 full <ingredient>Ice Cream.</ingredient></item>
+<item>3/4 jigger <ingredient>Brandy.</ingredient></item>
+<item>1 pony <ingredient>Red Curacoa.</ingredient></item>
+<item>Mix thoroughly with a spoon.</item>
+<item>Fill up with <ingredient>Plain Soda;</ingredient> grate <ingredient>Nutmeg</ingredient> on top and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">CREME DE MENTHE</purpose>
+
+<list><item>Fill a Sherry glass with <ingredient>Shaved Ice.</ingredient></item>
+<item>1 pony <ingredient>Creme de Menthe.</ingredient></item>
+<item>Cut Straw in two pieces and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">CRIMEAN CUP A LA MARMORA (for a party of 10)</purpose>
+
+<list><item>Into a small Punch bowl pour:</item>
+<item>1 pint <ingredient>Orgeat Syrup.</ingredient></item>
+<item>2 jiggers <ingredient>Jamaica Rum.</ingredient></item>
+<item>2 jiggers <ingredient>Maraschino.</ingredient></item>
+<item>2 1/2 jiggers <ingredient>Brandy.</ingredient></item>
+<item>2 tablespoonfuls <ingredient>Bar Sugar.</ingredient></item>
+<item>1 quart <ingredient>Champagne.</ingredient></item>
+<item>1 quart <ingredient>Plain Soda.</ingredient></item>
+<item>Stir well; pack the bowl in <ingredient>Fine Ice</ingredient>, and when cold serve in fancy Stem glasses.</item>
+</list>
+</p></recipe>
+
+<pb n="31" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=37"/>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">COUNTRY CLUB PUNCH</purpose>
+
+Take 1 1/2 lbs. of <ingredient>Cut Loaf Sugar</ingredient> and rub the lumps on the skins of 4 <ingredient>Lemons</ingredient> and 2 <ingredient>Oranges</ingredient> until the Sugar becomes well saturated with the oil from the skins. Then put the Sugar thus prepared into a large porcelain-lined or agate Mixing vessel, and add:</p><p>
+<list><item>12 <ingredient>Oranges,</ingredient> sliced.</item>
+<item>1 <ingredient>Pineapple,</ingredient> sliced.</item>
+<item>1 box <ingredient>Strawberries.</ingredient></item>
+<item>2 bottles (quarts) <ingredient>Apollinaris Water.</ingredient></item>
+<item>Stir thoroughly with oak paddle or large silver ladle, and add:</item>
+<item>1 jigger <ingredient>Benedictine.</ingredient></item>
+<item>1 jigger <ingredient>Red Curacoa.</ingredient></item>
+<item>1 jigger <ingredient>Maraschino.</ingredient></item>
+<item>1/2 jigger <ingredient>Jamaica Rum.</ingredient></item>
+<item>1 quart <ingredient>Brandy.</ingredient></item>
+<item>4 quarts <ingredient>Tokay</ingredient> or <ingredient>Sweet Catawba Wine.</ingredient></item>
+<item>2 quarts <ingredient>Madeira Wine.</ingredient></item>
+<item>4 quarts <ingredient>Chateau Margaux.</ingredient></item>
+</list>
+</p><p>Mix well with oak paddle or ladle and strain into another bowl in which has been placed a block of <ingredient>clear ice.</ingredient> Then pour in 6 quarts <ingredient>Champagne.</ingredient> Decorate the Ice with <ingredient>Fruits,</ingredient> <ingredient>Berries,</ingredient> etc. Serve in Punch cups or glasses, dressing each glass with Fruit and Berries from the bowl.</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">COOPERSTOWN COCKTAIL</purpose>
+
+<list><item>Use a large <implement>Bar glass.</implement></item>
+<item>Fill with <ingredient>Lump Ice.</ingredient></item>
+<item>One jigger of <ingredient>Sir Robert Burnette's Old Tom Gin.</ingredient></item>
+<item>1/2 pony of <ingredient>Italian Vermouth.</ingredient></item>
+<item>Six leaves of fresh <ingredient>Mint.</ingredient></item>
+<item>Shake ingredients well together.</item>
+<item>Strain and serve in <implement>Cocktail glass.</implement></item>
+</list>
+</p></recipe>
+
+<pb n="32" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=38"/>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">CURACOA</purpose>
+
+Into a bottle which will hold a full quart, or a little over, drop 6 ounces of <ingredient>Orange Peel</ingredient> sliced very thin, and add 1 pint of <ingredient>Whiskey.</ingredient> Cork the bottle securely and let it stand two weeks, shaking the bottle frequently during that time. Next strain the mixture, add the <ingredient>Syrup,</ingredient> pour the strained mixture back into the cleaned bottle and let it stand 3 days, shaking well now and then during the first day. Next, pour a teacupful of the mixture into a <implement>mortar</implement> and beat up with it 1 drachm <ingredient>Powdered Alum,</ingredient> 1 drachm <ingredient>Carbonate of Potash.</ingredient> Put this mixture back into the bottle and let it stand for 10 days, at the expiration of which time the Curacoa will be clear and ready for use.</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">CURACOA PUNCH</purpose>
+
+<list><item>Fill large <implement>Bar glass</implement> 3/4 full <ingredient>Shaved Ice.</ingredient></item>
+<item>2 teaspoonfuls <ingredient>Bar Sugar.</ingredient></item>
+<item>4 dashes <ingredient>Lemon Juice.</ingredient></item>
+<item>1 pony <ingredient>Red Curacoa.</ingredient></item>
+<item>1 jigger <ingredient>Brandy.</ingredient></item>
+<item>1/2 pony <ingredient>Jamaica Rum.</ingredient></item>
+<item>Stir; decorate with <ingredient>Fruit</ingredient> and Serve with Straws.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">CURRANT SHRUB</purpose>
+
+<list><item>For mixing use a <implement>porcelain-lined or agate vessel,</implement> and put in:</item>
+<item>1 1/2 lbs. <ingredient>Cut Loaf Sugar.</ingredient></item>
+<item>1 quart <ingredient>Currant Juice</ingredient></item>
+</list>
+</p><p>Place vessel on the fire and let it boil slowly for 10 minutes, and skim well while boiling. Then remove vessel from fire and add 1/2 gill of <ingredient>Brandy</ingredient> to every pint of <ingredient>Shrub.</ingredient> Bottle and cork securely. This drink is served by simply pouring a little of the <ingredient>Syrup</ingredient> into <ingredient>Ice Water,</ingredient> as any drink from Fruit Syrup is prepared. <variation>The basis preparation for all Shrubs or Small <ingredient>Fruits,</ingredient> such as <ingredient>Cherries,</ingredient> <ingredient>Raspberries,</ingredient> etc., is prepared in the same way as directed for <ingredient>Currant Shrub,</ingredient> varying the quantity of Sugar used to suit the kind of <ingredient>Fruit.</ingredient></variation></p></recipe>
+
+<pb n="33" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=39"/>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">DERONDA COCKTAIL</purpose>
+
+<list><item>Fill large <implement>Bar glass</implement> with <ingredient>Shaved Ice.</ingredient></item>
+<item>1 1/2 jiggers <ingredient>Calisaya.</ingredient></item>
+<item>1 1/2 jiggers <ingredient>Plymouth Gin.</ingredient></item>
+<item>Shake; strain into <implement>Cocktail glass</implement> and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">DIARRHEA DRAUGHT</purpose>
+
+<list><item>Into a <ingredient>Whiskey</ingredient> glass pour:</item>
+<item>1/2 jigger <ingredient>Blackberry Brandy.</ingredient></item>
+<item>1/2 pony <ingredient>Peach Brandy.</ingredient></item>
+<item>2 dashes <ingredient>Jamaica Ginger.</ingredient></item>
+<item>Grate <ingredient>Nutmeg</ingredient> on top and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">DIXIE COCKTAIL</purpose>
+
+<list><item>Add to a plain Whiskey Cocktail:</item>
+<item>1 dash <ingredient>Curacoa.</ingredient></item>
+<item>6 drops <ingredient>Creme de Menthe.</ingredient></item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">DREAM</purpose>
+
+<list><item>Fill large <implement>Bar glass</implement> 2/3 full <ingredient>Shaved Ice.</ingredient></item>
+<item>1 teaspoonful <ingredient>Bar Sugar.</ingredient></item>
+<item>3 dashes <ingredient>Lemon Juice.</ingredient></item>
+<item>1 <ingredient>white of an Egg.</ingredient></item>
+<item>1 Wineglass <ingredient>Milk</ingredient> and <ingredient>Cream.</ingredient></item>
+<item>1 jigger <ingredient>Tom Gin.</ingredient></item>
+<item>Shake thoroughly; strain into tall, thin glass; cover the top lightly with <ingredient>Creme de Menthe</ingredient> and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">DELUSION</purpose>
+
+<list><item>Use a large <implement>Mixing glass;</implement> fill with <ingredient>Shaved Ice.</ingredient></item>
+<item>1/2 <ingredient>Lime Juice.</ingredient></item>
+<item>2/3 <ingredient>white Creme de Menthe.</ingredient></item>
+<item>1/3 <ingredient>Apricot Brandy.</ingredient></item>
+<item>Shake well; strain into thin Stem glass and serve.</item>
+</list>
+</p></recipe>
+
+<pb n="34" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=40"/>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">DORAY PUNCH</purpose>
+
+<list><item>Fill large <implement>Bar glass</implement> 2/3 full <ingredient>Shaved Ice.</ingredient></item>
+<item>2 teaspoonfuls <ingredient>Lemon Juice.</ingredient></item>
+<item>4 dashes <ingredient>Pineapple Syrup.</ingredient></item>
+<item>4 dashes <ingredient>Gum Syrup.</ingredient></item>
+<item>1/4 jigger <ingredient>Jamaica Rum.</ingredient></item>
+<item>1/4 jigger <ingredient>green Chartreuse.</ingredient></item>
+<item>1/2 jigger <ingredient>Tokay Wine.</ingredient></item>
+<item>1/2 jigger <ingredient>Brandy.</ingredient></item>
+<item>1 <ingredient>white of an Egg.</ingredient></item>
+<item>Shake hard; strain into thin <implement>Bar glass;</implement> dress with <ingredient>Fruit;</ingredient> dash with <ingredient>Seltzer;</ingredient> grate <ingredient>Nutmeg</ingredient> on top and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">DORAY SOUR</purpose>
+
+<list><item>Fill large <implement>Bar glass</implement> 2/3 full <ingredient>Shaved Ice.</ingredient></item>
+<item>3 dashes <ingredient>Gum Syrup.</ingredient></item>
+<item>4 dashes <ingredient>Lemon Juice.</ingredient></item>
+<item>1 dash <ingredient>Lime Juice.</ingredient></item>
+<item>1 teaspoonful <ingredient>Anricontine</ingredient> or <ingredient>green Chartreuse.</ingredient></item>
+<item>1/2 jigger <ingredient>Tokay</ingredient> or <ingredient>Sweet Catawba Wine.</ingredient></item>
+<item>1/2 jigger <ingredient>Brandy.</ingredient></item>
+<item>Stir well and strain into a fancy Sour glass; dress with <ingredient>Fruits;</ingredient> dash with <ingredient>Apollinaris</ingredient> or <ingredient>Seltzer;</ingredient> top off with a little <ingredient>Claret</ingredient> and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">DUPLEX COCKTAIL</purpose>
+
+<list><item>Fill large <implement>Bar glass</implement> with <ingredient>Shaved Ice.</ingredient></item>
+<item>1/3 jigger <ingredient>Old Tom Gin.</ingredient></item>
+<item>1 pony <ingredient>Italian Vermouth.</ingredient></item>
+<item>1 pony <ingredient>French Vermouth.</ingredient></item>
+<item>3 dashes <ingredient>Acid Phosphate.</ingredient></item>
+<item>4 dashes <ingredient>Orange Bitters.</ingredient></item>
+<item>Shake; strain into <implement>Cocktail glass</implement> and serve.</item>
+</list>
+</p></recipe>
+
+<pb n="35" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=41"/>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">DURKEE COCKTAIL</purpose>
+
+<list><item>Fill large <implement>Bar glass</implement> 2/3 full <ingredient>Shaved Ice.</ingredient></item>
+<item>1 tablespoonful <ingredient>Bar Sugar.</ingredient></item>
+<item>4 dashes <ingredient>Lemon Juice.</ingredient></item>
+<item>3 dashes <ingredient>Curacoa.</ingredient></item>
+<item>1 jigger <ingredient>Jamaica Rum.</ingredient></item>
+<item>Shake well; strain into tall, thin glass; fill up with <ingredient>Plain Soda;</ingredient> stir gently and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">EAGLE PUNCH</purpose>
+
+<list><item>Into a Hot Water glass drop:</item>
+<item>1 lump <ingredient>Cut Loaf Sugar</ingredient> and dissolve in little <ingredient>Hot Water,</ingredient> crushing with <implement>muddler.</implement></item>
+<item>1/2 jigger <ingredient>Bourbon Whiskey.</ingredient></item>
+<item>1/2 jigger <ingredient>Rye Whiskey.</ingredient></item>
+<item>Fill up with <ingredient>boiling Water;</ingredient> twist a piece of <ingredient>Lemon Peel</ingredient> and grate <ingredient>Nutmeg</ingredient> on top and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">EAST INDIA COCKTAIL</purpose>
+
+<list><item>Fill large <implement>Bar glass</implement> 3/4 full <ingredient>Shaved Ice.</ingredient></item>
+<item>3 dashes <ingredient>Maraschino.</ingredient></item>
+<item>3 dashes <ingredient>Red Curacoa.</ingredient></item>
+<item>3 dashes <ingredient>Angostura Bitters.</ingredient></item>
+<item>1 jigger <ingredient>Brandy.</ingredient></item>
+<item>Stir well; strain into <implement>Cocktail glass</implement> and serve with a piece of twisted <ingredient>Lemon Peel</ingredient> on top.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">EGG MILK PUNCH</purpose>
+
+<list><item>Fill large <implement>Bar glass</implement> 1/2 full <ingredient>Shaved Ice.</ingredient></item>
+<item>2 teaspoonfuls <ingredient>Bar Sugar.</ingredient></item>
+<item>1 <ingredient>Egg</ingredient></item>
+<item>1 pony <ingredient>Santa Cruz Rum.</ingredient></item>
+<item>1 jigger <ingredient>Brandy.</ingredient></item>
+<item>Fill up with <ingredient>Milk;</ingredient> shake thoroughly until the mixture creams; strain into tall thin glass; grate <ingredient>Nutmeg</ingredient> on top and serve.</item>
+</list>
+</p></recipe>
+
+<pb n="36" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=42"/>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">EGGNOG</purpose>
+
+<list><item>Fill large <implement>Bar glass</implement> 1/2 full <ingredient>Shaved Ice.</ingredient></item>
+<item>1 <ingredient>Egg</ingredient></item>
+<item>1 teaspoonful <ingredient>Bar Sugar.</ingredient></item>
+<item>3/4 jigger <ingredient>Brandy.</ingredient></item>
+<item>1/2 jigger <ingredient>Jamaica Rum.</ingredient></item>
+<item>Fill up with <ingredient>Milk;</ingredient> shake thoroughly; strain into tall, thin glass and serve with little <ingredient>Nutmeg</ingredient> grated on top.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">EGGNOG (bowl of 3 gallons)</purpose>
+
+Beat the <ingredient>yolks of 20 Eggs</ingredient> until thin and stir in 2 1/2 lbs. <ingredient>Bar Sugar</ingredient> until Sugar is thoroughly dissolved. Into this mixture pour:</p><p>
+<list><item>1 1/2 pints <ingredient>Jamaica Rum.</ingredient></item>
+<item>2 quarts old <ingredient>Brandy.</ingredient></item>
+</list>
+</p><p>Mix the ingredients well by stirring. Then pour in the <ingredient>milk</ingredient> slowly, stirring all the while to prevent curdling. Pour carefully over the top of the mixture the <ingredient>whites of the Eggs,</ingredient> which have been beaten to a stiff froth. Fill <implement>Punch glasses</implement> from the bowl with ladle and sprinkle a little <ingredient>Nutmeg</ingredient> over each glassful.</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">EGG SOUR</purpose>
+
+<list><item>Into small <implement>Bar glass</implement> drop:</item>
+<item>3 lumps <ingredient>Ice.</ingredient></item>
+<item>1 tablespoonful <ingredient>Bar Sugar.</ingredient></item>
+<item>1 <ingredient>Egg.</ingredient></item>
+<item><ingredient>Juice of 1 Lemon.</ingredient></item>
+<item>Shake well; grate <ingredient>Nutmeg</ingredient> on top and serve with Straw.</item>
+</list>
+</p></recipe>
+
+<pb n="37" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=43"/>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">EL DORADO PUNCH</purpose>
+
+<list><item>Fill large <implement>Bar glass</implement> nearly full <ingredient>Shaved Ice.</ingredient></item>
+<item>1 tablespoonful <ingredient>Bar Sugar.</ingredient></item>
+<item>1/4 jigger <ingredient>Whiskey.</ingredient></item>
+<item>1/4 jigger <ingredient>Jamaica Rum.</ingredient></item>
+<item>1/2 jigger <ingredient>Brandy.</ingredient></item>
+<item>1 slice <ingredient>Lemon.</ingredient></item>
+<item>Shake; dress with <ingredient>Fruit</ingredient> and serve with Straws.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">ENGLISH BISHOP PUNCH</purpose>
+
+Roast an <ingredient>Orange</ingredient> before a fire or in a hot oven. When brown cut it in quarters and drop the pieces, with a few <ingredient>Cloves,</ingredient> into a small <implement>porcelain-lined or agate vessel,</implement> and pour in 1 quart of hot <ingredient>Port Wine.</ingredient> Add 6 lumps <ingredient>Cut Loaf Sugar</ingredient> and let the mixture simmer over the fire for 30 minutes. Serve in Stem glasses with <ingredient>Nutmeg</ingredient> grated on top.</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">FANCY WHISKEY SMASH</purpose>
+
+<list><item>Fill large <implement>Bar glass</implement> 1/2 full <ingredient>Shaved Ice.</ingredient></item>
+<item>2 teaspoonfuls <ingredient>Bar Sugar.</ingredient></item>
+<item>3 sprigs <ingredient>Mint</ingredient> pressed with <implement>muddler</implement> in 1 jigger <ingredient>aerated Water.</ingredient></item>
+<item>1 jigger <ingredient>Whiskey.</ingredient></item>
+<item>Stir well; strain into Sour glass; dress with <ingredient>Fruit</ingredient> and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">FANNIE WARD</purpose>
+
+<list><item>Use a large <implement>Mixing glass</implement> with <ingredient>Lump Ice.</ingredient></item>
+<item><ingredient>White of an Egg.</ingredient></item>
+<item><ingredient>Juice 1/2 Lime.</ingredient></item>
+<item>2 dashes <ingredient>imported Grenadine.</ingredient></item>
+<item>1 jigger <ingredient>Bacardi Rum.</ingredient></item>
+<item>Shake and strain into <implement>Cocktail glass.</implement></item>
+</list>
+</p></recipe>
+
+<pb n="38" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=44"/>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">FEDORA</purpose>
+
+<list><item>Fill large <implement>Bar glass</implement> 3/4 full <ingredient>Shaved Ice.</ingredient></item>
+<item>2 teaspoonfuls <ingredient>Bar Sugar</ingredient> dissolved in little <ingredient>Water.</ingredient></item>
+<item>1 pony <ingredient>Curacoa.</ingredient></item>
+<item>1 pony <ingredient>Brandy.</ingredient></item>
+<item>1/2 pony <ingredient>Jamaica Rum.</ingredient></item>
+<item>1/2 pony <ingredient>Whiskey.</ingredient></item>
+<item>Shake well; dress with <ingredient>Fruit</ingredient> and serve with Straws.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">FISH CLUB PUNCH (for a party of 8)</purpose>
+
+<list><item>Into a Punch bowl pour:</item>
+<item>2 1/2 jiggers <ingredient>Lemon Juice.</ingredient></item>
+<item>4 jiggers <ingredient>Peach Brandy.</ingredient></item>
+<item>2 jiggers <ingredient>Cognac Brandy.</ingredient></item>
+<item>2 jiggers <ingredient>Jamaica Rum.</ingredient></item>
+<item>3 pints <ingredient>Ice Water.</ingredient></item>
+<item>Stir well; ladle into <implement>Punch glass</implement> and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">FOG HORN--Country Club Style</purpose>
+
+<list><item>Use a large <implement>Mixing glass;</implement> fill with <ingredient>Lump Ice.</ingredient></item>
+<item>1/2 <ingredient>Lime Juice.</ingredient></item>
+<item>1/2 <ingredient>Lemon Juice.</ingredient></item>
+<item>1 teaspoonful <ingredient>Bar Sugar.</ingredient></item>
+<item>1 jigger <ingredient>Burnette's Old Tom Gin.</ingredient></item>
+<item>Stir well; strain into tall, thin glass and fill with imported <ingredient>Ginger Ale.</ingredient></item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">FREE LOVE COCKTAIL--Club Style</purpose>
+
+<list><item><ingredient>Lump Ice.</ingredient></item>
+<item>Use <implement>Shaker.</implement></item>
+<item>1/2 of the <ingredient>white of 1 Egg.</ingredient></item>
+<item>3 dashes <ingredient>Anisette.</ingredient></item>
+<item>1 jigger <ingredient>Old Tom Gin.</ingredient></item>
+<item>1 pony fresh <ingredient>Cream.</ingredient></item>
+<item>Shake well, serve in <implement>Cocktail glass.</implement></item>
+</list>
+</p></recipe>
+
+<pb n="39" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=45"/>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">FRENCH POUSSE CAFE</purpose>
+
+Fill a <implement>Pousse Cafe glass</implement> 1/2 full of <ingredient>Maraschino</ingredient> and add: <ingredient>Raspberry Syrup,</ingredient> <ingredient>Vanilla,</ingredient> <ingredient>Curacoa,</ingredient> <ingredient>Chartreuse</ingredient> and <ingredient>Brandy</ingredient> in equal proportions until the glass is filled. Then proceed as for Abricontine Pousse Cafe.</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">GARDEN PUNCH (2 1/2-gallon mixture for a party of 50)</purpose>
+
+<list><item>Place a good size block of <ingredient>Ice</ingredient> in a large Punch bowl.</item>
+<item>4 jiggers <ingredient>Lemon Juice.</ingredient></item>
+<item>1 1/2 lbs. <ingredient>Bar Sugar.</ingredient></item>
+<item>2 jiggers <ingredient>Orange Juice.</ingredient></item>
+<item>1 1/2 jiggers <ingredient>green Chartreuse.</ingredient></item>
+<item>1 quart <ingredient>Brandy.</ingredient></item>
+<item>6 quarts <ingredient>Tokay</ingredient> or <ingredient>Sweet Catawba Wine.</ingredient></item>
+<item>2 quarts <ingredient>Claret Wine.</ingredient></item>
+<item>Stir well; ladle into Stem glasses, and decorate each glass with <ingredient>Fruit</ingredient> before serving.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">G. O. P.</purpose>
+
+<list><item>Use a large <implement>Mixing glass</implement> with Lump of <ingredient>Ice.</ingredient></item>
+<item>2 jiggers of <ingredient>Orange Juice.</ingredient></item>
+<item>2 jiggers of <ingredient>Grape Fruit Juice.</ingredient></item>
+<item>Fill with <ingredient>Seltzer Water.</ingredient></item>
+<item>Stir; ornament with <ingredient>Fruit</ingredient> and serve with Straws.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">GIBSON COCKTAIL</purpose>
+
+<list><item>Use a large <implement>Mixing glass</implement> with <ingredient>Lump Ice.</ingredient></item>
+<item>1 jigger <ingredient>Gordon Gin.</ingredient></item>
+<item>1 pony <ingredient>French Vermouth.</ingredient></item>
+<item>Stir; strain and serve in <implement>Cocktail glass.</implement></item>
+</list>
+</p></recipe>
+
+<pb n="40" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=46"/>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">GILLETTE COCKTAIL--Chicago Style</purpose>
+
+<list><item>Use a large <implement>Mixing glass;</implement> fill with <ingredient>Lump Ice.</ingredient></item>
+<item><ingredient>Juice 1/2 Lime.</ingredient></item>
+<item>1 1/2 jiggers <ingredient>Burnette's Old Tom Gin.</ingredient></item>
+<item>1/2 teaspoonful <ingredient>Bar Sugar.</ingredient></item>
+<item>Stir well and strain into <implement>Cocktail glass.</implement></item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">GIN AND CALAMUS</purpose>
+
+<list><item>Put 1/2 oz. of <ingredient>Calamus Root,</ingredient> which has been steeped, into a quart bottle of <ingredient>Gin.</ingredient></item>
+<item>Serve as you would a Straight Drink.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">GIN DAISY</purpose>
+
+<list><item><ingredient>Juice of 1/2 of a Lime.</ingredient></item>
+<item>1 pony <ingredient>Cusenier Grenadine.</ingredient></item>
+<item>1 jigger <ingredient>Sir Robert Burnette's Old Tom Gin.</ingredient></item>
+<item>Serve in a Mug with <ingredient>Lump Ice;</ingredient> fill with <ingredient>Seltzer.</ingredient></item>
+<item>Stir well and decorate with the skin of the <ingredient>Lime</ingredient> and fresh <ingredient>Mint</ingredient> and serve with Straws.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">GIN SOUR--Country Club Style</purpose>
+
+<list><item>Use a large <implement>Mixing glass.</implement></item>
+<item>Fill with <ingredient>Lump Ice.</ingredient></item>
+<item>1/2 <ingredient>Lime Juice.</ingredient></item>
+<item>1/2 <ingredient>Orange Juice.</ingredient></item>
+<item>2 dashes <ingredient>Pineapple Juice.</ingredient></item>
+<item>1/2 pony <ingredient>Rock Candy Syrup.</ingredient></item>
+<item>1 jigger <ingredient>Burnette's Old Tom Gin.</ingredient></item>
+<item>Shake well; strain into <implement>Cocktail glass</implement> and serve.</item>
+</list>
+</p></recipe>
+
+<pb n="41" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=47"/>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">GIN SQUASH--Country Club Style</purpose>
+
+<list><item>Use a large <implement>glass Stein;</implement> fill with <ingredient>Lump Ice.</ingredient></item>
+<item>1 pony <ingredient>Lemon Juice.</ingredient></item>
+<item>1 jigger <ingredient>Orange Juice.</ingredient></item>
+<item>1 pony <ingredient>Pineapple Juice.</ingredient></item>
+<item>1 pony <ingredient>Rock Candy Syrup.</ingredient></item>
+<item>1 jigger <ingredient>Burnette's Old Tom Gin.</ingredient></item>
+<item>Fill with <ingredient>Seltzer:</ingredient> stir well and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">GOLFER'S DELIGHT--Home of Bevo--18th Hole.</purpose>
+
+<list><item>Use a large glass Pitcher; fill with <ingredient>Lump Ice.</ingredient></item>
+<item>2 bottles <ingredient>Bevo.</ingredient></item>
+<item>2 bottles <ingredient>Sweet Soda.</ingredient></item>
+<item>Stir well and serve in a Beer glass.</item>
+<item>Fifty-fifty.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">HORSE THIEF COCKTAIL</purpose>
+
+<list><item>Fill a large <implement>Mixing glass</implement> with <ingredient>Lump Ice.</ingredient></item>
+<item>2 dashes <ingredient>green Absinthe.</ingredient></item>
+<item>1/2 pony <ingredient>Italian Vermouth.</ingredient></item>
+<item>1 jigger <ingredient>Sir Robert Burnette's Old Tom Gin.</ingredient></item>
+<item>Stir well and serve in a <implement>Cocktail glass.</implement></item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">IRISH ROSE--Country Club Style</purpose>
+
+<list><item>Use a tall, thin glass; fill with <ingredient>Cracked Ice.</ingredient></item>
+<item>1 pony <ingredient>imported Grenadine.</ingredient></item>
+<item>1 jigger <ingredient>Old Bushmill Whiskey.</ingredient></item>
+<item>Fill with <ingredient>Seltzer.</ingredient></item>
+<item>Stir well and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">JERSEY LIGHTNING COCKTAIL</purpose>
+
+<list><item>Use large <implement>Mixing glass;</implement> fill with <ingredient>Lump Ice.</ingredient></item>
+<item>1 jigger <ingredient>Apple Jack Brandy.</ingredient></item>
+<item>1 pony <ingredient>Italian Vermouth.</ingredient></item>
+<item>Stir well; strain and serve in <implement>Cocktail glass.</implement></item>
+</list>
+</p></recipe>
+
+<pb n="42" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=48"/>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">KNABENSCHUE--Country Club Style</purpose>
+
+<list><item>Use a small stone Mug; <ingredient>Lump Ice.</ingredient></item>
+<item>1 lump <ingredient>Sugar.</ingredient></item>
+<item>2 dashes <ingredient>Angostura Bitters.</ingredient></item>
+<item>Fill with <ingredient>Champagne.</ingredient></item>
+<item>Stir well; dress with fresh <ingredient>Mint</ingredient> and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">L. P. W.</purpose>
+
+<list><item>Use a large <implement>Mixing glass.</implement></item>
+<item>Fill with <ingredient>Lump Ice.</ingredient></item>
+<item>1 jigger of <ingredient>Sir Robert Burnette's Old Tom Gin.</ingredient></item>
+<item>1/2 pony of <ingredient>Italian Vermouth.</ingredient></item>
+<item>1/2 pony of <ingredient>French Vermouth.</ingredient></item>
+<item>Stir well and strain into a <implement>Cocktail glass.</implement></item>
+<item>Add a <ingredient>Pickeled Onion</ingredient> and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">LADIES' DELIGHT--Thursday Luncheon Punch</purpose>
+
+<list><item>1 quart of <ingredient>Orange Pekoe Tea</ingredient> (cold).</item>
+<item>1 quart of <ingredient>Old Country Club Brandy.</ingredient></item>
+<item>1 pint of <ingredient>Lemon Juice.</ingredient></item>
+<item>1 pint of <ingredient>Orange Juice.</ingredient></item>
+<item>1/2 pint of <ingredient>Pineapple Juice.</ingredient></item>
+<item>2 quarts <ingredient>Berncastler Berg.</ingredient></item>
+<item>1 pint of <ingredient>Bar Sugar.</ingredient></item>
+<item>Use a large Punch bowl with one Lump of <ingredient>Ice.</ingredient></item>
+<item>Pour in mixture; add one quart of <ingredient>Cook's Imperial Champagne.</ingredient></item>
+<item>Stir well; decorate with fresh <ingredient>Mint,</ingredient> <ingredient>Fruit</ingredient> in season, and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">LEAPING FROG</purpose>
+
+<list><item>1 jigger <ingredient>Hungarian Apricot Brandy.</ingredient></item>
+<item><ingredient>Juice of 1/2 Lime.</ingredient></item>
+<item>Fill glass with <ingredient>Lump Ice.</ingredient></item>
+<item>Shake well and strain into Stem glass.</item>
+</list>
+</p></recipe>
+
+<pb n="43" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=49"/>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">LEMONADE APOLLINARIS (or Carbonated Water)</purpose>
+
+<list><item>Fill large <implement>Mixing glass</implement> 2/3 full <ingredient>fine Ice.</ingredient></item>
+<item>1 tablespoonful <ingredient>Bar Sugar.</ingredient></item>
+<item><ingredient>Juice of 1 Lemon.</ingredient></item>
+<item>Fill up with <ingredient>Apollinaris</ingredient> or suitable <ingredient>Carbonated Water.</ingredient></item>
+<item>Stir; strain into Lemonade glass; dress with <ingredient>Fruit</ingredient> and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">LONE TREE COCKTAIL</purpose>
+
+<list><item>Use a large <implement>Mixing glass;</implement> fill with <ingredient>Lump Ice.</ingredient></item>
+<item>1 jigger <ingredient>Burnette's Old Tom Gin.</ingredient></item>
+<item>1/3 <ingredient>Italian Vermouth.</ingredient></item>
+<item>1/3 <ingredient>French Vermouth.</ingredient></item>
+<item>Shake well; serve in <implement>Cocktail glass.</implement></item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">MINT JULEP--Kentucky Style</purpose>
+
+<list><item>Use a large Silver Mug.</item>
+<item>Dissolve one lump of <ingredient>Sugar</ingredient> in one-half pony of <ingredient>Water.</ingredient></item>
+<item>Fill mug with <ingredient>Fine Ice.</ingredient></item>
+<item>Two jiggers of <ingredient>Old Bourbon Whiskey.</ingredient></item>
+<item>Stir well; add one boquet of <ingredient>Mint</ingredient> and serve.</item>
+<item>Be careful and not bruise the Mint.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">OVERALL JULEP--St. Louis Style</purpose>
+
+<list><item>Use a large <implement>Mixing glass;</implement> fill with <ingredient>Lump Ice.</ingredient></item>
+<item>2/3 Wineglass <ingredient>Rye Whiskey.</ingredient></item>
+<item>2/3 Wineglass <ingredient>Gordon Gin.</ingredient></item>
+<item>1/2 Wineglass <ingredient>Imported Grenadine.</ingredient></item>
+<item><ingredient>Juice 1/2 Lemon.</ingredient></item>
+<item><ingredient>Juice 1/2 Lime.</ingredient></item>
+<item>Shake well; pour into tall, thin glass; add one bottle <ingredient>Imported Club Soda</ingredient> and serve.</item>
+</list>
+</p></recipe>
+
+<pb n="44" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=50"/>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">ONION COCKTAIL</purpose>
+
+<list><item>1 jigger of <ingredient>Burnette's Tom Gin.</ingredient></item>
+<item>1/2 of <ingredient>Italian Vermouth</ingredient> and no Bitters used.</item>
+<item>Large <implement>Bar glass</implement> with <ingredient>Cracked Ice</ingredient> and stir well.</item>
+<item>Strain and serve with an <ingredient>Onion.</ingredient></item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">OLD FASHION COCKTAIL</purpose>
+
+<list><item>Use a <implement>Toddy glass.</implement></item>
+<item>1 lump of <ingredient>Ice.</ingredient></item>
+<item>2 dashes of <ingredient>Angostura Bitters.</ingredient></item>
+<item>1 lump of <ingredient>Sugar</ingredient> and dissolve in <ingredient>Water.</ingredient></item>
+<item>1 1/2 jiggers of <ingredient>Bourbon Whiskey.</ingredient></item>
+<item>Twist piece of <ingredient>Lemon Skin</ingredient> over the drink and drop it in.</item>
+<item>Stir well and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">OJEN COCKTAIL</purpose>
+
+<list><item>Use an old-fashion <implement>Toddy glass.</implement></item>
+<item>1 lump<ingredient> Ice.</ingredient></item>
+<item><ingredient>Juice of 1/2 of a Lime.</ingredient></item>
+<item>1 dash <ingredient>Angostura Bitters.</ingredient></item>
+<item>2 dashes of <ingredient>Seltzer Water.</ingredient></item>
+<item>Stir well and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">PEQUOT SEMER</purpose>
+
+<list><item>Use a tall, thin <implement>Bar glass.</implement></item>
+<item><ingredient>Juice of a Lime.</ingredient></item>
+<item>Three sprigs of fresh <ingredient>Mint.</ingredient></item>
+<item>1 dash <ingredient>Cusinier Grenadine.</ingredient></item>
+<item>1/2 pony <ingredient>Pineapple Juice.</ingredient></item>
+<item>1/2 pony <ingredient>Orange Juice.</ingredient></item>
+<item>1 jigger of <ingredient>Sir Robert Burnette's Old Tom Gin.</ingredient></item>
+<item>Crush ingredients together; fill with <ingredient>Lump Ice;</ingredient> add <ingredient>Seltzer.</ingredient> Stir well and serve.</item>
+</list>
+</p></recipe>
+
+<pb n="45" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=51"/>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">PINEAPPLE JULEP (for a party of 6--Use a small punch bowl)</purpose>
+
+<list><item>1 quart of <ingredient>Sparkling Moselle.</ingredient></item>
+<item>1 jigger <ingredient>Cusenier Grenadine.</ingredient></item>
+<item>1 jigger <ingredient>Maraschino.</ingredient></item>
+<item>1 jigger <ingredient>Sir Robert Burnette's Old Tom Gin.</ingredient></item>
+<item>1 jigger <ingredient>Lemon Juice.</ingredient></item>
+<item>1 jigger <ingredient>Orange Bitters.</ingredient></item>
+<item>1 jigger <ingredient>Angostura Bitters.</ingredient></item>
+<item>4 <ingredient>Oranges,</ingredient> sliced.</item>
+<item>2 <ingredient>Lemons,</ingredient> sliced.</item>
+<item>1 ripe <ingredient>Pineapple,</ingredient> sliced and quartered.</item>
+<item>4 tablespoonfuls <ingredient>Sugar.</ingredient></item>
+<item>1 bottle <ingredient>Apollinaris Water.</ingredient></item>
+<item>Place large square of <ingredient>Ice</ingredient> in bowl; dress with the <ingredient>Fruits</ingredient> and serve Julep in fancy Stem glass.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">POLO PLAYERS' DELIGHT--Horse's Neck</purpose>
+
+<list><item>Use a tall, thin glass.</item>
+<item>1 lump <ingredient>Ice.</ingredient></item>
+<item>1 jigger <ingredient>Sir Robert Burnette's Old Tom Gin.</ingredient></item>
+<item>1 <ingredient>Cantrell &amp; Cochran's Ginger Ale.</ingredient></item>
+<item>Stir well and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages"><p><purpose size="larger" placement="heading">POUSSE CAFE--St. Louis</purpose>
+
+<list><item>Pour in <implement>Pousse Cafe glass</implement> as follows:</item>
+<item>1/6 glass <ingredient>Raspberry Syrup.</ingredient></item>
+<item>1/6 glass <ingredient>Maraschino.</ingredient></item>
+<item>1/6 glass <ingredient>Green Vanilla.</ingredient></item>
+<item>1/6 glass <ingredient>Curacao.</ingredient></item>
+<item>1/6 glass <ingredient>Yellow Chartreuse.</ingredient></item>
+<item>1/6 glass <ingredient>Brandy.</ingredient></item>
+<item>In preparing the above use a small Wineglass with spoon for pouring in each Cordial separately.</item>
+<item>Be careful they do not mix together.</item>
+</list>
+</p></recipe>
+
+<pb n="46" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=52"/>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">PUNCH A LA ROMAINE (for a party of 16)</purpose>
+
+<list><item>1 bottle <ingredient>Champagne.</ingredient></item>
+<item>1 bottle <ingredient>Rum.</ingredient></item>
+<item>2 tablespoons <ingredient>Dr. Siegert's genuine Angostura Bitters.</ingredient></item>
+<item>10 <ingredient>Lemons.</ingredient></item>
+<item>3 sweet <ingredient>Oranges.</ingredient></item>
+<item>2 pounds <ingredient>Powdered Sugar.</ingredient></item>
+<item>10 fresh <ingredient>Eggs.</ingredient></item>
+<item>Dissolve the Sugar in the <ingredient>Juice of the Lemons and Oranges</ingredient> adding the <ingredient>Rind of 1 Orange.</ingredient></item>
+<item>Strain through a Sieve into a bowl and add by degrees the <ingredient>whites of the Eggs</ingredient> beaten to a froth.</item>
+<item>Place the bowl on <ingredient>Ice</ingredient> till cold, then stir in the Rum and <ingredient>Wine</ingredient> until thoroughly mixed. Serve in fancy Stem glasses.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">RAMOS GIN FIZZ--Country Club Style</purpose>
+
+<list><item>1 lump <ingredient>Ice.</ingredient></item>
+<item>1 dash <ingredient>Lemon Juice.</ingredient></item>
+<item>1 dash <ingredient>Orange Water.</ingredient></item>
+<item><ingredient>White of Egg.</ingredient></item>
+<item>1 jigger <ingredient>Burnette's Old Tom Gin.</ingredient></item>
+<item>1 teaspoonful <ingredient>Powdered Sugar.</ingredient></item>
+<item>1 pony <ingredient>Milk.</ingredient></item>
+<item>1 dash <ingredient>Seltzer Water.</ingredient></item>
+<item>Shake well; strain into Highball glass and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">REMSEN COOLER</purpose>
+
+<list><item>Use a medium size <implement>Fizz glass.</implement></item>
+<item>Peel a <ingredient>Lemon</ingredient> as you would an Apple.</item>
+<item>Place the Rind or Peeling into the <implement>Fizz glass.</implement></item>
+<item>2 or 3 lumps of <ingredient>Crystal Ice.</ingredient></item>
+<item>1 Wineglass of <ingredient>Remsen Scotch Whiskey.</ingredient></item>
+<item>Fill up the balance with <ingredient>Club Soda;</ingredient> stir up slowly with a spoon and serve.</item>
+</list>
+</p>
+ 
+<pb n="47" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=53"/>
+
+<p>In this country it is often the case that people call a Remsen Cooler where they want Old Tom <ingredient>Gin</ingredient> or Sloe <ingredient>Gin</ingredient> instead of <ingredient>Scotch Whiskey.</ingredient> It is therefore the bartender's duty to mix as desired.</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">SEPTEMBER MORN COCKTAIL--Country Club Style</purpose>
+
+<list><item>Use a large <implement>Mixing glass;</implement> fill with <ingredient>Lump Ice.</ingredient></item>
+<item>1/2 <ingredient>Lime Juice.</ingredient></item>
+<item>1 jigger <ingredient>Burnette's Old Tom Gin.</ingredient></item>
+<item>2 dashes <ingredient>Imported Grenadine.</ingredient></item>
+<item>Shake well; strain into <implement>Cocktail glass</implement> and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">SHANDY GAFF</purpose>
+
+<list><item>Use a large <implement>Bar glass.</implement></item>
+<item>Fill half the glass with <ingredient>Porter</ingredient> and half with <ingredient>Ginger Ale.</ingredient></item>
+<item><variation>It is also made with half <ingredient>Ale</ingredient> and half Ginger Ale.</variation></item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">SHERRY AND BITTERS</purpose>
+
+Put 2 dashes <ingredient>Dr. Siegert's genuine Angostura Bitters</ingredient> in a Sherry glass and roll the glass 'till the Bitters entirely cover the inside surface.</p><p>Fill the glass with <ingredient>Sherry</ingredient> and serve.</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">STINGER--Country Club Style</purpose>
+
+<list><item>Use a large <implement>Mixing glass;</implement> fill with <ingredient>Lump Ice.</ingredient></item>
+<item>1 jigger <ingredient>Old Brandy.</ingredient></item>
+<item>1 pony <ingredient>white Creme de Menthe.</ingredient></item>
+<item>Shake well; strain into <implement>Cocktail glass</implement> and serve.</item>
+</list>
+</p></recipe>
+
+<pb n="48" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=54"/>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="smaller" placement="heading">STONE SOUR</purpose>
+
+<list><item>Use a tall, thin glass; fill with <ingredient>fine Ice.</ingredient></item>
+<item>1/2 pony <ingredient>Lemon Juice.</ingredient></item>
+<item>1/2 pony <ingredient>Orange Juice.</ingredient></item>
+<item>2 dashes <ingredient>Rock Candy Syrup.</ingredient></item>
+<item>1 jigger <ingredient>Old Tom Gin.</ingredient></item>
+<item>Leave in Ice; stir well and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">SAMTON COCKTAIL</purpose>
+
+<list><item>Use a large <implement>Mixing glass</implement> with <ingredient>Cracked Ice.</ingredient></item>
+<item>1 jigger <ingredient>Orange Juice.</ingredient></item>
+<item>1 jigger <ingredient>imported Ginger Ale.</ingredient></item>
+<item>Fifty-fifty.</item>
+<item>Shake well; strain into <implement>Cocktail glass</implement> and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">TOM TOM</purpose>
+
+<list><item>Use a large <implement>Brandy Roller glass.</implement></item>
+<item>Fill Roller half full of <ingredient>Fine Ice.</ingredient></item>
+<item>Add 1 pony of <ingredient>Old Brandy.</ingredient></item>
+<item>1 jigger of <ingredient>green Creme de Menthe</ingredient> and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">TOM AND JERRY</purpose>
+
+Make a batter by separating the <ingredient>yolks</ingredient> from <ingredient>whites</ingredient> of a given number of <ingredient>Eggs;</ingredient> beating the whites to a stiff froth and stirring the yolks until very thin. Then mix together in a <implement>Tom and Jerry bowl,</implement> stirring in <ingredient>Bar Sugar</ingredient> slowly until the batter is stiff and serve as follows:</p><p>
+<list><item>Fill <implement>Tom and Jerry Mug</implement> 1/4 full of Batter.</item>
+<item>1/2 jigger <ingredient>Rum.</ingredient></item>
+<item>1/2 jigger <ingredient>Brandy.</ingredient></item>
+<item>Stir well with <implement>Bar spoon;</implement> fill up with <ingredient>Hot Water;</ingredient> stir more; grate <ingredient>Nutmeg</ingredient> on top and serve.</item>
+</list>
+</p></recipe>
+
+<pb n="49" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=55"/>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">TOKAY PUNCH</purpose>
+
+Out of 6 pounds of <ingredient>Tokay Grapes,</ingredient> select one pound to be put into the Punch last. Now make a boiling Syrup of three pounds of <ingredient>Sugar</ingredient> and one quart of <ingredient>boiling Water</ingredient> and pour this over the remaining five pounds of <ingredient>Grapes.</ingredient> When partly cold rub it through a sieve, leaving skins and seeds behind. Then add the <ingredient>Juice of two Oranges and two Lemons</ingredient> and one quart of <ingredient>St. Julien Claret,</ingredient> 1 jigger of <ingredient>Angostura Bitters.</ingredient></p><p>Then strain and freeze.</p><p>Before serving add 1 pint of good <ingredient>Brandy</ingredient> and an <ingredient>Italian Meringue</ingredient> Paste of six <ingredient>Egg whites,</ingredient> colored a nice red and drop in the remaining Grapes.</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">TWILIGHT COCKTAIL</purpose>
+
+<list><item>Use a large <implement>Mixing glass</implement> with Lump Ice.</item>
+<item>1 jigger <ingredient>Bourbon.</ingredient></item>
+<item>1/2 pony <ingredient>Italian Vermouth.</ingredient></item>
+<item><ingredient>Juice of whole Lime.</ingredient></item>
+<item>Shake well; strain into a <implement>Champagne glass;</implement> fill with <ingredient>Seltzer</ingredient> and serve.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">WHISKEY PUNCH--St. Louis Style</purpose>
+
+<list><item>Use a large <implement>Mixing glass;</implement> fill with <ingredient>Lump Ice.</ingredient></item>
+<item>One jigger <ingredient>Bourbon Whiskey.</ingredient></item>
+<item>1/2 pony <ingredient>Italian Vermouth.</ingredient></item>
+<item>1/2 pony <ingredient>Pineapple Syrup.</ingredient></item>
+<item>1/2 pony <ingredient>Lemon Juice.</ingredient></item>
+<item>Shake well; strain into Stem glass and serve.</item>
+</list>
+</p></recipe>
+
+<pb n="50" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=56"/>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">WHISKEY SCOTCH HOT</purpose>
+
+<list><item>1 lump <ingredient>Sugar</ingredient> dissolved in <implement>Hot Whiskey glass.</implement></item>
+<item>1 jigger <ingredient>Scotch Whiskey.</ingredient></item>
+<item>Fill up with <ingredient>Hot Water.</ingredient></item>
+<item>1 slice <ingredient>Lemon Peel.</ingredient></item>
+<item>Stir and serve with <ingredient>Nutmeg</ingredient> sprinkled on top.</item>
+</list>
+</p></recipe>
+
+<recipe class1="beverages" alcoholic="yes"><p><purpose size="larger" placement="heading">WHISKEY IRISH HOT</purpose>
+
+Substitute <ingredient>Irish for Scotch Whiskey</ingredient> and proceed as for Hot Scotch Whiskey.</p></recipe>
+
+</body>
+<back>
+<div type="index">
+ 
+<pb n="51" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=57"/>
+
+<hd size="larger" align="center">INDEX</hd>
+
+<list><item align="right">Page</item>
+<item>Abricontine Pousse Cafe..........................................................<ref target="bart013.gif">7</ref></item>
+<item>Absinthe.........................................................................<ref target="bart013.gif">7</ref></item>
+<item>Absinthe, American Service.......................................................<ref target="bart013.gif">7</ref></item>
+<item>Absinthe Cocktail................................................................<ref target="bart013.gif">7</ref></item>
+<item>Absinthe Frappe..................................................................<ref target="bart014.gif">8</ref></item>
+<item>Absinthe, French Service.........................................................<ref target="bart014.gif">8</ref></item>
+<item>Absinthe, Italian Service........................................................<ref target="bart014.gif">8</ref></item>
+<item>Admiral Schley High Ball.........................................................<ref target="bart014.gif">8</ref></item>
+<item>Ale Flip.........................................................................<ref target="bart014.gif">8</ref></item>
+<item>Ale Sangaree.....................................................................<ref target="bart015.gif">9</ref></item>
+<item>American Pousse Cafe.............................................................<ref target="bart015.gif">9</ref></item>
+<item>Apollinaris Lemonade.............................................................<ref target="bart015.gif">9</ref></item>
+<item>Apple Jack Cocktail..............................................................<ref target="bart015.gif">9</ref></item>
+<item>Apple Jack Fix...................................................................<ref target="bart015.gif">9</ref></item>
+<item>Applejack Sour..................................................................<ref target="bart016.gif">10</ref></item>
+<item>"Arf-And-Arf"...................................................................<ref target="bart016.gif">10</ref></item>
+<item>Arrack Punch....................................................................<ref target="bart016.gif">10</ref></item>
+<item>Astringent......................................................................<ref target="bart016.gif">10</ref></item>
+<item>Auditorium Cooler...............................................................<ref target="bart016.gif">10</ref></item>
+<item>All Right Cocktail..............................................................<ref target="bart017.gif">11</ref></item>
+<item>Bacardi Cocktail................................................................<ref target="bart017.gif">11</ref></item>
+<item>Bacardi Cocktail--Country Club Style............................................<ref target="bart017.gif">11</ref></item>
+<item>Baldy Cocktail..................................................................<ref target="bart017.gif">11</ref></item>
+<item>Bamboo Cocktail.................................................................<ref target="bart017.gif">11</ref></item>
+<item>Black Cow.......................................................................<ref target="bart018.gif">12</ref></item>
+<item>Blood Hound Cocktail............................................................<ref target="bart018.gif">12</ref></item>
+<item>Bombay Cocktail.................................................................<ref target="bart018.gif">12</ref></item>
+<item>Benedictine.....................................................................<ref target="bart018.gif">12</ref></item>
+<item>Beef Tea........................................................................<ref target="bart018.gif">12</ref></item>
+<item>Bishop..........................................................................<ref target="bart019.gif">13</ref></item>
+<item>Bishop A La Prusse..............................................................<ref target="bart019.gif">13</ref></item>
+<item>Bismarck........................................................................<ref target="bart019.gif">13</ref></item>
+<item align="right">Page</item>
+<item>Bizzy Izzy High Ball............................................................<ref target="bart020.gif">14</ref></item>
+<item>Black Stripe....................................................................<ref target="bart020.gif">14</ref></item>
+<item>Black and Tan Punch.............................................................<ref target="bart020.gif">14</ref></item>
+<item>Blackthorne Cocktail............................................................<ref target="bart020.gif">14</ref></item>
+<item>Blackthorne Sour................................................................<ref target="bart021.gif">15</ref></item>
+<item>Bliz's Royal Rickey.............................................................<ref target="bart021.gif">15</ref></item>
+<item>Blue Blazer.....................................................................<ref target="bart021.gif">15</ref></item>
+<item>Boating Punch...................................................................<ref target="bart021.gif">15</ref></item>
+<item>Boating Punch...................................................................<ref target="bart021.gif">15</ref></item>
+<item>Bombay Punch....................................................................<ref target="bart022.gif">16</ref></item>
+<item>Bon Soir ("Good Night").........................................................<ref target="bart022.gif">16</ref></item>
+<item>Boston Cooler...................................................................<ref target="bart022.gif">16</ref></item>
+<item>Bottle of Cocktail..............................................................<ref target="bart023.gif">17</ref></item>
+<item>Brace Up........................................................................<ref target="bart023.gif">17</ref></item>
+<item>Brandy and Ginger Ale...........................................................<ref target="bart023.gif">17</ref></item>
+<item>Brandy and Soda.................................................................<ref target="bart023.gif">17</ref></item>
+<item>Brandy Flip.....................................................................<ref target="bart024.gif">18</ref></item>
+<item>Brandy Float....................................................................<ref target="bart024.gif">18</ref></item>
+<item>Brandy Julep....................................................................<ref target="bart024.gif">18</ref></item>
+<item>Brandy Punch....................................................................<ref target="bart024.gif">18</ref></item>
+<item>Brandy Scaffa...................................................................<ref target="bart025.gif">19</ref></item>
+<item>Brandy Shake....................................................................<ref target="bart025.gif">19</ref></item>
+<item>Brandy Shrub....................................................................<ref target="bart025.gif">19</ref></item>
+<item>Brandy Skin.....................................................................<ref target="bart025.gif">19</ref></item>
+<item>Brandy Sling....................................................................<ref target="bart025.gif">19</ref></item>
+<item>Brandy Smash....................................................................<ref target="bart026.gif">20</ref></item>
+<item>Brandy Sour.....................................................................<ref target="bart026.gif">20</ref></item>
+<item>Brandy Toddy....................................................................<ref target="bart026.gif">20</ref></item>
+<item>Bronx Cocktail..................................................................<ref target="bart026.gif">20</ref></item>
+<item>Burnt Brandy....................................................................<ref target="bart026.gif">20</ref></item>
+<item>Buster Brown Cocktail...........................................................<ref target="bart027.gif">21</ref></item>
+<item>Buttered Rum....................................................................<ref target="bart027.gif">21</ref></item>
+<item>California Sherry Cobbler.......................................................<ref target="bart027.gif">21</ref></item>
+<item>California Wine Cobbler.........................................................<ref target="bart027.gif">21</ref></item>
+ 
+<pb n="52" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=58"/>
+
+<item align="right">Page</item>
+<item>Carleton Rickey--St. Louis Style................................................<ref target="bart027.gif">21</ref></item>
+<item>Catawba Cobbler.................................................................<ref target="bart028.gif">22</ref></item>
+<item>Celery Sour.....................................................................<ref target="bart028.gif">22</ref></item>
+<item>Century Club Punch..............................................................<ref target="bart028.gif">22</ref></item>
+<item>Champagne.......................................................................<ref target="bart028.gif">22</ref></item>
+<item>Champagne Cobbler...............................................................<ref target="bart028.gif">22</ref></item>
+<item>Champagne Cocktail..............................................................<ref target="bart029.gif">23</ref></item>
+<item>Champagne Cup (2-gallon Mixture)................................................<ref target="bart029.gif">23</ref></item>
+<item>Champagne Frappe................................................................<ref target="bart029.gif">23</ref></item>
+<item>Champagne Julep.................................................................<ref target="bart030.gif">24</ref></item>
+<item>Champagne Punch (for party of 6)................................................<ref target="bart030.gif">24</ref></item>
+<item>Champagne Sour..................................................................<ref target="bart030.gif">24</ref></item>
+<item>Champagne Velvet................................................................<ref target="bart030.gif">24</ref></item>
+<item>Chocolate Punch.................................................................<ref target="bart030.gif">24</ref></item>
+<item>Cider Eggnog....................................................................<ref target="bart031.gif">25</ref></item>
+<item>Claret and Ice..................................................................<ref target="bart031.gif">25</ref></item>
+<item>Claret Cobbler..................................................................<ref target="bart031.gif">25</ref></item>
+<item>Claret Cup (2-gallon mixture)...................................................<ref target="bart031.gif">25</ref></item>
+<item>Claret Flip.....................................................................<ref target="bart032.gif">26</ref></item>
+<item>Claret Punch....................................................................<ref target="bart032.gif">26</ref></item>
+<item>Claret Punch (5-gallon mixture for a large reception or party of 100 people)....<ref target="bart032.gif">26</ref></item>
+<item>Clover Club Cocktail............................................................<ref target="bart033.gif">27</ref></item>
+<item>Clover Leaf Cocktail............................................................<ref target="bart033.gif">27</ref></item>
+<item>Club Cocktail...................................................................<ref target="bart033.gif">27</ref></item>
+<item>Club House Claret Punch.........................................................<ref target="bart033.gif">27</ref></item>
+<item>Club House Punch (party of 20)..................................................<ref target="bart034.gif">28</ref></item>
+<item>Coffee Cocktail.................................................................<ref target="bart034.gif">28</ref></item>
+<item>Cohasset Punch..................................................................<ref target="bart034.gif">28</ref></item>
+<item align="right">Page</item>
+<item>Cold Ruby Punch (2 1/2-gallon mixture for 50 )..................................<ref target="bart035.gif">29</ref></item>
+<item>Columbia Skin...................................................................<ref target="bart035.gif">29</ref></item>
+<item>Companion Punch (21/2-gallon mixture for a reception or party of 50 people).....<ref target="bart035.gif">29</ref></item>
+<item>Continental Sour................................................................<ref target="bart035.gif">29</ref></item>
+<item>Cordial Lemonade................................................................<ref target="bart036.gif">30</ref></item>
+<item>Country Cocktail................................................................<ref target="bart036.gif">30</ref></item>
+<item>Couperee........................................................................<ref target="bart036.gif">30</ref></item>
+<item>Creme De Menthe.................................................................<ref target="bart036.gif">30</ref></item>
+<item>Crimean Cup A La Marmora........................................................<ref target="bart036.gif">30</ref></item>
+<item>Country Club Punch..............................................................<ref target="bart037.gif">31</ref></item>
+<item>Cooperstown Cocktail............................................................<ref target="bart037.gif">31</ref></item>
+<item>Curacoa.........................................................................<ref target="bart038.gif">32</ref></item>
+<item>Curacoa Punch...................................................................<ref target="bart038.gif">32</ref></item>
+<item>Currant Shrub...................................................................<ref target="bart038.gif">32</ref></item>
+<item>Deronda Cocktail................................................................<ref target="bart039.gif">33</ref></item>
+<item>Diarrhea Draught................................................................<ref target="bart039.gif">33</ref></item>
+<item>Dixie Cocktail..................................................................<ref target="bart039.gif">33</ref></item>
+<item>Dream...........................................................................<ref target="bart039.gif">33</ref></item>
+<item>Delusion........................................................................<ref target="bart039.gif">33</ref></item>
+<item>Doray Punch.....................................................................<ref target="bart040.gif">34</ref></item>
+<item>Doray Sour......................................................................<ref target="bart040.gif">34</ref></item>
+<item>Duplex Cocktail.................................................................<ref target="bart040.gif">34</ref></item>
+<item>Durkee Cocktail.................................................................<ref target="bart041.gif">35</ref></item>
+<item>Eagle Punch.....................................................................<ref target="bart041.gif">35</ref></item>
+<item>East India Cocktail.............................................................<ref target="bart041.gif">35</ref></item>
+<item>Egg Milk Punch..................................................................<ref target="bart041.gif">35</ref></item>
+<item>Eggnog..........................................................................<ref target="bart042.gif">36</ref></item>
+<item>Eggnog (bowl of 3 gallons)......................................................<ref target="bart042.gif">36</ref></item>
+<item>Egg Sour........................................................................<ref target="bart042.gif">36</ref></item>
+<item>El Dorado Punch.................................................................<ref target="bart043.gif">37</ref></item>
+<item>English Bishop Punch............................................................<ref target="bart043.gif">37</ref></item>
+<item>Fancy Whiskey Smash.............................................................<ref target="bart043.gif">37</ref></item>
+ 
+<pb n="53" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=59"/>
+
+<item align="right">Page</item>
+<item>Fannie Ward.....................................................................<ref target="bart043.gif">37</ref></item>
+<item>Fedora..........................................................................<ref target="bart044.gif">38</ref></item>
+<item>Fish Club Punch.................................................................<ref target="bart044.gif">38</ref></item>
+<item>Fog Horn--Country Club Style....................................................<ref target="bart044.gif">38</ref></item>
+<item>Free Love Cocktail--Club Style..................................................<ref target="bart044.gif">38</ref></item>
+<item>French Pousse Cafe..............................................................<ref target="bart045.gif">39</ref></item>
+<item>Garden Punch....................................................................<ref target="bart045.gif">39</ref></item>
+<item>G. O. P.........................................................................<ref target="bart045.gif">39</ref></item>
+<item>Gibson Cocktail--Chicago Style..................................................<ref target="bart045.gif">39</ref></item>
+<item>Gillette Cocktail-Chicago Style.................................................<ref target="bart046.gif">40</ref></item>
+<item>Gin and Calamus.................................................................<ref target="bart046.gif">40</ref></item>
+<item>Gin Daisy.......................................................................<ref target="bart046.gif">40</ref></item>
+<item>Gin Sour--Country Club Style....................................................<ref target="bart046.gif">40</ref></item>
+<item>Gin Squash--Country Club Style..................................................<ref target="bart047.gif">41</ref></item>
+<item>Golfer's Delight................................................................<ref target="bart047.gif">41</ref></item>
+<item>Horse Thief Cocktail............................................................<ref target="bart047.gif">41</ref></item>
+<item>Irish Rose......................................................................<ref target="bart047.gif">41</ref></item>
+<item>Jersey Lightning Cocktail.......................................................<ref target="bart047.gif">41</ref></item>
+<item>Knabenschue.....................................................................<ref target="bart048.gif">42</ref></item>
+<item>L. P. W.........................................................................<ref target="bart048.gif">42</ref></item>
+<item>Ladies' Delight.................................................................<ref target="bart048.gif">42</ref></item>
+<item>Leaping Frog....................................................................<ref target="bart048.gif">42</ref></item>
+<item>Lemonade Apollinaris............................................................<ref target="bart049.gif">43</ref></item>
+<item>Lone Tree Cocktail..............................................................<ref target="bart049.gif">43</ref></item>
+<item align="right">Page</item>
+<item>Mint Julep--Kentucky Style......................................................<ref target="bart049.gif">43</ref></item>
+<item>Overall Julep--St. Louis Style..................................................<ref target="bart049.gif">43</ref></item>
+<item>Onion Cocktail..................................................................<ref target="bart050.gif">44</ref></item>
+<item>Old Fashion Cocktail............................................................<ref target="bart050.gif">44</ref></item>
+<item>Ojen Cocktail...................................................................<ref target="bart050.gif">44</ref></item>
+<item>Pequot Semer....................................................................<ref target="bart050.gif">44</ref></item>
+<item>Pineapple Julep.................................................................<ref target="bart051.gif">45</ref></item>
+<item>Polo Players' Delight...........................................................<ref target="bart051.gif">45</ref></item>
+<item>Pousse Cafe--St. Louis..........................................................<ref target="bart051.gif">45</ref></item>
+<item>Punch A La Romaine..............................................................<ref target="bart052.gif">46</ref></item>
+<item>Ramos Gin Fizz..................................................................<ref target="bart052.gif">46</ref></item>
+<item>Remsen Cooler...................................................................<ref target="bart052.gif">46</ref></item>
+<item>September Morn Cocktail.........................................................<ref target="bart053.gif">47</ref></item>
+<item>Shandy Gaff.....................................................................<ref target="bart053.gif">47</ref></item>
+<item>Sherry and Bitters..............................................................<ref target="bart053.gif">47</ref></item>
+<item>Stinger.........................................................................<ref target="bart053.gif">47</ref></item>
+<item>Stone Sour......................................................................<ref target="bart054.gif">48</ref></item>
+<item>Samton Cocktail.................................................................<ref target="bart054.gif">48</ref></item>
+<item>Tom Tom.........................................................................<ref target="bart054.gif">48</ref></item>
+<item>Tom and Jerry...................................................................<ref target="bart054.gif">48</ref></item>
+<item>Tokay Punch.....................................................................<ref target="bart055.gif">49</ref></item>
+<item>Twilight Cocktail...............................................................<ref target="bart055.gif">49</ref></item>
+<item>Whiskey Punch--St. Louis Style..................................................<ref target="bart055.gif">49</ref></item>
+<item>Whiskey Scotch Hot..............................................................<ref target="bart056.gif">50</ref></item>
+<item>Whiskey Irish Hot...............................................................<ref target="bart056.gif">50</ref></item>
+</list>
+</div>
+<div type="other">
+ 
+<pb n="blank" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=60"/>
+
+</div>
+<div type="other">
+ 
+<pb n="blank" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=61"/>
+
+</div>
+<div type="copyrightstmt">
+ 
+<pb n="copyright statement" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=62"/>
+
+<p align="center">COPYRIGHTED 1917<lb/>BY<lb/>TOM BULLOCK<lb/>ALL RIGHTS RESERVED</p><p align="center">HUXTON &amp; SKINNER<lb/>PRINTING AND STATIONERY CO.<lb/>ST. LOUIS</p></div>
+<div type="other">
+ 
+<pb n="blank" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=63"/>
+
+</div>
+<div type="other">
+ 
+<pb n="blank" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=64"/>
+
+</div>
+<div type="other">
+ 
+<pb n="NONE OF THE ABOVE" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=65"/>
+
+<illustration><caption>STAND FAST<lb/><emph rend="ornate">Grant</emph><lb/>ENDOWMENT FUND</caption><description>The seal of the Beatrice V. Grant Stand Fast Endowment Fund.</description></illustration>
+<p align="center">BEATRICE V. GRANT<lb/>MSU 1929 - 1965</p><p align="center">PROFESSOR of FOODS &amp; NUTRITION<lb/>COLLECTOR of RARE COOKERY BOOKS</p><p align="center">Her private collection of rare cookery books was donated by her sister, Dr. Rhoda Grant, to the MSU Libraries, May 1984.</p></div>
+<div type="backcover">
+ 
+<pb n="back cover" id="/projects/cookbooks/coldfusion/display.cfm?ID=bart&#38;PageNum=66"/>
+
+</div>
+</back>
+</cookbook>

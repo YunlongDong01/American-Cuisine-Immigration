@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl"
+href="../cookbooks.xsl"?>
+
+<cookbook type="general" class1="generalfood" region="general">
+<meta></meta>
+
+<front>
+<div type="titlepage">
+<pb n="sample page" id="amwo001.jpg"/>
+
+
+<doctitle>The American Matron: Or, Practical and Scientific Cookery.</doctitle>
+
+
+<docauthor>By a Housekeeper.</docauthor>
+
+
+<docimprint>Boston: J. Munroe &amp; Co., 1851</docimprint>
+
+<p>[Page images for <emph rend="italic">The American Matron</emph> were produced before MSU began the "Feeding America" digitization project. This title is not formally part of the project and will not be transcribed.]</p>
+
+</div>
+
+
+
+</front>
+
+<body></body>
+
+
+</cookbook>
+

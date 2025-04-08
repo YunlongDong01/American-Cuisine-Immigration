@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl"
+href="../cookbooks.xsl"?>
+
+<cookbook type="general" class1="generalfood" region="general">
+<meta></meta>
+
+<front>
+<div type="titlepage">
+<pb n="sample page" id="fore001.jpg"/>
+
+
+<doctitle>Foods of the Foreign-born in Relation to Health.</doctitle>
+
+
+<docauthor>Bertha M. Wood.</docauthor>
+
+
+<docimprint>Boston, Whitcomb &amp; Barrows, 1922</docimprint>
+
+
+
+</div>
+
+
+
+</front>
+
+<body></body>
+
+
+</cookbook>
+
