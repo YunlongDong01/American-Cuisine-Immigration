@@ -1,0 +1,1645 @@
+[
+  {
+    "fileid": "amwh",
+    "bookid": "1869amwh",
+    "title": "The American Woman's Home: or, Principles of Domestic Science; being a Guide to the Formation and Maintenance of Economical, Healthful, Beautiful, and Christian Homes",
+    "subject": [
+      "Womencooks",
+      "Homeeconomics"
+    ],
+    "author": [
+      "Catharine Esther Beecher",
+      "Harriet Beecher Stowe"
+    ],
+    "publisher": "New York, J. B. Ford and Company; Boston, H. A. Brown & Co.",
+    "publish_region": "New York, Boston",
+    "date": "1869",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "famous",
+    "class1": "foodandnonfood",
+    "class2": ""
+  },
+  {
+    "fileid": "army",
+    "bookid": "1896army",
+    "title": "Manual For Army Cooks",
+    "subject": [
+      "Cookery,Military",
+      "Cookery,American"
+    ],
+    "author": [
+      "United States War Department."
+    ],
+    "publisher": "Washington: Government Printing Office.",
+    "publish_region": "Washington",
+    "date": "1896.",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "general",
+    "class1": "generalfood",
+    "class2": ""
+  },
+  {
+    "fileid": "aunt",
+    "bookid": "1889aunt",
+    "title": "\"Aunt Babette's\" Cook Book Foreign and Domestic Receipts for the Household A valuable collection of receipts and hints for the housewife, many of which are not to be found elsewhere",
+    "subject": [
+      "Cookery,Jewish",
+      "Cookery"
+    ],
+    "author": [
+      "\"Aunt Babette\""
+    ],
+    "publisher": "Cincinnati and Chicago: The Bloch Publishing and Printing Co.",
+    "publish_region": "Cincinnati; Chicago",
+    "date": "1889",
+    "language": "en",
+    "region": "ethnic",
+    "subregion": "",
+    "ethnic_group": "jewish",
+    "type": "general",
+    "class1": "foodandnonfood",
+    "class2": ""
+  },
+  {
+    "fileid": "bart",
+    "bookid": "1917bart",
+    "title": "The Ideal Bartender",
+    "subject": [
+      "Cookery,AfricanAmerican",
+      "Liquors"
+    ],
+    "author": [
+      "Tom Bullock"
+    ],
+    "publisher": "St. Louis: Buxton & Skinner Printing and Stationary Co., c1917",
+    "publish_region": "St. Louis",
+    "date": "1917",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "general",
+    "class1": "beverages",
+    "class2": ""
+  },
+  {
+    "fileid": "beec",
+    "bookid": "1850beec",
+    "title": "Miss Beecher's Domestic Receipt Book: Designed as a Supplement to Her Treatise on Domestic Economy",
+    "subject": [
+      "Cooking,American"
+    ],
+    "author": [
+      "Catharine Esther Beecher"
+    ],
+    "publisher": "New York: Harper, 1850, c1846.",
+    "publish_region": "New York",
+    "date": "1850",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "famous",
+    "class1": "foodandnonfood",
+    "class2": ""
+  },
+  {
+    "fileid": "blue",
+    "bookid": "1904blue",
+    "title": "The Blue Grass Cook Book",
+    "subject": [
+      "Cookery,American--Southernstyle",
+      "Kentucky"
+    ],
+    "author": [
+      "Minnie C. Fox"
+    ],
+    "publisher": "New York: Fox, Duffield & Company, 1904.",
+    "publish_region": "New York",
+    "date": "1904",
+    "language": "en",
+    "region": "south",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "general",
+    "class1": "generalfood",
+    "class2": ""
+  },
+  {
+    "fileid": "bost",
+    "bookid": "1896bost",
+    "title": "The Boston Cooking-School Cook Book",
+    "subject": [
+      "Cookery,America"
+    ],
+    "author": [
+      "Fannie Merritt Farmer"
+    ],
+    "publisher": "Boston: Little, Brown, and Company",
+    "publish_region": "Boston",
+    "date": "1896",
+    "language": "en",
+    "region": "northeast",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "famous",
+    "class1": "foodandnonfood",
+    "class2": ""
+  },
+  {
+    "fileid": "brkf",
+    "bookid": "brkf1875",
+    "title": "Breakfast, Luncheon and Tea",
+    "subject": [
+      "Cookery,American"
+    ],
+    "author": [
+      "Marion. Harland"
+    ],
+    "publisher": "New York: Scribner, Armstrong & Co.",
+    "publish_region": "New York",
+    "date": "1875",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "general",
+    "class1": "generalfood",
+    "class2": ""
+  },
+  {
+    "fileid": "buck",
+    "bookid": "1877buck",
+    "title": "Buckeye cookery, and practical housekeeping : compiled from original recipes",
+    "subject": [
+      "Cookery,American--Midwesternstyle",
+      "Cookery,American"
+    ],
+    "author": [
+      "Estelle Woods Wilcox"
+    ],
+    "publisher": "Minneapolis, Minn.: Buckeye Pub. Co., 1877.",
+    "publish_region": "Minneapolis",
+    "date": "1877",
+    "language": "en",
+    "region": "midwest",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "general",
+    "class1": "foodandnonfood",
+    "class2": ""
+  },
+  {
+    "fileid": "cclu",
+    "bookid": "1903cclu",
+    "title": "Cooking in old Créole days La cuisine créole à l'usage des petits ménages",
+    "subject": [
+      "Cookery,Creole",
+      "Cookery,French",
+      "Cookery,American--Southernstyle",
+      "Cookery,AfricanAmerican"
+    ],
+    "author": [
+      "Célestine. Eustis"
+    ],
+    "publisher": "New York, R. H. Russell",
+    "publish_region": "New York",
+    "date": "1904",
+    "language": "en",
+    "region": "ethnic",
+    "subregion": "",
+    "ethnic_group": "creole",
+    "type": "general",
+    "class1": "generalfood",
+    "class2": ""
+  },
+  {
+    "fileid": "chas",
+    "bookid": "1864chas",
+    "title": "Dr Chase's Recipes; or, Information for Everybody",
+    "subject": [
+      "Recipes",
+      "Medicine,Popular",
+      "Formula"
+    ],
+    "author": [
+      "Alvin Wood Chase"
+    ],
+    "publisher": "Ann Arbor, Michigan: Chase",
+    "publish_region": "Ann Arbor",
+    "date": "1864",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "general",
+    "class1": "foodandnonfood",
+    "class2": ""
+  },
+  {
+    "fileid": "chin",
+    "bookid": "1914chin",
+    "title": "Chinese-Japanese Cook Book",
+    "subject": [
+      "Cookery,Chinese",
+      "Cookery,Japanese",
+      "Cookery,American",
+      "Cookery,Asian"
+    ],
+    "author": [
+      "Sara Bosse",
+      "Onoto Watanna"
+    ],
+    "publisher": "Chicago, New York: Rand McNally & Company",
+    "publish_region": "Chicago",
+    "date": "1914",
+    "language": "en",
+    "region": "ethnic",
+    "subregion": "",
+    "ethnic_group": "Chinese, Japanese",
+    "type": "general",
+    "class1": "generalfood",
+    "class2": ""
+  },
+  {
+    "fileid": "choc",
+    "bookid": "1909choc",
+    "title": "Chocolate and Cocoa Recipes by Miss Parloa and Home Made Candy Recipes by Mrs Janet McKenzie Hill",
+    "subject": [
+      "Chocolate",
+      "Cocoa",
+      "Confectionery"
+    ],
+    "author": [
+      "Maria Parloa",
+      "Janet McKenzie Hill"
+    ],
+    "publisher": "Dorchester, Mass.: Walter Baker & Co., Ltd.",
+    "publish_region": "Dorchester",
+    "date": "1909",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "famous",
+    "class1": "breadsweets",
+    "class2": "generalfood"
+  },
+  {
+    "fileid": "comm",
+    "bookid": "1873comm",
+    "title": "Common Sense in The Household : A Manual of Practical Housewifery",
+    "subject": [
+      "Cookery,American"
+    ],
+    "author": [
+      "Marion Harland"
+    ],
+    "publisher": "New York : Scribner, Armstrong & Co.",
+    "publish_region": "New York",
+    "date": "1873",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "general",
+    "class1": "generalnonfood",
+    "class2": ""
+  },
+  {
+    "fileid": "conf",
+    "bookid": "1864conf",
+    "title": "The Complete Confectioner, Pastry-Cook, and Baker",
+    "subject": [
+      "Confectionery",
+      "Cookery,American",
+      "Cooking,English"
+    ],
+    "author": [
+      "Parkinson"
+    ],
+    "publisher": "Philadelphia: J. B. Lippincott & Co.",
+    "publish_region": "Philadelphia",
+    "date": "1864",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "general",
+    "class1": "foodandnonfood",
+    "class2": ""
+  },
+  {
+    "fileid": "coow",
+    "bookid": "1832coow",
+    "title": "The Cook's Own Book",
+    "subject": [
+      "Cookery,American"
+    ],
+    "author": [
+      "N. K. M. Lee"
+    ],
+    "publisher": "Boston: Munroe and Francis",
+    "publish_region": "Boston",
+    "date": "1832",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "encyclopedia",
+    "class1": "generalfood",
+    "class2": ""
+  },
+  {
+    "fileid": "creo",
+    "bookid": "1885creo",
+    "title": "La Cuisine Creole",
+    "subject": [
+      "Cookery,Creole",
+      "Cookery,American--Southernstyle",
+      "Cookery,French",
+      "Cookery,AfricanAmerican"
+    ],
+    "author": [
+      "Lafcadio Hearn"
+    ],
+    "publisher": "New Orleans: F. F. Hansell & Bro., Ltd.",
+    "publish_region": "New Orleans",
+    "date": "1885",
+    "language": "en",
+    "region": "south",
+    "subregion": "New Orleans",
+    "ethnic_group": "Creole",
+    "type": "general",
+    "class1": "generalfood",
+    "class2": ""
+  },
+  {
+    "fileid": "dcvb",
+    "bookid": "1840dcvb",
+    "title": "Directions for Cookery, in its Various Branches",
+    "subject": [
+      "Cookery,American"
+    ],
+    "author": [
+      "Eliza Leslie"
+    ],
+    "publisher": "Philadelphia: E. L. Carey & A. Hart.",
+    "publish_region": "Philadelphia",
+    "date": "1840",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "famous",
+    "class1": "foodandnonfood",
+    "class2": ""
+  },
+  {
+    "fileid": "dish",
+    "bookid": "1913dish",
+    "title": "Dishes & Beverages of the Old South",
+    "subject": [
+      "Cookery,American--Southernstyle",
+      "Cookery,AfricanAmerican"
+    ],
+    "author": [
+      "Martha McCulloch-Williams"
+    ],
+    "publisher": "New York: McBride, Nast & Company",
+    "publish_region": "New York",
+    "date": "1913",
+    "language": "en",
+    "region": "south",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "general",
+    "class1": "foodandnonfood",
+    "class2": ""
+  },
+  {
+    "fileid": "dome",
+    "bookid": "1869dome",
+    "title": "Domestic Cookery, Useful Receipts, and Hints to Young Housekeepers",
+    "subject": [
+      "Cookery,American",
+      "Recipes",
+      "Formulas",
+      "Quakercooking"
+    ],
+    "author": [
+      "Elizabeth E. Lea"
+    ],
+    "publisher": "Baltimore: Cushings and Bailey",
+    "publish_region": "Baltimore",
+    "date": "1869",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "general",
+    "class1": "foodandnonfood",
+    "class2": ""
+  },
+  {
+    "fileid": "econ",
+    "bookid": "1815econ",
+    "title": "The American Economical Housekeeper, and Family Receipt Book",
+    "subject": [
+      "Cookery,American--NewEnglandstyle",
+      "Recipes"
+    ],
+    "author": [
+      "Esther Allen Howland"
+    ],
+    "publisher": "Cincinnati: H. W. Derby & Co.",
+    "publish_region": "Cincinnati",
+    "date": "1815",
+    "language": "en",
+    "region": "northeast",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "frugal",
+    "class1": "foodandnonfood",
+    "class2": ""
+  },
+  {
+    "fileid": "ency",
+    "bookid": "1911ency",
+    "title": "The Grocer's Encyclopedia",
+    "subject": [
+      "Groceries",
+      "Food--Dictionaries"
+    ],
+    "author": [
+      "Artemas Ward"
+    ],
+    "publisher": "New York",
+    "publish_region": "New York",
+    "date": "1911",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "encyclopedia",
+    "class1": "foodandnonfood",
+    "class2": ""
+  },
+  {
+    "fileid": "engl",
+    "bookid": "1808engl",
+    "title": "The New-England Cookery, or the art of dressing all kinds of flesh, fish, and vegetables,",
+    "subject": [
+      "Cookery,American--NewEnglandStyle",
+      "Cookery,American"
+    ],
+    "author": [
+      "Lucy Emerson"
+    ],
+    "publisher": "Montpelier: Josiah Parks",
+    "publish_region": "Montpelier",
+    "date": "1808",
+    "language": "en",
+    "region": "northeast",
+    "subregion": "New England",
+    "ethnic_group": "",
+    "type": "general",
+    "class1": "generalfood",
+    "class2": ""
+  },
+  {
+    "fileid": "epia",
+    "bookid": "1894epic",
+    "title": "The Epicurean",
+    "subject": [
+      "Cookery,American",
+      "Cookery,French",
+      "Menus"
+    ],
+    "author": [
+      "Charles. Ranhofer"
+    ],
+    "publisher": "New York: Charles Ranhofer, Publisher.",
+    "publish_region": "New York",
+    "date": "1894, c1893",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "general",
+    "class1": "foodandnonfood",
+    "class2": ""
+  },
+  {
+    "fileid": "epib",
+    "bookid": "1894,epic2",
+    "title": "The Epicurean A Complete Treatise of Analytical and Practical Studies on The Culinary Art, Including",
+    "subject": [
+      "Cookery,American",
+      "Cookery,French",
+      "Menus"
+    ],
+    "author": [
+      "Charles. Ranhofer"
+    ],
+    "publisher": "New York, C Ranhofer.",
+    "publish_region": "New York",
+    "date": "1894",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "general",
+    "class1": "generalfood",
+    "class2": ""
+  },
+  {
+    "fileid": "favd",
+    "bookid": "1893favd",
+    "title": "Favorite dishes",
+    "subject": [
+      "Cookery,American"
+    ],
+    "author": [
+      "compiler Carrie V. Shuman",
+      "1893 Board of Lady Managers Chicago World's Columbian Exposition"
+    ],
+    "publisher": "Chicago R. R. Donnelley & sons co., printers",
+    "publish_region": "Chicago",
+    "date": "1893",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "charity",
+    "class1": "generalfood",
+    "class2": ""
+  },
+  {
+    "fileid": "fcsc",
+    "bookid": "1904fcsc",
+    "title": "Food and cookery for the sick and convalescent",
+    "subject": [
+      "Cookeryforthesick"
+    ],
+    "author": [
+      "Fannie Merritt Farmer"
+    ],
+    "publisher": "Boston: Little, Brown, and company",
+    "publish_region": "Boston",
+    "date": "1904",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "famous",
+    "class1": "medhealth",
+    "class2": ""
+  },
+  {
+    "fileid": "fish",
+    "bookid": "1881fish",
+    "title": "What Mrs Fisher Knows about Old Southern Cooking, Soups, Pickles, Preserves, etc",
+    "subject": [
+      "Cookery,American--SouthernStyle",
+      "Cookery,SouthernStates",
+      "Cookery,AfricanAmerican"
+    ],
+    "author": [
+      "Abby. Fisher"
+    ],
+    "publisher": "San Francisco: Women's Co-operative Printing Office.",
+    "publish_region": "San Francisco",
+    "date": "1881",
+    "language": "en",
+    "region": "south",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "general",
+    "class1": "generalfood",
+    "class2": ""
+  },
+  {
+    "fileid": "fofb",
+    "bookid": "1922fofb",
+    "title": "Foods of the Foreign-Born In Relation to Health",
+    "subject": [
+      "Food",
+      "Cookery",
+      "Immigrants--UnitedStates",
+      "Cookery,Asian",
+      "Cookery,LatinAmerican",
+      "Cookery,Italian",
+      "Cookery,Jewish",
+      "Cookery,MiddleEastern"
+    ],
+    "author": [
+      "Bertha M. Wood"
+    ],
+    "publisher": "Boston: Whitcomb & Barrows.",
+    "publish_region": "Boston",
+    "date": "1922",
+    "language": "en",
+    "region": "ethnic",
+    "subregion": "",
+    "ethnic_group": "Mexican, Portugese, Italian, Hungarian, Polish/Slavic, Armenian, Syrian, Turkish, Greek, Jewish",
+    "type": "general",
+    "class1": "medhealth",
+    "class2": "generalfood"
+  },
+  {
+    "fileid": "fran",
+    "bookid": "1893fran",
+    "title": "La Cuisine Française French Cooking for Every Home Adapted to American Requirements",
+    "subject": [
+      "Cookery,French"
+    ],
+    "author": [
+      "François Tanty"
+    ],
+    "publisher": "Chicago: Baldwin, Ross & Co.",
+    "publish_region": "Chicago",
+    "date": "1893",
+    "language": "en",
+    "region": "ethnic",
+    "subregion": "",
+    "ethnic_group": "french",
+    "type": "general",
+    "class1": "generalfood",
+    "class2": ""
+  },
+  {
+    "fileid": "frca",
+    "bookid": "1803frca",
+    "title": "The Frugal Housewife, or Complete Woman Cook;Also The Making of English Wines",
+    "subject": [
+      "Cookery",
+      "Cookery,English"
+    ],
+    "author": [
+      "Sussannah Carter"
+    ],
+    "publisher": "New York: G. & R. Waite, no. 64, Maiden-Lane.",
+    "publish_region": "New York",
+    "date": "1803",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "frugal",
+    "class1": "generalfood",
+    "class2": ""
+  },
+  {
+    "fileid": "frch",
+    "bookid": "1830frch",
+    "title": "The Frugal Housewife",
+    "subject": [
+      "Homeeconomics",
+      "Cookery,American"
+    ],
+    "author": [
+      "Lydia Maria Francis Child"
+    ],
+    "publisher": "Boston: Carter and Hendee.",
+    "publish_region": "Boston",
+    "date": "1830.",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "frugal",
+    "class1": "foodandnonfood",
+    "class2": ""
+  },
+  {
+    "fileid": "gohk",
+    "bookid": "1839gohk",
+    "title": "The Good Housekeeper, Or The Way To Live Well And To Be Well While We Live",
+    "subject": [
+      "Cookery,American"
+    ],
+    "author": [
+      "Sarah Josepha Buell Hale"
+    ],
+    "publisher": "Boston: Weeks, Jordan and Company.",
+    "publish_region": "Boston",
+    "date": "1839",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "general",
+    "class1": "foodandnonfood",
+    "class2": ""
+  },
+  {
+    "fileid": "good",
+    "bookid": "1909good",
+    "title": "The good housekeeping woman's home cook book",
+    "subject": [
+      "Cookery,American",
+      "Cookery,American--Westernstyle"
+    ],
+    "author": [
+      "Isabel Gordon Curtis"
+    ],
+    "publisher": "Chicago: Reilly & Britton",
+    "publish_region": "Chicago",
+    "date": "1909",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "general",
+    "class1": "generalfood",
+    "class2": ""
+  },
+  {
+    "fileid": "grea",
+    "bookid": "1857grea",
+    "title": "The Great Western Cook Book, or Table Receipts, Adapted to Western Housewifery",
+    "subject": [
+      "Cookery,American"
+    ],
+    "author": [
+      "Anna Maria Collins"
+    ],
+    "publisher": "New York: A. S. Barnes & Company",
+    "publish_region": "New York",
+    "date": "1857, c1851",
+    "language": "en",
+    "region": "west",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "general",
+    "class1": "generalfood",
+    "class2": ""
+  },
+  {
+    "fileid": "gtte",
+    "bookid": "1911gtte",
+    "title": "Good Things to Eat, As Suggested By Rufus",
+    "subject": [
+      "Cookery,American",
+      "Cookery,AfricanAmerican"
+    ],
+    "author": [
+      "Rufus Estes"
+    ],
+    "publisher": "Chicago: the author",
+    "publish_region": "Chicago",
+    "date": "1911",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "general",
+    "class1": "generalfood",
+    "class2": ""
+  },
+  {
+    "fileid": "hand",
+    "bookid": "c1868",
+    "title": "Hand-Book of Practical Cookery, for Ladies and Professional Cooks Containing The Whole Science and Art of Preparing Human Food",
+    "subject": [
+      "Cookery,French"
+    ],
+    "author": [
+      "Pierre. Blot"
+    ],
+    "publisher": "New York : D. Appleton and Company.",
+    "publish_region": "New York",
+    "date": "1868",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "general",
+    "class1": "generalfood",
+    "class2": ""
+  },
+  {
+    "fileid": "henr",
+    "bookid": "1897henr",
+    "title": "Henriette Davidis' Practical Cook Book Compiled For The United States From The Thirty-Fifth German Edition",
+    "subject": [
+      "Cookery",
+      "Cookery,German",
+      "Cookery,American--Midwesternstyle"
+    ],
+    "author": [
+      "Henriette Davidis"
+    ],
+    "publisher": "Milwaukee, Wis.: C. N. Caspar, Book Emporium and H. H. Zahn & Co., Printers & Publishers.",
+    "publish_region": "Milwaukee",
+    "date": "1897.",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "general",
+    "class1": "generalfood",
+    "class2": ""
+  },
+  {
+    "fileid": "hosf",
+    "bookid": "1919hosf",
+    "title": "The Hotel St Francis Cook Book",
+    "subject": [
+      "Cookery",
+      "Menu",
+      "Cookery,American--Westernstyle"
+    ],
+    "author": [
+      "Victor. Hirtzler"
+    ],
+    "publisher": "Chicago Ill., The Hotel Monthly Press [c1919]",
+    "publish_region": "Chicago",
+    "date": "1919",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "general",
+    "class1": "generalfood",
+    "class2": ""
+  },
+  {
+    "fileid": "hote",
+    "bookid": "1848hote",
+    "title": "Hotel Keepers, Head Waiters, and Housekeepers' Guide",
+    "subject": [
+      "Waiters",
+      "Cookery,American",
+      "Cookery,AfricanAmerican"
+    ],
+    "author": [
+      "Tunis Gulic Campbell"
+    ],
+    "publisher": "Boston: Coolidge and Wiley.",
+    "publish_region": "Boston",
+    "date": "1848",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "restaurant",
+    "class1": "foodandnonfood",
+    "class2": ""
+  },
+  {
+    "fileid": "hous",
+    "bookid": "1827hous",
+    "title": "The House Servant's Directory",
+    "subject": [
+      "Cookery",
+      "Cookery,AfricanAmerican",
+      "Cookery,Northeastern"
+    ],
+    "author": [
+      "Robert. Roberts"
+    ],
+    "publisher": "Boston: Munroe and Francis",
+    "publish_region": "Boston",
+    "date": "1827",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "general",
+    "class1": "household",
+    "class2": ""
+  },
+  {
+    "fileid": "ital",
+    "bookid": "1919ital",
+    "title": "The Italian Cook Book: The Art of Eating Well",
+    "subject": [
+      "Cookery,Italian",
+      "Cookery,American"
+    ],
+    "author": [
+      "Maria Gentile"
+    ],
+    "publisher": "New York: Italian Book Co.",
+    "publish_region": "New York",
+    "date": "1919",
+    "language": "en",
+    "region": "ethnic",
+    "subregion": "",
+    "ethnic_group": "Italian",
+    "type": "general",
+    "class1": "generalfood",
+    "class2": ""
+  },
+  {
+    "fileid": "jenn",
+    "bookid": "c1866,c1870jenn",
+    "title": "Jennie June's American Cookery Book",
+    "subject": [
+      "Cookery,Jewish",
+      "Cookery,American"
+    ],
+    "author": [
+      "Jane Cunningham Croly"
+    ],
+    "publisher": "New York: American News Co.",
+    "publish_region": "New York",
+    "date": "1870, c1866",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "general",
+    "class1": "generalnonfood",
+    "class2": ""
+  },
+  {
+    "fileid": "jewi",
+    "bookid": "1919,c1918jewi",
+    "title": "The International Jewish Cook Book",
+    "subject": [
+      "Cookery,Jewish"
+    ],
+    "author": [
+      "Florence Kreisler. Greenbaum"
+    ],
+    "publisher": "New York: Bloch Publishing Company.",
+    "publish_region": "New York",
+    "date": "1918",
+    "language": "en",
+    "region": "ethnic",
+    "subregion": "",
+    "ethnic_group": "Jewish",
+    "type": "general",
+    "class1": "generalfood",
+    "class2": ""
+  },
+  {
+    "fileid": "lady",
+    "bookid": "c1846,c1847lady",
+    "title": "The Lady's Receipt-Book; a Useful Companion for Large or Small Families",
+    "subject": [
+      "Cookery,American"
+    ],
+    "author": [
+      "Eliza Leslie"
+    ],
+    "publisher": "Philadelphia: Carey and Hart",
+    "publish_region": "Philadelphia",
+    "date": "1847, c1846",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "famous",
+    "class1": "foodandnonfood",
+    "class2": ""
+  },
+  {
+    "fileid": "ldnw",
+    "bookid": "1852ldnw",
+    "title": "The ladies' new book of cookery : a practical system for private families in town and country; with directions for carving, and arranging the table for parties, etc Also, preparations of food for invalids and for children",
+    "subject": [
+      "Cookery,American"
+    ],
+    "author": [
+      "Sarah Josepha Buell Hale"
+    ],
+    "publisher": "New York, H. Long & Brother",
+    "publish_region": "New York",
+    "date": "1852",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "general",
+    "class1": "foodandnonfood",
+    "class2": ""
+  },
+  {
+    "fileid": "linc",
+    "bookid": "1884linc",
+    "title": "Mrs Lincoln's Boston Cook Book What to Do and What Not to Do in Cooking",
+    "subject": [
+      "Cookery,American",
+      "Cookery,Northeastern"
+    ],
+    "author": [
+      "Mary Johnson Lincoln"
+    ],
+    "publisher": "Boston: Roberts Brothers.",
+    "publish_region": "Boston",
+    "date": "1884",
+    "language": "en",
+    "region": "northeast",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "famous",
+    "class1": "foodandnonfood",
+    "class2": ""
+  },
+  {
+    "fileid": "mara",
+    "bookid": "1867mara",
+    "title": "The Market Assistant",
+    "subject": [
+      "Food"
+    ],
+    "author": [
+      "Thomas F. (Thomas Farrington) De Voe"
+    ],
+    "publisher": "New York, Hurd and Houghton",
+    "publish_region": "New York",
+    "date": "1867",
+    "language": "en",
+    "region": "northeast",
+    "subregion": "New York, Boston, Philadelphia, Brooklyn",
+    "ethnic_group": "",
+    "type": "general",
+    "class1": "generalfood",
+    "class2": ""
+  },
+  {
+    "fileid": "mary",
+    "bookid": "1912mary",
+    "title": "The Mary Frances Cook Book or Adventures among the Kitchen People",
+    "subject": [
+      "Cookery--Juvenileliterature",
+      "Cookery,American"
+    ],
+    "author": [
+      "Jane Eayre Fryer"
+    ],
+    "publisher": "Philadelphia: The John G. Winston Co.",
+    "publish_region": "Philadelphia",
+    "date": "1912",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "general",
+    "class1": "foodandnonfood",
+    "class2": ""
+  },
+  {
+    "fileid": "matf",
+    "bookid": "1915matf",
+    "title": "Mary at the Farm and Book of Recipes",
+    "subject": [
+      "Cookery",
+      "Germans--Pennsylvania",
+      "Cookery,American--Pennsylvania",
+      "Cookery,Northeastern",
+      "Quakercooking"
+    ],
+    "author": [
+      "Edith M. Thomas"
+    ],
+    "publisher": "Norristown, PA: John Hartenstine",
+    "publish_region": "Norristown",
+    "date": "1915",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "general",
+    "class1": "generalfood",
+    "class2": ""
+  },
+  {
+    "fileid": "miss",
+    "bookid": "missparloa",
+    "title": "Miss Parloa's New Cook Book and Marketing Guide",
+    "subject": [
+      "Cookery,American"
+    ],
+    "author": [
+      "Maria Parloa"
+    ],
+    "publisher": "Boston: Estes and Lauriat, Publishers.",
+    "publish_region": "Boston",
+    "date": "1882",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "famous",
+    "class1": "foodandnonfood",
+    "class2": ""
+  },
+  {
+    "fileid": "neig",
+    "bookid": "1914neig",
+    "title": "The Neighborhood Cook Book",
+    "subject": [
+      "Cookery,American",
+      "Cookery,American--Westernstyle",
+      "Cookery,Jewish"
+    ],
+    "author": [
+      "Council of Jewish Women"
+    ],
+    "publisher": "Portland, Oregon: Press of Bushong & Co.",
+    "publish_region": "Portland",
+    "date": "1914",
+    "language": "en",
+    "region": "ethnic",
+    "subregion": "",
+    "ethnic_group": "jewish",
+    "type": "charity",
+    "class1": "foodandnonfood",
+    "class2": ""
+  },
+  {
+    "fileid": "notm",
+    "bookid": "1831notm",
+    "title": "The Cook Not Mad, or Rational Cookerytogether with sundry Miscellaneous kinds of information, of importance to housekeepers in general, nearly all tested by experience",
+    "subject": [
+      "Cookery,American"
+    ],
+    "author": [
+      "Author unknown"
+    ],
+    "publisher": "Watertown: Knowlton & Rice",
+    "publish_region": "Watertown",
+    "date": "1831",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "general",
+    "class1": "generalnonfood",
+    "class2": ""
+  },
+  {
+    "fileid": "oldv",
+    "bookid": "1877oldv",
+    "title": "Housekeeping in Old Virginia/ Containing Contributions from Two Hundred and Fifty Ladies in Virginia and Her Sister States",
+    "subject": [
+      "Cookery,American",
+      "Cookery,American--Southernstyle",
+      "Cookery,Virginia"
+    ],
+    "author": [
+      "Marion Cabell Tyree"
+    ],
+    "publisher": "Richmond, Va. : J. W. Randolph & English",
+    "publish_region": "Richmond",
+    "date": "1878",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "general",
+    "class1": "foodandnonfood",
+    "class2": ""
+  },
+  {
+    "fileid": "orie",
+    "bookid": "1913orie",
+    "title": "The Oriental Cook Book",
+    "subject": [
+      "Cookery,Asian"
+    ],
+    "author": [
+      "Ardashes H. Keoleian"
+    ],
+    "publisher": "New York: Sully & Kleinteich",
+    "publish_region": "New York",
+    "date": "1913",
+    "language": "en",
+    "region": "ethnic",
+    "subregion": "",
+    "ethnic_group": "Oriental",
+    "type": "general",
+    "class1": "generalfood",
+    "class2": ""
+  },
+  {
+    "fileid": "pach",
+    "bookid": "1886pach",
+    "title": "Miss Corson's Practical American Cookery and Household Management",
+    "subject": [
+      "Cookery"
+    ],
+    "author": [
+      "Juliet Corson"
+    ],
+    "publisher": "New York, Dodd, Mead & Co.",
+    "publish_region": "New York",
+    "date": "1886",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "famous",
+    "class1": "generalfood",
+    "class2": "household"
+  },
+  {
+    "fileid": "pcdg",
+    "bookid": "1876pcdg",
+    "title": "Practical Cooking and Dinner Giving A\nTreatise Containing Practical Instructions in Cooking; in the Combination and\nServing of Dishes; and in the Fashionable Modes of Entertaining at Breakfast,\nLunch, and Dinner",
+    "subject": [
+      "Cookery,\nAmerican"
+    ],
+    "author": [
+      "Mary\nFoote Henderson"
+    ],
+    "publisher": "New York:\nHarper & Brothers",
+    "publish_region": "New York",
+    "date": "1876",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "general",
+    "class1": "foodandnonfood",
+    "class2": ""
+  },
+  {
+    "fileid": "prac",
+    "bookid": "1890prac",
+    "title": "Practical Sanitary and Economic Cooking, Adapted to Persons of Moderate and Small Means",
+    "subject": [
+      "Cookery,American",
+      "Homeeconomics"
+    ],
+    "author": [
+      "Mary W. Hinman. Abel"
+    ],
+    "publisher": "Rochester, N.Y.: American Public Health Association.",
+    "publish_region": "Rochester",
+    "date": "1890",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "frugal",
+    "class1": "generalfood",
+    "class2": ""
+  },
+  {
+    "fileid": "pres",
+    "bookid": "1873pres",
+    "title": "Presbyterian Cookbook",
+    "subject": [
+      "Cookery,American",
+      "Cookery,Ohio",
+      "CommunityCookbook,Ohio,\nDayton"
+    ],
+    "author": [
+      "Dayton The Ladies of the First Presbyterian Church"
+    ],
+    "publisher": "Dayton, Ohio, Oliver Crook & Co., Printers.",
+    "publish_region": "Dayton",
+    "date": "1873",
+    "language": "en",
+    "region": "midwest",
+    "subregion": "ohio",
+    "ethnic_group": "",
+    "type": "charity",
+    "class1": "generalfood",
+    "class2": ""
+  },
+  {
+    "fileid": "prho",
+    "bookid": "1857prho",
+    "title": "The Practical Housekeeper; A Cyclopedia of Domestic Economy ",
+    "subject": [
+      "HomeEconomics",
+      "CookeryAmerican"
+    ],
+    "author": [
+      "E. F. (Elizabeth Fries) Ellet"
+    ],
+    "publisher": "New York, Stringer and Townsend.",
+    "publish_region": "New York",
+    "date": "1857",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "general",
+    "class1": "foodandnonfood",
+    "class2": ""
+  },
+  {
+    "fileid": "rore",
+    "bookid": "1902rore",
+    "title": "Mrs Rorer's New Cook Book",
+    "subject": [
+      "Cookery,American"
+    ],
+    "author": [
+      "Sarah Tyson Heston. Rorer"
+    ],
+    "publisher": "Philadelphia: Arnold and Company.",
+    "publish_region": "Philadelphia",
+    "date": "1902",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "general",
+    "class1": "generalfood",
+    "class2": ""
+  },
+  {
+    "fileid": "sauc",
+    "bookid": "1902sauc",
+    "title": "With A Saucepan Over the Sea",
+    "subject": [
+      "Cookery"
+    ],
+    "author": [
+      "Adelaide Keen"
+    ],
+    "publisher": "Boston, Little, Brown, and Company.",
+    "publish_region": "Boston",
+    "date": "1902",
+    "language": "en",
+    "region": "ethnic",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "general",
+    "class1": "generalfood",
+    "class2": ""
+  },
+  {
+    "fileid": "scie",
+    "bookid": "1893,c1892scie",
+    "title": "Science in the Kitchen",
+    "subject": [
+      "Cookery",
+      "Diet",
+      "Vegetarianism"
+    ],
+    "author": [
+      "Ella Eaton. Kellogg"
+    ],
+    "publisher": "Chicago, Ill.: Modern Medicine Publishing Co.",
+    "publish_region": "Chicago",
+    "date": "1893, c1892",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "general",
+    "class1": "foodandnonfood",
+    "class2": ""
+  },
+  {
+    "fileid": "sett",
+    "bookid": "sett",
+    "title": "The \"Settlement\" Cook Book",
+    "subject": [
+      "Cookery,American",
+      "Cookery,Jewish"
+    ],
+    "author": [
+      "Simon Kander"
+    ],
+    "publisher": "Milwaukee, Wis.: J. H. Yewdale & Sons Co., Printers",
+    "publish_region": "Milwaukee",
+    "date": "1901",
+    "language": "en",
+    "region": "midwest",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "general",
+    "class1": "generalfood",
+    "class2": ""
+  },
+  {
+    "fileid": "sevf",
+    "bookid": "1832sevf",
+    "title": "Seventy-Five Receipts for Pastry, Cakes, and Sweetmeats",
+    "subject": [
+      "Cookery,American"
+    ],
+    "author": [
+      "Eliza Leslie"
+    ],
+    "publisher": "Boston, Mass. : Munroe and Francis",
+    "publish_region": "Boston",
+    "date": "1832",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "general",
+    "class1": "generalfood",
+    "class2": ""
+  },
+  {
+    "fileid": "swed",
+    "bookid": "swed1895",
+    "title": "Svensk-Amerikansk Kokbok Swedish-English Cookbook",
+    "subject": [
+      "Cookery,Swedish"
+    ],
+    "author": [
+      "Author Unknown"
+    ],
+    "publisher": "Chicago: The Engberg Holmberg Publishing Co.",
+    "publish_region": "Chicago",
+    "date": "1895",
+    "language": "en",
+    "region": "ethnic",
+    "subregion": "",
+    "ethnic_group": "swedish",
+    "type": "general",
+    "class1": "generalfood",
+    "class2": ""
+  },
+  {
+    "fileid": "syst",
+    "bookid": "1807syst",
+    "title": "A New System of Domestic Cookery",
+    "subject": [
+      "Cookery,American",
+      "Cookery,English"
+    ],
+    "author": [
+      "Maria Eliza Ketelby Rundell"
+    ],
+    "publisher": "London : printed for J. Murray.",
+    "publish_region": "London",
+    "date": "1807",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "general",
+    "class1": "generalfood",
+    "class2": ""
+  },
+  {
+    "fileid": "time",
+    "bookid": "1905time",
+    "title": "The Times Cook Book - No 2",
+    "subject": [
+      "Cookery,Mexican",
+      "Cookery,American",
+      "Cookery,Spanish",
+      "Cookery,American--Westernstyle",
+      "Cookery,LatinAmerican",
+      "Cookery,California"
+    ],
+    "author": [
+      "By California Women"
+    ],
+    "publisher": "Los Angeles, The Time-Mirror Company",
+    "publish_region": "Los Angeles",
+    "date": "1905",
+    "language": "en",
+    "region": "ethnic",
+    "subregion": "",
+    "ethnic_group": "California, Spanish and Mexican ",
+    "type": "charity",
+    "class1": "generalfood",
+    "class2": ""
+  },
+  {
+    "fileid": "virg",
+    "bookid": "1838virg",
+    "title": "The Virginia Housewife: Or, Methodical Cook",
+    "subject": [
+      "Cookery,Virginia",
+      "Cookery,American",
+      "Cookery,American--Southernstyle"
+    ],
+    "author": [
+      "Mrs. Mary Randolph"
+    ],
+    "publisher": "Baltimore: Plaskitt, & Cugle.",
+    "publish_region": "Baltimore",
+    "date": "1838",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "general",
+    "class1": "generalfood",
+    "class2": ""
+  },
+  {
+    "fileid": "wash",
+    "bookid": "1909wash",
+    "title": "Washington Women's Cook Book",
+    "subject": [
+      "Cookery,Washington",
+      "Cookery,American"
+    ],
+    "author": [
+      "Linda Deziah Jennings"
+    ],
+    "publisher": "Seattle: The Washington Equal Suffrage Association",
+    "publish_region": "Seattle",
+    "date": "1909",
+    "language": "en",
+    "region": "west",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "charity",
+    "class1": "foodandnonfood",
+    "class2": ""
+  },
+  {
+    "fileid": "whit",
+    "bookid": "1887whit",
+    "title": "White House cook book",
+    "subject": [
+      "Cookery,American"
+    ],
+    "author": [
+      "Janet Halliday. Ervin",
+      "Fanny Lemira. Gillette"
+    ],
+    "publisher": "Chicago, Follett Pub. Co.",
+    "publish_region": "Chicago",
+    "date": "1887",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "general",
+    "class1": "generalfood",
+    "class2": ""
+  },
+  {
+    "fileid": "wosu",
+    "bookid": "1886wosu",
+    "title": "The Woman Suffrage Cook Book, Containing Thoroughly Tested and Reliable Recipes for Cooking, Directions for the Care of the Sick, and Practical Suggestions, Contributed Especially for This Work",
+    "subject": [
+      "Cookery,American",
+      "Cookeryforthesick"
+    ],
+    "author": [
+      "Hattie A. Burr"
+    ],
+    "publisher": "Boston: Mrs. Hattie A. Burr",
+    "publish_region": "Boston",
+    "date": "1886",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "charity",
+    "class1": "foodandnonfood",
+    "class2": ""
+  },
+  {
+    "fileid": "youn",
+    "bookid": "younghousekeeper",
+    "title": "The Young House-Keeper; or Thoughts on Foods and Cookery",
+    "subject": [
+      "Cookery,American",
+      "Vegetarianism"
+    ],
+    "author": [
+      "William Andrus Alcott"
+    ],
+    "publisher": "Boston; Waite, Peirce & Company",
+    "publish_region": "Boston; Waite",
+    "date": "1846",
+    "language": "en",
+    "region": "general",
+    "subregion": "",
+    "ethnic_group": "",
+    "type": "general",
+    "class1": "foodandnonfood",
+    "class2": ""
+  },
+  {
+    "fileid": "zuni",
+    "bookid": "1920zuni",
+    "title": "Zuñi Breadstuff",
+    "subject": [
+      "Cookery,Indian",
+      "Cookery,American--Westernstyle"
+    ],
+    "author": [
+      "Frank Hamilton Cushing"
+    ],
+    "publisher": "New York, Museum of the American Indian, Heye Foundation",
+    "publish_region": "New York",
+    "date": "1920",
+    "language": "en",
+    "region": "west",
+    "subregion": "southwest",
+    "ethnic_group": "Native American/Pueblo Indians",
+    "type": "general",
+    "class1": "foodandnonfood",
+    "class2": ""
+  }
+]

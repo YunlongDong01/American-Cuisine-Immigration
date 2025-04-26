@@ -1,7 +1,19 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="../cookbooks.xsl"?>
 <cookbook type="general" class1="foodandnonfood" region="midwest" bookID="1877buck">
-<meta></meta>
+<!-- <meta></meta> -->
+<!-- 手动添加 -->
+<meta>
+    <dcTitle>Buckeye cookery, and practical housekeeping : compiled from original recipes</dcTitle>
+    <dcCreator>Estelle Woods Wilcox</dcCreator>
+    <dcSubject>Cookery, American--Midwestern style. Cookery, American.</dcSubject>
+    <!-- <dcDescription>Preface. Selecting Food and Drinks with Reference to Health. Marketing and Care of Meats. Boiled Meats. Roasted and Baked Meats. Fried and Broiled Meats. Soups. Fish. Hashes, Gravies, and Sauces. Vegetables. Ovens, Yeast, Bread, and Biscuit. Breakfast and Tea Cakes. Plain Puddings and Pies. Rich Puddings and Pies. Plain Cakes. Rich Cakes. Preserves and Jellies. Pickles. Articles for Desserts and Evening Parties. Temperance Drinks. Food and Drinks for the Sick. Butter and Cheese Making. Family Stores. Bread Making. Dinner and Evening Parties. Systematic Family Arrangement. Housekeeping Utensils. Hired Service. Style of Living and Expenses. Comfort for Discouraged Housekeepers. Counsels for Domestics. Miscellaneous Advice.</dcDescription> -->
+    <dcPublisher>Minneapolis, Minn.: Buckeye Pub. Co., 1877.</dcPublisher>
+    <dcDate>1877</dcDate>
+    <dcLanguage>en</dcLanguage>
+    <!-- <dcCoverage>United States</dcCoverage> -->
+    <!-- <dcCoverage>Nineteenth century</dcCoverage> -->
+</meta>
 <front>
 <div type="frontcover"><pb n="front cover" id="/projects/cookbooks/coldfusion/display.cfm?ID=buck&#38;PageNum=1"/>
 <hd align="center" size="larger">Practical <lb/>Housekeeping</hd>

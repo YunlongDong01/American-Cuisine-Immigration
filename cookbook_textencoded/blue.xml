@@ -1,8 +1,26 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="../cookbooks.xsl"?>
 <cookbook type="general" class1="generalfood" region="south" bookID="1904blue">
+<!-- <meta>
+</meta> -->
+
 <meta>
+    <dcTitle>The Blue Grass Cook Book</dcTitle>
+    <dcCreator>Minnie C. Fox</dcCreator>
+    <dcSubject>Cookery, American--Southern style. Kentucky.</dcSubject>
+    <!-- <dcDescription>Introduction by John Fox, Jr. Recipes for breads, biscuits, corn bread, eggs, soups, fish, oysters, entrées, croquettes, fowl, game, meats, sauces, vegetables, salads, dressings, ice creams, ices, punches, sherbets, creams, desserts, jellies, pastries, puddings, sauces for puddings, cakes, fillings for cakes, and beverages. Includes illustrations of Kentucky cooking traditions and contributors from Kentucky and Virginia.</dcDescription> -->
+    <dcPublisher>New York: Fox, Duffield &amp; Company, 1904.</dcPublisher>
+    <dcContributor>Electronic edition created by Digital &amp; Multimedia Center, Michigan State University Libraries, East Lansing, Michigan, 2002-2003.</dcContributor>
+    <dcDate>1904</dcDate>
+    <dcIdentifier>http://digital.lib.msu.edu/cookbooks/blue.xml</dcIdentifier>
+    <dcSource>OCLC 30905882</dcSource>
+    <dcLanguage>en</dcLanguage>
+    <!-- <dcRelation>Digitized as part of "Feeding America: The Historic American Cookbook Project." Michigan State University Libraries, East Lansing, Michigan, 2002-2003. http://digital.lib.msu.edu/cookbooks/</dcRelation> -->
+    <!-- <dcCoverage>United States</dcCoverage> -->
+    <!-- <dcCoverage>Twentieth century</dcCoverage> -->
+    <dcRights>The book digitized here was published in the United States before 1923 and is in the public domain according to U.S. copyright law. The digital version and supplementary materials are made available for all educational uses.</dcRights>
 </meta>
+
 <front>
 <div type="frontcover">
  

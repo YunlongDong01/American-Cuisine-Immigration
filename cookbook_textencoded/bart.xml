@@ -2,8 +2,19 @@
 <?xml-stylesheet type="text/xsl"
 href="../cookbooks.xsl"?>
 <cookbook type="general" class1="beverages" region="general" bookID="1917bart">
+<!-- <meta>
+</meta> -->
+<!-- 原meta为空，手动补充 -->
 <meta>
+    <dcTitle>The Ideal Bartender</dcTitle>
+    <dcCreator>Tom Bullock</dcCreator>
+    <dcCreatorNation>African Americans</dcCreatorNation>
+    <dcPublisher>St. Louis: Buxton &amp; Skinner Printing and Stationary Co., c1917 </dcPublisher>
+    <dcDate>1917</dcDate>
+    <dcLanguage>en</dcLanguage>
+    <dcSubject>Cookery, African American. Liquors.</dcSubject>
 </meta>
+
 <front>
 <div type="frontcover">
  

@@ -1,7 +1,31 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="../cookbooks.xsl"?>
 <cookbook type="famous" class1="foodandnonfood" region="general" bookID="1850beec" chefschool="Catharine Esther Beecher">
-<meta></meta><front>
+<!-- <meta></meta> -->
+<!-- 空meta，手动补充 -->
+<meta>
+    <dcTitle>Miss Beecher's Domestic Receipt Book: Designed as a Supplement to Her Treatise on Domestic Economy</dcTitle>
+    <dcCreator>Catharine Esther Beecher</dcCreator>
+    <dcSubject>Cooking, American.</dcSubject>
+    <!-- <dcDescription>Preface. Selecting Food and Drinks with Reference to Health. Marketing and Care of Meats. Boiled Meats. Roasted and Baked Meats. Fried and Broiled Meats. Soups. Fish. Hashes, Gravies, and Sauces. Vegetables. Ovens, Yeast, Bread, and Biscuit. Breakfast and Tea Cakes. Plain Puddings and Pies. Rich Puddings and Pies. Plain Cakes. Rich Cakes. Preserves and Jellies. Pickles. Articles for Desserts and Evening Parties. Temperance Drinks. Food and Drinks for the Sick. Butter and Cheese Making. Family Stores. Bread Making. Dinner and Evening Parties. Systematic Family Arrangement. Housekeeping Utensils. Hired Service. Style of Living and Expenses. Comfort for Discouraged Housekeepers. Counsels for Domestics. Miscellaneous Advice.</dcDescription> -->
+    <dcPublisher>New York: Harper, 1850, c1846.</dcPublisher>
+    <dcContributor>Electronic edition created by Digital &amp; Multimedia Center, Michigan State University Libraries, East Lansing, Michigan, 2002-2003.</dcContributor>
+    <dcDate>1850</dcDate>
+    <!-- <dcType>Text</dcType>
+    <dcFormat>xml-external-parsed-entity</dcFormat>
+    <dcFormat>jpeg</dcFormat>
+    <dcFormat>quicktime</dcFormat> -->
+    <dcIdentifier>http://digital.lib.msu.edu/cookbooks/beec.xml</dcIdentifier>
+    <dcSource>OCLC 30905882</dcSource>
+    <dcLanguage>en</dcLanguage>
+    <dcRelation>Digitized as part of "Feeding America: The Historic American Cookbook Project." Michigan State University Libraries, East Lansing, Michigan, 2002-2003. http://digital.lib.msu.edu/cookbooks/</dcRelation>
+    <!-- <dcCoverage>United States</dcCoverage> -->
+    <!-- <dcCoverage>Nineteenth century</dcCoverage> -->
+    <dcRights>The book digitized here was published in the United States before 1923 and is in the public domain according to U.S. copyright law. The digital version and supplementary materials are made available for all educational uses.</dcRights>
+</meta>
+
+
+<front>
 <div type="frontcover"><pb n="front cover" id="/projects/cookbooks/coldfusion/display.cfm?ID=beec&#38;PageNum=1"/></div>
 <div type="other"><pb n="NONE OF THE ABOVE" id="/projects/cookbooks/coldfusion/display.cfm?ID=beec&#38;PageNum=2"/><illustration><description>A bookplate illustration of a illuminated reading lap and an open book.</description></illustration><p align="center">This book belongs to Beatrice V. Grant.<lb/></p></div>
 <div type="other"><pb n="blank" id="/projects/cookbooks/coldfusion/display.cfm?ID=beec&#38;PageNum=3"/></div>

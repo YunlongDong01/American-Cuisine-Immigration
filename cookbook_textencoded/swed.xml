@@ -1,7 +1,21 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="../cookbooks.xsl"?>
 <cookbook type="general" region="ethnic" class1="generalfood" bookID="swed1895" ethnicgroup="swedish">
-<meta><dcTitle>Svensk-Amerikansk Kokbok. Swedish-English Cookbook.</dcTitle><dcCreator>Author Unknown</dcCreator><dcSubject>Cookery, Swedish.</dcSubject><dcDescription>Sample recipes: Yeast and bread, Meat dishes, Poultry and game, Fish and oysters, Salads and dressings</dcDescription><dcPublisher>Chicago: The Engberg Holmberg Publishing Co.</dcPublisher><dcContributor>Electronic edition created by Digital &#38; Multimedia Center, Michigan State University Libraries, East Lansing, Michigan, 2002-2003.</dcContributor><dcContributor>Supplementary material by Jan Longone, Anne-Marie Rachman, Peter Berg, Yvonne Lockwood, and Val Berryman</dcContributor><dcDate>1895</dcDate><dcType>Text</dcType><dcFormat>xml-external-parsed-entity</dcFormat><dcFormat>jpeg</dcFormat><dcFormat>quicktime</dcFormat><dcIdentifier>http://digital.lib.msu.edu/cookbooks/swedishenglish/swed.xml</dcIdentifier><dcSource>OCLC 6495832</dcSource><dcLanguage>en</dcLanguage><dcRelation>Digitized as part of "Feeding America: The Historic American Cookbook Project." Michigan State University Libraries, East Lansing, Michigan, 2002-2003. http://digital.lib.msu.edu/cookbooks/</dcRelation><dcCoverage>United States</dcCoverage><dcCoverage>Nineteenth century</dcCoverage><dcRights>The book digitized here was published in the United States before 1923 and is in the public domain according to U.S. copyright law. The digital version and supplementary materials are made available for all educational uses.</dcRights>
+<meta><dcTitle>Svensk-Amerikansk Kokbok. Swedish-English Cookbook.</dcTitle>
+<dcCreator>Author Unknown</dcCreator>
+<dcSubject>Cookery, Swedish.</dcSubject>
+<dcDescription>Sample recipes: Yeast and bread, Meat dishes, Poultry and game, Fish and oysters, Salads and dressings</dcDescription>
+<dcPublisher>Chicago: The Engberg Holmberg Publishing Co.</dcPublisher>
+<dcContributor>Electronic edition created by Digital &#38; Multimedia Center, Michigan State University Libraries, East Lansing, Michigan, 2002-2003.</dcContributor>
+<dcContributor>Supplementary material by Jan Longone, Anne-Marie Rachman, Peter Berg, Yvonne Lockwood, and Val Berryman</dcContributor>
+<dcDate>1895</dcDate>
+<dcType>Text</dcType>
+<dcFormat>xml-external-parsed-entity</dcFormat>
+<dcFormat>jpeg</dcFormat>
+<dcFormat>quicktime</dcFormat>
+<dcIdentifier>http://digital.lib.msu.edu/cookbooks/swedishenglish/swed.xml</dcIdentifier>
+<dcSource>OCLC 6495832</dcSource><dcLanguage>en</dcLanguage>
+<dcRelation>Digitized as part of "Feeding America: The Historic American Cookbook Project." Michigan State University Libraries, East Lansing, Michigan, 2002-2003. http://digital.lib.msu.edu/cookbooks/</dcRelation><dcCoverage>United States</dcCoverage><dcCoverage>Nineteenth century</dcCoverage><dcRights>The book digitized here was published in the United States before 1923 and is in the public domain according to U.S. copyright law. The digital version and supplementary materials are made available for all educational uses.</dcRights>
 </meta>
 <front>
 <div type="frontcover"><pb n="front cover" id="/projects/cookbooks/coldfusion/display.cfm?ID=swed&#38;PageNum=1"/><hd align="center" rend="bold" size="larger">SVENSK-AMERIKANSK KOKBOK.</hd><hd align="center" rend="bold" size="larger">SWEDISH-ENGLISH COOKBOOK.</hd><hd align="center" rend="bold">MED FEMTIO ILLUSTRATIONER.</hd><hd align="center" rend="bold">WITH FIFTY ILLUSTRATIONS.</hd><hd align="center">CHICAGO:</hd><hd align="center">THE ENGBERG-HOLMBERG PUBLISHING CO.</hd><hd align="center" size="smaller">1895</hd><hd align="center" size="smaller">COPYRIGHTED</hd><hd align="center">Pris: Kart 1.25 Klothb. 1.50</hd></div>

@@ -3,7 +3,7 @@
 <?xml-stylesheet type="text/xsl" href="../cookbooks.xsl"?>
 <cookbook type="frugal" class1="foodandnonfood" region="northeast" bookID="1815econ">
 <meta>
-<dcTitle>The New England Economical Housekeeper.</dcTitle>
+<!-- <dcTitle>The New England Economical Housekeeper.</dcTitle> -->
 <dcTitle>The American Economical Housekeeper, and Family Receipt Book.</dcTitle>
 <dcCreator>Howland, Esther Allen</dcCreator>
 <dcSubject>Cookery, American -- New England style. Recipes.</dcSubject>

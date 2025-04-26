@@ -2,8 +2,30 @@
 <?xml-stylesheet type="text/xsl"
 href="/projects/cookbooks/xmlbook.xsl"?>
 <cookbook type="famous" class1="foodandnonfood" region="northeast" bookID="1896bost" chefschool="Boston Cooking School, Fannie Merritt Farmer">
+<!-- <meta>
+</meta> -->
+
 <meta>
+    <dcTitle>The Boston Cooking-School Cook Book</dcTitle>
+    <dcCreator>Fannie Merritt Farmer</dcCreator>
+    <dcSubject>Cookery, America.</dcSubject>
+    <!-- <dcDescription>Preface. Food and its correct proportions. Cookery methods. Beverages. Bread and bread making. Biscuits, breakfast cakes, and shortcakes. Cereals. Eggs. Soups. Fish. Beef. Lamb and mutton. Veal. Sweetbreads. Pork. Includes detailed instructions, scientific principles of cooking, and recipes for a wide variety of dishes.</dcDescription> -->
+    <dcPublisher>Boston: Little, Brown, and Company</dcPublisher>
+    <dcContributor>Electronic edition created by Digital &amp; Multimedia Center, Michigan State University Libraries, East Lansing, Michigan, 2002-2003.</dcContributor>
+    <dcDate>1896</dcDate>
+    <!-- <dcType>Text</dcType> -->
+    <!-- <dcFormat>xml-external-parsed-entity</dcFormat> -->
+    <!-- <dcFormat>jpeg</dcFormat> -->
+    <!-- <dcFormat>quicktime</dcFormat> -->
+    <dcIdentifier>http://digital.lib.msu.edu/cookbooks/bost.xml</dcIdentifier>
+    <dcSource>OCLC 30905882</dcSource>
+    <dcLanguage>en</dcLanguage>
+    <dcRelation>Digitized as part of "Feeding America: The Historic American Cookbook Project." Michigan State University Libraries, East Lansing, Michigan, 2002-2003. http://digital.lib.msu.edu/cookbooks/</dcRelation>
+    <!-- <dcCoverage>United States</dcCoverage> -->
+    <!-- <dcCoverage>Nineteenth century</dcCoverage> -->
+    <dcRights>The book digitized here was published in the United States before 1923 and is in the public domain according to U.S. copyright law. The digital version and supplementary materials are made available for all educational uses.</dcRights>
 </meta>
+
 <front>
 <div type="frontcover"> 
  

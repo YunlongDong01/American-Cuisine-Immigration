@@ -2,20 +2,36 @@ import os
 from lxml import etree
 import json
 
-def parse_recipe(recipe_element):
+def parse_recipe(recipe_element, book_id, cookbook_title):
     """解析单个食谱元素，提取关键信息"""
     data = {
         "name": "",
         "class1": recipe_element.get("class1", ""),
+        "class2": recipe_element.get("class2", ""),  # 如果有 class2，记得提取
         "ethnic_group": recipe_element.get("ethnicgroup", ""),
+        "region": recipe_element.get("region", ""),  # 如果有 region，记得提取
         "ingredients": [],
-        "implements": []
+        "implements": [],
+        "book_id": book_id,  # 传递 book_id
+        "cookbook_title": cookbook_title  # 传递 cookbook_title
     }
     
-    # 提取菜名（从purpose元素）
+    # 提取菜名（从purpose元素），将其中的ingredient一并加入
     purpose = recipe_element.find(".//purpose")
-    if purpose is not None and purpose.text:
-        data["name"] = purpose.text.strip()
+    if purpose is not None:
+        name_parts = []
+        
+        # 遍历purpose元素中的所有子元素（包括文本和ingredient）
+        for elem in purpose.iter():
+            if elem.tag == "ingredient" and elem.text:
+                name_parts.append(elem.text.strip())
+            elif elem.tag == "purpose":
+                # 将<purpose>标签内的文本加入菜名
+                if elem.text:
+                    name_parts.append(elem.text.strip())
+        
+        # 拼接成完整的菜名
+        data["name"] = " ".join(name_parts).strip()
     
     # 提取所有食材（去重）
     ingredients = set()
@@ -33,6 +49,7 @@ def parse_recipe(recipe_element):
     
     return data
 
+
 def parse_cookbook(xml_path):
     """解析整个食谱XML文件"""
     try:
@@ -48,14 +65,18 @@ def parse_cookbook(xml_path):
         "book_id": tree.getroot().get("bookID", "")
     }
     
-    # 提取标题（从dcTitle或front部分）
+    # 提取标题（从dcTitle或doctitle部分）
     title_elem = tree.find(".//dcTitle")
     if title_elem is not None and title_elem.text:
         metadata["title"] = title_elem.text.strip()
     else:
-        front_title = tree.find(".//front//p[@rend='ornate']")
-        if front_title is not None and front_title.text:
-            metadata["title"] = front_title.text.strip()
+        doctitle_elem = tree.find(".//doctitle")
+        if doctitle_elem is not None and doctitle_elem.text:
+            metadata["title"] = doctitle_elem.text.strip()
+    
+    # 如果没有找到标题，打印文件名
+    if not metadata["title"]:
+        print(f"Warning: No title found in file: {xml_path}")
     
     # 提取作者（从dcCreator或docauthor）
     author_elem = tree.find(".//dcCreator")
@@ -69,7 +90,7 @@ def parse_cookbook(xml_path):
     # 提取所有食谱
     recipes = []
     for recipe_elem in tree.xpath("//recipe"):
-        recipe_data = parse_recipe(recipe_elem)
+        recipe_data = parse_recipe(recipe_elem, metadata["book_id"], metadata["title"])
         if recipe_data["name"]:  # 只保留有名称的食谱
             recipes.append(recipe_data)
     
@@ -80,8 +101,14 @@ def parse_cookbook(xml_path):
 
 def save_results(data, original_path):
     """保存提取结果到JSON文件"""
-    base_name = os.path.splitext(original_path)[0]
-    output_path = f"single_cookbook_extracted/{base_name}_extracted.json"
+    base_name = os.path.splitext(os.path.basename(original_path))[0]  # 提取文件名，不包含路径
+    output_dir = "single_cookbook_extractions"
+    
+    # 确保保存文件的目录存在
+    os.makedirs(output_dir, exist_ok=True)
+    
+    # 保持 .json 扩展名，保存为JSON
+    output_path = f"{output_dir}/{base_name}_extracted.json"
     
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=2, ensure_ascii=False)

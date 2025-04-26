@@ -2,7 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="../cookbooks.xsl"?>
 <cookbook type="encyclopedia" class1="foodandnonfood" region="general" bookID="1911ency">
 <meta>
-<dcTitle>The Grocer's Encyclopedia...(Alternate title on front cover and half title page: Encyclopedia of Foods and Beverages)</dcTitle>
+<!-- <dcTitle>The Grocer's Encyclopedia...(Alternate title on front cover and half title page: Encyclopedia of Foods and Beverages)</dcTitle> -->
+<dcTitle>The Grocer's Encyclopedia</dcTitle>
 <dcCreator>Ward, Artemas</dcCreator>
 <dcSubject>Groceries. Food -- Dictionaries.</dcSubject>
 <dcDescription>Complete title: The Grocer's Encyclopedia A Compendium of Useful Information Concerning Foods of All Kinds. How they are Raised, Prepared and Marketed. How to Care for them in the Store and Home. How Best to Use and Enjoy them--and Other Valuable Information for Grocers and General Storekeepers</dcDescription>
