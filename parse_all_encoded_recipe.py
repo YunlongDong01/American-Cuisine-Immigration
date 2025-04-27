@@ -34,9 +34,7 @@ def process_single_file(xml_path):
             else:
                 formatted_author = raw_author
             authors.append(formatted_author)
-        # author = "; ".join(authors)  # 使用分号分隔多个作者
         
-        # 提取元数据
         publisher = root.findtext(".//dcPublisher", "").strip()
         subregion = root.get("subregion", "").strip()
         publishregion = ""
@@ -70,8 +68,9 @@ def process_single_file(xml_path):
                     publishregion = "; ".join(publishregion.split(" and "))
 
         metadata = {
-            "fileid": file_id,
-            "bookid": bookid,
+            # "fileid": file_id,
+            "book_id": file_id,
+            # "bookid": bookid,
             "title": (root.findtext(".//dcTitle", "").strip() or root.findtext(".//doctitle", "").strip()).replace(".", ""),
             "subject": [
                 subject.strip().replace(" ", "") for subject in re.split(r'[;.]', 
@@ -95,23 +94,12 @@ def process_single_file(xml_path):
         # 提取所有食谱
         recipes = []
         for recipe_elem in root.xpath("//recipe"):
-            recipe_data = parse_recipe(recipe_elem, file_id, metadata["title"])
+            # recipe_data = parse_recipe(recipe_elem, file_id, metadata["title"])
+            recipe_data = parse_recipe(recipe_elem, file_id)
+            # 替换旧方法的id
             if recipe_data["name"]:
-                # 提取更完整的食谱内容
                 recipe_data.update({
-                    "id": file_id,  # 在每个食谱中添加文件名作为标识符
-                    "ingredients": [
-                        ingredient.text.strip() for ingredient in recipe_elem.xpath(".//ingredient") if ingredient.text
-                    ],
-                    "process": [
-                        process.text.strip() for process in recipe_elem.xpath(".//process") if process.text
-                    ],
-                    "implements": [
-                        implement.text.strip() for implement in recipe_elem.xpath(".//implement") if implement.text
-                    ],
-                    "variations": [
-                        variation.text.strip() for variation in recipe_elem.xpath(".//variation") if variation.text
-                    ],
+                    "book_id": file_id,  # 在每个食谱中添加文件名作为标识符
                 })
                 recipes.append(recipe_data)
 
@@ -125,7 +113,7 @@ def process_single_file(xml_path):
         return None
 
 
-def batch_process_xml(input_dir, metadata_output="cookbooks_extracted_metadata.json", recipes_output="cookbooks_extracted_recipes.json"):
+def batch_process_xml(input_dir, process_type="both", metadata_output="cookbooks_extracted_metadata.json", recipes_output="cookbooks_extracted_recipes.json"):
     """批量处理目录中的所有 XML 文件"""
     metadata_list = []
     recipes_list = []
@@ -144,26 +132,31 @@ def batch_process_xml(input_dir, metadata_output="cookbooks_extracted_metadata.j
     # 合并结果
     for result in results:
         if result:
-            metadata_list.append(result["metadata"])
-            recipes_list.extend(result["recipes"])
+            if process_type in ["both", "metadata"]:
+                metadata_list.append(result["metadata"])
+            if process_type in ["both", "recipes"]:
+                recipes_list.extend(result["recipes"])
 
-    # 保存元数据
-    with open(metadata_output, "w", encoding="utf-8") as f:
-        json.dump(metadata_list, f, indent=2, ensure_ascii=False)
+    # 根据 process_type 保存数据
+    if process_type in ["both", "metadata"]:
+        with open(metadata_output, "w", encoding="utf-8") as f:
+            json.dump(metadata_list, f, indent=2, ensure_ascii=False)
+        print(f"Metadata saved to {metadata_output}")
 
-    # 保存食谱数据
-    with open(recipes_output, "w", encoding="utf-8") as f:
-        json.dump(recipes_list, f, indent=2, ensure_ascii=False)
+    if process_type in ["both", "recipes"]:
+        with open(recipes_output, "w", encoding="utf-8") as f:
+            json.dump(recipes_list, f, indent=2, ensure_ascii=False)
+        print(f"Recipes saved to {recipes_output}")
 
     print(f"\nProcessing completed.")
-    print(f"Metadata saved to {metadata_output}")
-    print(f"Recipes saved to {recipes_output}")
-    print(f"Total books: {len(metadata_list)}")
-    print(f"Total recipes: {len(recipes_list)}")
+    if process_type in ["both", "metadata"]:
+        print(f"Total metadata: {len(metadata_list)}")
+    if process_type in ["both", "recipes"]:
+        print(f"Total recipes: {len(recipes_list)}")
     return metadata_list, recipes_list
-
 
 # 使用示例
 if __name__ == "__main__":
     input_directory = "cookbook_textencoded"
-    batch_process_xml(input_directory)
+    # 修改为只处理 metadata 或 recipes，或者同时处理
+    batch_process_xml(input_directory, process_type="both")

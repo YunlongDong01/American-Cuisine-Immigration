@@ -1,7 +1,6 @@
 [
   {
-    "fileid": "amwh",
-    "bookid": "1869amwh",
+    "book_id": "amwh",
     "title": "The American Woman's Home: or, Principles of Domestic Science; being a Guide to the Formation and Maintenance of Economical, Healthful, Beautiful, and Christian Homes",
     "subject": [
       "Womencooks",
@@ -23,8 +22,7 @@
     "class2": ""
   },
   {
-    "fileid": "army",
-    "bookid": "1896army",
+    "book_id": "army",
     "title": "Manual For Army Cooks",
     "subject": [
       "Cookery,Military",
@@ -45,8 +43,7 @@
     "class2": ""
   },
   {
-    "fileid": "aunt",
-    "bookid": "1889aunt",
+    "book_id": "aunt",
     "title": "\"Aunt Babette's\" Cook Book Foreign and Domestic Receipts for the Household A valuable collection of receipts and hints for the housewife, many of which are not to be found elsewhere",
     "subject": [
       "Cookery,Jewish",
@@ -67,8 +64,7 @@
     "class2": ""
   },
   {
-    "fileid": "bart",
-    "bookid": "1917bart",
+    "book_id": "bart",
     "title": "The Ideal Bartender",
     "subject": [
       "Cookery,AfricanAmerican",
@@ -89,11 +85,10 @@
     "class2": ""
   },
   {
-    "fileid": "beec",
-    "bookid": "1850beec",
+    "book_id": "beec",
     "title": "Miss Beecher's Domestic Receipt Book: Designed as a Supplement to Her Treatise on Domestic Economy",
     "subject": [
-      "Cooking,American"
+      "Cookery,American"
     ],
     "author": [
       "Catharine Esther Beecher"
@@ -110,8 +105,7 @@
     "class2": ""
   },
   {
-    "fileid": "blue",
-    "bookid": "1904blue",
+    "book_id": "blue",
     "title": "The Blue Grass Cook Book",
     "subject": [
       "Cookery,American--Southernstyle",
@@ -132,11 +126,10 @@
     "class2": ""
   },
   {
-    "fileid": "bost",
-    "bookid": "1896bost",
+    "book_id": "bost",
     "title": "The Boston Cooking-School Cook Book",
     "subject": [
-      "Cookery,America"
+      "Cookery,American"
     ],
     "author": [
       "Fannie Merritt Farmer"
@@ -153,8 +146,7 @@
     "class2": ""
   },
   {
-    "fileid": "brkf",
-    "bookid": "brkf1875",
+    "book_id": "brkf",
     "title": "Breakfast, Luncheon and Tea",
     "subject": [
       "Cookery,American"
@@ -174,8 +166,7 @@
     "class2": ""
   },
   {
-    "fileid": "buck",
-    "bookid": "1877buck",
+    "book_id": "buck",
     "title": "Buckeye cookery, and practical housekeeping : compiled from original recipes",
     "subject": [
       "Cookery,American--Midwesternstyle",
@@ -196,8 +187,7 @@
     "class2": ""
   },
   {
-    "fileid": "cclu",
-    "bookid": "1903cclu",
+    "book_id": "cclu",
     "title": "Cooking in old Créole days La cuisine créole à l'usage des petits ménages",
     "subject": [
       "Cookery,Creole",
@@ -220,8 +210,7 @@
     "class2": ""
   },
   {
-    "fileid": "chas",
-    "bookid": "1864chas",
+    "book_id": "chas",
     "title": "Dr Chase's Recipes; or, Information for Everybody",
     "subject": [
       "Recipes",
@@ -243,8 +232,7 @@
     "class2": ""
   },
   {
-    "fileid": "chin",
-    "bookid": "1914chin",
+    "book_id": "chin",
     "title": "Chinese-Japanese Cook Book",
     "subject": [
       "Cookery,Chinese",
@@ -268,8 +256,7 @@
     "class2": ""
   },
   {
-    "fileid": "choc",
-    "bookid": "1909choc",
+    "book_id": "choc",
     "title": "Chocolate and Cocoa Recipes by Miss Parloa and Home Made Candy Recipes by Mrs Janet McKenzie Hill",
     "subject": [
       "Chocolate",
@@ -292,8 +279,7 @@
     "class2": "generalfood"
   },
   {
-    "fileid": "comm",
-    "bookid": "1873comm",
+    "book_id": "comm",
     "title": "Common Sense in The Household : A Manual of Practical Housewifery",
     "subject": [
       "Cookery,American"
@@ -313,13 +299,12 @@
     "class2": ""
   },
   {
-    "fileid": "conf",
-    "bookid": "1864conf",
+    "book_id": "conf",
     "title": "The Complete Confectioner, Pastry-Cook, and Baker",
     "subject": [
       "Confectionery",
       "Cookery,American",
-      "Cooking,English"
+      "Cookery,English"
     ],
     "author": [
       "Parkinson"
@@ -336,8 +321,7 @@
     "class2": ""
   },
   {
-    "fileid": "coow",
-    "bookid": "1832coow",
+    "book_id": "coow",
     "title": "The Cook's Own Book",
     "subject": [
       "Cookery,American"
@@ -357,8 +341,7 @@
     "class2": ""
   },
   {
-    "fileid": "creo",
-    "bookid": "1885creo",
+    "book_id": "creo",
     "title": "La Cuisine Creole",
     "subject": [
       "Cookery,Creole",
@@ -381,8 +364,7 @@
     "class2": ""
   },
   {
-    "fileid": "dcvb",
-    "bookid": "1840dcvb",
+    "book_id": "dcvb",
     "title": "Directions for Cookery, in its Various Branches",
     "subject": [
       "Cookery,American"
@@ -402,8 +384,7 @@
     "class2": ""
   },
   {
-    "fileid": "dish",
-    "bookid": "1913dish",
+    "book_id": "dish",
     "title": "Dishes & Beverages of the Old South",
     "subject": [
       "Cookery,American--Southernstyle",
@@ -424,13 +405,12 @@
     "class2": ""
   },
   {
-    "fileid": "dome",
-    "bookid": "1869dome",
+    "book_id": "dome",
     "title": "Domestic Cookery, Useful Receipts, and Hints to Young Housekeepers",
     "subject": [
       "Cookery,American",
       "Recipes",
-      "Formulas",
+      "Formula",
       "Quakercooking"
     ],
     "author": [
@@ -448,8 +428,7 @@
     "class2": ""
   },
   {
-    "fileid": "econ",
-    "bookid": "1815econ",
+    "book_id": "econ",
     "title": "The American Economical Housekeeper, and Family Receipt Book",
     "subject": [
       "Cookery,American--NewEnglandstyle",
@@ -470,8 +449,7 @@
     "class2": ""
   },
   {
-    "fileid": "ency",
-    "bookid": "1911ency",
+    "book_id": "ency",
     "title": "The Grocer's Encyclopedia",
     "subject": [
       "Groceries",
@@ -492,8 +470,7 @@
     "class2": ""
   },
   {
-    "fileid": "engl",
-    "bookid": "1808engl",
+    "book_id": "engl",
     "title": "The New-England Cookery, or the art of dressing all kinds of flesh, fish, and vegetables,",
     "subject": [
       "Cookery,American--NewEnglandStyle",
@@ -514,8 +491,7 @@
     "class2": ""
   },
   {
-    "fileid": "epia",
-    "bookid": "1894epic",
+    "book_id": "epia",
     "title": "The Epicurean",
     "subject": [
       "Cookery,American",
@@ -537,8 +513,7 @@
     "class2": ""
   },
   {
-    "fileid": "epib",
-    "bookid": "1894,epic2",
+    "book_id": "epib",
     "title": "The Epicurean A Complete Treatise of Analytical and Practical Studies on The Culinary Art, Including",
     "subject": [
       "Cookery,American",
@@ -560,8 +535,7 @@
     "class2": ""
   },
   {
-    "fileid": "favd",
-    "bookid": "1893favd",
+    "book_id": "favd",
     "title": "Favorite dishes",
     "subject": [
       "Cookery,American"
@@ -582,8 +556,7 @@
     "class2": ""
   },
   {
-    "fileid": "fcsc",
-    "bookid": "1904fcsc",
+    "book_id": "fcsc",
     "title": "Food and cookery for the sick and convalescent",
     "subject": [
       "Cookeryforthesick"
@@ -603,8 +576,7 @@
     "class2": ""
   },
   {
-    "fileid": "fish",
-    "bookid": "1881fish",
+    "book_id": "fish",
     "title": "What Mrs Fisher Knows about Old Southern Cooking, Soups, Pickles, Preserves, etc",
     "subject": [
       "Cookery,American--SouthernStyle",
@@ -626,8 +598,7 @@
     "class2": ""
   },
   {
-    "fileid": "fofb",
-    "bookid": "1922fofb",
+    "book_id": "fofb",
     "title": "Foods of the Foreign-Born In Relation to Health",
     "subject": [
       "Food",
@@ -654,8 +625,7 @@
     "class2": "generalfood"
   },
   {
-    "fileid": "fran",
-    "bookid": "1893fran",
+    "book_id": "fran",
     "title": "La Cuisine Française French Cooking for Every Home Adapted to American Requirements",
     "subject": [
       "Cookery,French"
@@ -675,8 +645,7 @@
     "class2": ""
   },
   {
-    "fileid": "frca",
-    "bookid": "1803frca",
+    "book_id": "frca",
     "title": "The Frugal Housewife, or Complete Woman Cook;Also The Making of English Wines",
     "subject": [
       "Cookery",
@@ -697,8 +666,7 @@
     "class2": ""
   },
   {
-    "fileid": "frch",
-    "bookid": "1830frch",
+    "book_id": "frch",
     "title": "The Frugal Housewife",
     "subject": [
       "Homeeconomics",
@@ -719,8 +687,7 @@
     "class2": ""
   },
   {
-    "fileid": "gohk",
-    "bookid": "1839gohk",
+    "book_id": "gohk",
     "title": "The Good Housekeeper, Or The Way To Live Well And To Be Well While We Live",
     "subject": [
       "Cookery,American"
@@ -740,8 +707,7 @@
     "class2": ""
   },
   {
-    "fileid": "good",
-    "bookid": "1909good",
+    "book_id": "good",
     "title": "The good housekeeping woman's home cook book",
     "subject": [
       "Cookery,American",
@@ -762,8 +728,7 @@
     "class2": ""
   },
   {
-    "fileid": "grea",
-    "bookid": "1857grea",
+    "book_id": "grea",
     "title": "The Great Western Cook Book, or Table Receipts, Adapted to Western Housewifery",
     "subject": [
       "Cookery,American"
@@ -783,8 +748,7 @@
     "class2": ""
   },
   {
-    "fileid": "gtte",
-    "bookid": "1911gtte",
+    "book_id": "gtte",
     "title": "Good Things to Eat, As Suggested By Rufus",
     "subject": [
       "Cookery,American",
@@ -805,8 +769,7 @@
     "class2": ""
   },
   {
-    "fileid": "hand",
-    "bookid": "c1868",
+    "book_id": "hand",
     "title": "Hand-Book of Practical Cookery, for Ladies and Professional Cooks Containing The Whole Science and Art of Preparing Human Food",
     "subject": [
       "Cookery,French"
@@ -826,8 +789,7 @@
     "class2": ""
   },
   {
-    "fileid": "henr",
-    "bookid": "1897henr",
+    "book_id": "henr",
     "title": "Henriette Davidis' Practical Cook Book Compiled For The United States From The Thirty-Fifth German Edition",
     "subject": [
       "Cookery",
@@ -849,12 +811,11 @@
     "class2": ""
   },
   {
-    "fileid": "hosf",
-    "bookid": "1919hosf",
+    "book_id": "hosf",
     "title": "The Hotel St Francis Cook Book",
     "subject": [
       "Cookery",
-      "Menu",
+      "Menus",
       "Cookery,American--Westernstyle"
     ],
     "author": [
@@ -872,8 +833,7 @@
     "class2": ""
   },
   {
-    "fileid": "hote",
-    "bookid": "1848hote",
+    "book_id": "hote",
     "title": "Hotel Keepers, Head Waiters, and Housekeepers' Guide",
     "subject": [
       "Waiters",
@@ -895,8 +855,7 @@
     "class2": ""
   },
   {
-    "fileid": "hous",
-    "bookid": "1827hous",
+    "book_id": "hous",
     "title": "The House Servant's Directory",
     "subject": [
       "Cookery",
@@ -918,8 +877,7 @@
     "class2": ""
   },
   {
-    "fileid": "ital",
-    "bookid": "1919ital",
+    "book_id": "ital",
     "title": "The Italian Cook Book: The Art of Eating Well",
     "subject": [
       "Cookery,Italian",
@@ -940,8 +898,7 @@
     "class2": ""
   },
   {
-    "fileid": "jenn",
-    "bookid": "c1866,c1870jenn",
+    "book_id": "jenn",
     "title": "Jennie June's American Cookery Book",
     "subject": [
       "Cookery,Jewish",
@@ -962,8 +919,7 @@
     "class2": ""
   },
   {
-    "fileid": "jewi",
-    "bookid": "1919,c1918jewi",
+    "book_id": "jewi",
     "title": "The International Jewish Cook Book",
     "subject": [
       "Cookery,Jewish"
@@ -983,8 +939,7 @@
     "class2": ""
   },
   {
-    "fileid": "lady",
-    "bookid": "c1846,c1847lady",
+    "book_id": "lady",
     "title": "The Lady's Receipt-Book; a Useful Companion for Large or Small Families",
     "subject": [
       "Cookery,American"
@@ -1004,8 +959,7 @@
     "class2": ""
   },
   {
-    "fileid": "ldnw",
-    "bookid": "1852ldnw",
+    "book_id": "ldnw",
     "title": "The ladies' new book of cookery : a practical system for private families in town and country; with directions for carving, and arranging the table for parties, etc Also, preparations of food for invalids and for children",
     "subject": [
       "Cookery,American"
@@ -1025,8 +979,7 @@
     "class2": ""
   },
   {
-    "fileid": "linc",
-    "bookid": "1884linc",
+    "book_id": "linc",
     "title": "Mrs Lincoln's Boston Cook Book What to Do and What Not to Do in Cooking",
     "subject": [
       "Cookery,American",
@@ -1047,8 +1000,7 @@
     "class2": ""
   },
   {
-    "fileid": "mara",
-    "bookid": "1867mara",
+    "book_id": "mara",
     "title": "The Market Assistant",
     "subject": [
       "Food"
@@ -1068,8 +1020,7 @@
     "class2": ""
   },
   {
-    "fileid": "mary",
-    "bookid": "1912mary",
+    "book_id": "mary",
     "title": "The Mary Frances Cook Book or Adventures among the Kitchen People",
     "subject": [
       "Cookery--Juvenileliterature",
@@ -1090,8 +1041,7 @@
     "class2": ""
   },
   {
-    "fileid": "matf",
-    "bookid": "1915matf",
+    "book_id": "matf",
     "title": "Mary at the Farm and Book of Recipes",
     "subject": [
       "Cookery",
@@ -1115,8 +1065,7 @@
     "class2": ""
   },
   {
-    "fileid": "miss",
-    "bookid": "missparloa",
+    "book_id": "miss",
     "title": "Miss Parloa's New Cook Book and Marketing Guide",
     "subject": [
       "Cookery,American"
@@ -1136,8 +1085,7 @@
     "class2": ""
   },
   {
-    "fileid": "neig",
-    "bookid": "1914neig",
+    "book_id": "neig",
     "title": "The Neighborhood Cook Book",
     "subject": [
       "Cookery,American",
@@ -1159,8 +1107,7 @@
     "class2": ""
   },
   {
-    "fileid": "notm",
-    "bookid": "1831notm",
+    "book_id": "notm",
     "title": "The Cook Not Mad, or Rational Cookerytogether with sundry Miscellaneous kinds of information, of importance to housekeepers in general, nearly all tested by experience",
     "subject": [
       "Cookery,American"
@@ -1180,8 +1127,7 @@
     "class2": ""
   },
   {
-    "fileid": "oldv",
-    "bookid": "1877oldv",
+    "book_id": "oldv",
     "title": "Housekeeping in Old Virginia/ Containing Contributions from Two Hundred and Fifty Ladies in Virginia and Her Sister States",
     "subject": [
       "Cookery,American",
@@ -1203,8 +1149,7 @@
     "class2": ""
   },
   {
-    "fileid": "orie",
-    "bookid": "1913orie",
+    "book_id": "orie",
     "title": "The Oriental Cook Book",
     "subject": [
       "Cookery,Asian"
@@ -1224,8 +1169,7 @@
     "class2": ""
   },
   {
-    "fileid": "pach",
-    "bookid": "1886pach",
+    "book_id": "pach",
     "title": "Miss Corson's Practical American Cookery and Household Management",
     "subject": [
       "Cookery"
@@ -1245,8 +1189,7 @@
     "class2": "household"
   },
   {
-    "fileid": "pcdg",
-    "bookid": "1876pcdg",
+    "book_id": "pcdg",
     "title": "Practical Cooking and Dinner Giving A\nTreatise Containing Practical Instructions in Cooking; in the Combination and\nServing of Dishes; and in the Fashionable Modes of Entertaining at Breakfast,\nLunch, and Dinner",
     "subject": [
       "Cookery,\nAmerican"
@@ -1266,8 +1209,7 @@
     "class2": ""
   },
   {
-    "fileid": "prac",
-    "bookid": "1890prac",
+    "book_id": "prac",
     "title": "Practical Sanitary and Economic Cooking, Adapted to Persons of Moderate and Small Means",
     "subject": [
       "Cookery,American",
@@ -1288,13 +1230,11 @@
     "class2": ""
   },
   {
-    "fileid": "pres",
-    "bookid": "1873pres",
+    "book_id": "pres",
     "title": "Presbyterian Cookbook",
     "subject": [
       "Cookery,American",
-      "Cookery,Ohio",
-      "CommunityCookbook,Ohio,\nDayton"
+      "Cookery,Ohio"
     ],
     "author": [
       "Dayton The Ladies of the First Presbyterian Church"
@@ -1311,12 +1251,11 @@
     "class2": ""
   },
   {
-    "fileid": "prho",
-    "bookid": "1857prho",
+    "book_id": "prho",
     "title": "The Practical Housekeeper; A Cyclopedia of Domestic Economy ",
     "subject": [
       "HomeEconomics",
-      "CookeryAmerican"
+      "Cookery,American"
     ],
     "author": [
       "E. F. (Elizabeth Fries) Ellet"
@@ -1333,8 +1272,7 @@
     "class2": ""
   },
   {
-    "fileid": "rore",
-    "bookid": "1902rore",
+    "book_id": "rore",
     "title": "Mrs Rorer's New Cook Book",
     "subject": [
       "Cookery,American"
@@ -1354,8 +1292,7 @@
     "class2": ""
   },
   {
-    "fileid": "sauc",
-    "bookid": "1902sauc",
+    "book_id": "sauc",
     "title": "With A Saucepan Over the Sea",
     "subject": [
       "Cookery"
@@ -1375,8 +1312,7 @@
     "class2": ""
   },
   {
-    "fileid": "scie",
-    "bookid": "1893,c1892scie",
+    "book_id": "scie",
     "title": "Science in the Kitchen",
     "subject": [
       "Cookery",
@@ -1398,8 +1334,7 @@
     "class2": ""
   },
   {
-    "fileid": "sett",
-    "bookid": "sett",
+    "book_id": "sett",
     "title": "The \"Settlement\" Cook Book",
     "subject": [
       "Cookery,American",
@@ -1420,8 +1355,7 @@
     "class2": ""
   },
   {
-    "fileid": "sevf",
-    "bookid": "1832sevf",
+    "book_id": "sevf",
     "title": "Seventy-Five Receipts for Pastry, Cakes, and Sweetmeats",
     "subject": [
       "Cookery,American"
@@ -1441,8 +1375,7 @@
     "class2": ""
   },
   {
-    "fileid": "swed",
-    "bookid": "swed1895",
+    "book_id": "swed",
     "title": "Svensk-Amerikansk Kokbok Swedish-English Cookbook",
     "subject": [
       "Cookery,Swedish"
@@ -1462,8 +1395,7 @@
     "class2": ""
   },
   {
-    "fileid": "syst",
-    "bookid": "1807syst",
+    "book_id": "syst",
     "title": "A New System of Domestic Cookery",
     "subject": [
       "Cookery,American",
@@ -1484,8 +1416,7 @@
     "class2": ""
   },
   {
-    "fileid": "time",
-    "bookid": "1905time",
+    "book_id": "time",
     "title": "The Times Cook Book - No 2",
     "subject": [
       "Cookery,Mexican",
@@ -1510,8 +1441,7 @@
     "class2": ""
   },
   {
-    "fileid": "virg",
-    "bookid": "1838virg",
+    "book_id": "virg",
     "title": "The Virginia Housewife: Or, Methodical Cook",
     "subject": [
       "Cookery,Virginia",
@@ -1533,8 +1463,7 @@
     "class2": ""
   },
   {
-    "fileid": "wash",
-    "bookid": "1909wash",
+    "book_id": "wash",
     "title": "Washington Women's Cook Book",
     "subject": [
       "Cookery,Washington",
@@ -1555,8 +1484,7 @@
     "class2": ""
   },
   {
-    "fileid": "whit",
-    "bookid": "1887whit",
+    "book_id": "whit",
     "title": "White House cook book",
     "subject": [
       "Cookery,American"
@@ -1577,8 +1505,7 @@
     "class2": ""
   },
   {
-    "fileid": "wosu",
-    "bookid": "1886wosu",
+    "book_id": "wosu",
     "title": "The Woman Suffrage Cook Book, Containing Thoroughly Tested and Reliable Recipes for Cooking, Directions for the Care of the Sick, and Practical Suggestions, Contributed Especially for This Work",
     "subject": [
       "Cookery,American",
@@ -1599,8 +1526,7 @@
     "class2": ""
   },
   {
-    "fileid": "youn",
-    "bookid": "younghousekeeper",
+    "book_id": "youn",
     "title": "The Young House-Keeper; or Thoughts on Foods and Cookery",
     "subject": [
       "Cookery,American",
@@ -1621,8 +1547,7 @@
     "class2": ""
   },
   {
-    "fileid": "zuni",
-    "bookid": "1920zuni",
+    "book_id": "zuni",
     "title": "Zuñi Breadstuff",
     "subject": [
       "Cookery,Indian",
