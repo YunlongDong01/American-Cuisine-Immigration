@@ -1,6 +1,9 @@
-import os
-from lxml import etree
-import json
+import nltk
+from nltk.stem import WordNetLemmatizer
+
+# # 下载 WordNet 数据
+# nltk.download('wordnet')
+# nltk.download('omw-1.4')
 
 def normalize_ingredient(ingredient, stop_words=None):
     """
@@ -11,7 +14,7 @@ def normalize_ingredient(ingredient, stop_words=None):
         stop_words = {"boiling", "cold", "hot", "fresh", "raw", "dried", "chopped", "sliced", "minced", "roasted",
                       "grated", "ground", "finely", "coarsely", "thinly", "thickly", "whole", "large", "small",
                       "medium", "sweet", "sour", "spicy", "bitter", "savory", "tender", "crisp", "soft",
-                      "hard", "ripe", "unripe"} 
+                      "hard", "ripe", "unripe"}
 
     # 转小写并去掉前后空格
     ingredient = ingredient.lower().strip()
@@ -21,13 +24,12 @@ def normalize_ingredient(ingredient, stop_words=None):
     filtered_words = [word for word in words if word not in stop_words]
     ingredient = " ".join(filtered_words)
 
-    # 去掉复数形式
-    if ingredient.endswith('es') and len(ingredient) > 5:
-        ingredient = ingredient[:-2]
-    elif ingredient.endswith('s') and len(ingredient) > 1:
-        ingredient = ingredient[:-1]
+    # 使用 WordNetLemmatizer 去除复数形式
+    lemmatizer = WordNetLemmatizer()
+    lemmatized_ingredient = ' '.join([lemmatizer.lemmatize(word, pos='n') for word in ingredient.split()])
 
-    return ingredient
+    return lemmatized_ingredient
+
 
 def parse_recipe(recipe_element, book_id):
 # def parse_recipe(recipe_element, book_id, cookbook_title):
